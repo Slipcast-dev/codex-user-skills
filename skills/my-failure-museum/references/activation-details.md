@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Turn a mistake into a reusable lesson — a short, unsentimental 'here's what happened and the rule so it doesn't happen again' entry you can actually keep. Use when asked help me learn from this mistake, I keep making the same error, capture this lesson, or turn this failure into something useful. Produces an honest, blame-free autopsy of what happened, the real root cause (not the surface one), the specific rule or trigger that prevents a repeat, and a one-line entry for your growing 'failure museum' — because unexamined mistakes repeat and examined ones compound into wisdom.

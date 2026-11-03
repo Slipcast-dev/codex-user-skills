@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Write a product listing for an overseas marketplace or store, localised for the buyer rather than translated from Chinese: title, bullet points, description, search terms and the compliance claims that must or must not appear. Use when asked 帮我写亚马逊 listing, 跨境电商标题, write a product listing for Amazon, TikTok Shop, Shopee, Lazada, Etsy or Shopify, or localise my listing for the US, UK, Germany or Japan. Produces the listing in the target language within the platform's field limits, a keyword map, a compliance check of every claim, and a list of images the listing needs.

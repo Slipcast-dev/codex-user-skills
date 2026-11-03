@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Write a local development environment setup guide for a service or project — covering prerequisites, repository setup, environment variables, local service dependencies, database seeding, running the service, running tests, common gotchas, IDE recommendations, and first-contribution checklist. Use when asked to write a dev setup guide, create onboarding documentation for engineers, document local environment setup, or write a getting-started guide for a codebase. Produces a complete setup guide that a new engineer can follow from zero to running tests in under 30 minutes, with a troubleshooting section for the most common setup failures.

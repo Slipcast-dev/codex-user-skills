@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Write clear, plain-English patient communications for any healthcare context. Use when asked to write a patient letter, patient information leaflet, appointment letter, test-results letter, discharge summary for patients, or health education content. Produces an accessible patient communication at an appropriate reading level with clear next steps.

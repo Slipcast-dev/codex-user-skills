@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Assess whether and how someone can safely stay in their own home as they age — the home hazards, the support gaps, and the modifications and services that make it work. Use when asked can my parent stay in their home safely, aging in place assessment, is it safe for them to live alone, or what do we need for them to stay home. Produces a room-by-room safety read (fall hazards, accessibility), an honest look at the daily-living and support gaps, the modifications and services that could close them, warning signs that home may no longer be safe, and how to raise it respectfully — helping a family make a clear-eyed, dignity-preserving decision. Not medical advice.

@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Plan around flare days before they ambush you — spot your early warning signs, pre-build the reduced 'flare mode' version of your life, prepare the cancellation and support scripts in advance, and set up your space so a bad day needs no decisions. Use when someone says 'my flares blindside me', 'I fall apart when a bad day hits', 'help me prepare for flare-ups', or has a relapsing condition (autoimmune, migraine, mental health, chronic pain). Produces a flare early-warning list, a flare-mode plan, and the pre-written scripts. A self-management tool, not medical advice.

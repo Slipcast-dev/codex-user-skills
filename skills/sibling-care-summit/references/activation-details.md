@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Get siblings onto one team about aging parents before the crisis does it for them — a structured family meeting with an agenda that prevents old-roles regression, a fair-not-equal division of care work (money, time, and proximity counted honestly), decision rules for when parents can't decide, and the written summary that prevents six months of 'nobody told me'. Use when someone says 'my siblings and I need to talk about mum', 'my brother does nothing', 'we keep fighting about dad's care', or before a parent's health forces it. Produces the summit agenda, the care-share worksheet, and the family memo.

@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Build the context an AI needs to do a task well — the background, constraints, examples, and format it can't guess — so you get a great result on the first try instead of a generic one you have to keep correcting. Use when asked why does AI give me generic answers, how do I give AI better context, my AI results are mediocre, or how do I get it right the first time. Produces the specific context this task needs (who/what/constraints/examples/format), a reusable primer you can paste ahead of the request, the difference between a starved prompt and a well-briefed one, and what to leave out — turning vague back-and-forth into a strong first result.

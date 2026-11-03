@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+<title>{{agent_name}} — overview</title>
+<style>
+:root{color-scheme:light dark}body{font:16px/1.5 system-ui;max-width:900px;margin:40px auto;padding:0 20px}
+table{border-collapse:collapse;width:100%}td{padding:8px;border-bottom:1px solid #888}td:first-child{font-weight:600}
+</style>
+<h1>{{agent_name}}</h1><p>Status: {{status}} · Loop: {{loop_shape}}</p>
+<p>{{goal}}</p><table>{{primitives_rows}}</table>
+<p>Last verdict: {{last_verdict}} · Iterations: {{iterations}}</p>
+<p>Schedule: {{schedule}}</p><h2>Next moves</h2><ul>{{next_moves}}</ul>
+<p>Updated: {{updated_at}} · <a href="{{console_link}}">Console</a></p>
+</html>

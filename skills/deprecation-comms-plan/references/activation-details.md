@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Plan the communications for deprecating a product, API, endpoint, or feature that customers depend on. Use when winding down or sunsetting something, planning a breaking change, or migrating customers off a legacy path. Produces a staged timeline with grace periods, tiered customer messaging, a migration-guide outline, the channel plan, and an internal escalation playbook for the highest-risk accounts. This is the customer-communications program — distinct from [[feature-sunset-plan]] (the kill decision, data handling, and code removal) and [[api-versioning-strategy]] (the technical versioning mechanics).

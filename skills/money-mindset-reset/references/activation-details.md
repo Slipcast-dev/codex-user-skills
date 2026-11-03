@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Untangle the money beliefs and emotions that quietly sabotage your finances — the scripts from childhood, the avoidance, the guilt or fear — and reset to a healthier relationship with money. Use when asked I have a bad relationship with money, why do I self-sabotage financially, money stresses me out, or fix my money mindset. Produces a look at your money story and where it came from, the specific beliefs driving unhelpful behaviors (avoidance, overspending, scarcity, guilt), a reframe toward a healthier stance, and small behavior shifts that follow — because money behavior is often emotional, not just mathematical. Not therapy or financial advice.

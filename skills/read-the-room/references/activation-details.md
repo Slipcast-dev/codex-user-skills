@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Figure out the real social dynamics of a situation — the unspoken mood, who holds influence, what's actually going on beneath the surface — so you respond to what's real, not just what's said. Use when asked help me read this situation, what's really going on here, how should I play this socially, or I can't tell the vibe. Produces an interpretation of the likely dynamics from your description (the mood, the power/influence, the unspoken tensions, what people actually want), how to check your read, and how to adjust your approach — with a caution against over-reading and a nudge to verify rather than assume.

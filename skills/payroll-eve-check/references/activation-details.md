@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Have a proactive agent check payroll the day before it runs in Gusto, Deel, Xero Payroll or similar: unusual pay changes, new starters and leavers, missing approvals, enough cash in the funding account, and anything that would make a payslip wrong, reported as a short pre-run list for a human to approve. Use when asked to check payroll before it runs, catch payroll mistakes, have Duet review Gusto before payday, pre-payroll checklist, or alert me if payroll looks wrong. Produces the pre-run checks, the anomaly list with each line's evidence, the funding check, and the questions for the payroll owner; it never runs, edits or approves payroll.

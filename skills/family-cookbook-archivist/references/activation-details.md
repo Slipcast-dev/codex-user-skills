@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Rescue the recipes that exist only in someone's hands — the interview that converts a handful of this and cook until it looks right into measurements, the cook-along session that captures what paper cannot, and the cookbook format that keeps the stories attached to the food. Use when asked to write down grandma's recipes, preserve family recipes, how much is some flour, or make a family cookbook. Produces the recipe-extraction interview, the calibration tricks for unmeasured cooking, the cook-along protocol, the story capture per dish, and the cookbook assembly plan. A cousin of oral-history-kit, aimed at the kitchen.

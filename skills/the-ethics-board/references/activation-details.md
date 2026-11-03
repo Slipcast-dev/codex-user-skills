@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Simulate defending your study or protocol before an ethics committee — the consent-comprehension probe, the vulnerable-participant challenge, the minimal-risk fight, the data-retention question you did not prepare for — with a debrief mapping every wobble to the protocol section that needs rewriting. Use when asked to prepare for an IRB or ethics review, rehearse an ethics-committee defence, why might ethics reject my study, or practice my protocol presentation. Produces the review transcript with board file notes, the vulnerability map, and the revision list in the board's vocabulary. Rehearsal only — never a substitute for actual review.

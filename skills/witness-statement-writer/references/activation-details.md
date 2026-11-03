@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Write a clear, factual witness statement or account of an incident — for an insurance claim, small claims, a workplace matter, or the police — that sticks to what you saw and holds up. Use when asked to write a witness statement, an account of what happened, a statement for [insurance/court/HR], or document an incident I witnessed. Produces a structured, chronological statement of facts (who, what, when, where), a clean separation of observation from opinion, the details that matter, and formatting/sign-off basics — flagging that for legal proceedings you should follow the required format. Not legal advice.

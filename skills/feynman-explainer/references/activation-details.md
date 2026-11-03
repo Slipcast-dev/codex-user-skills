@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Learn something deeply by trying to explain it simply — the Feynman technique — surfacing exactly the gaps where your understanding is fake. Use when asked help me really understand X, explain this back to check my understanding, use the Feynman technique on, or do I actually get this. Produces a prompt to explain the concept in plain language yourself, a check that flags where your explanation went vague, hand-wavy, or jargon-hid a gap, the specific things you don't actually understand yet, and how to close each — because if you can't explain it simply, you don't really know it.

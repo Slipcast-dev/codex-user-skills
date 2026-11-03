@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Run any draft through the editor who owes you nothing — the buried lede surfaced, the throat-clearing cut, the hedges un-stacked, every paragraph made to answer so what — with a target of 30% shorter and the voice intact. Use when asked to edit this ruthlessly, cut my draft down, why is this piece flabby, tighten this up, or as the second half of a drafting duet: run any writing skill, then run this against its output. Produces the edited draft, the cut list with reasons, the survived-on-merit list, and the patterns-to-stop diagnosis for the writer. Adversarial to the prose, loyal to the point.

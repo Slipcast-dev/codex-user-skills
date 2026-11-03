@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Design a preventive maintenance programme that keeps vehicles legal and out of the workshop at the wrong moment — intervals set by duty cycle, the inspection items that actually cause roadside failures, and the defect-reporting loop that closes. Use when asked to build a fleet maintenance schedule, set PM intervals, reduce breakdowns or roadside violations, or design a vehicle inspection programme. Produces the interval schedule by duty cycle, the inspection checklists by level, the defect-reporting and rectification loop, the parts and downtime planning, and the compliance record structure.

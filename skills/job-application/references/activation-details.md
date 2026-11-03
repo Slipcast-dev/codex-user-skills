@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Tailors a CV and cover letter to a specific job description. Use when asked to write a cover letter, tailor a CV or resume, optimise for ATS, match a job description, or prepare a job application. Produces an ATS-optimised tailored CV summary and a personalised cover letter aligned to the role's requirements.

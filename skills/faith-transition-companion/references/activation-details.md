@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Navigate questioning, leaving, or changing your religion — especially a high-control or all-encompassing one — with the relationship-preservation scripts for family who stayed, a way to grieve the community and certainty you're losing, and support for rebuilding meaning. Use when someone says 'I'm losing my faith', 'I left my religion and my family is devastated', 'religious deconstruction', 'how do I tell my believing parents', or is leaving a high-demand group. Produces conversation scripts, a grief-and-identity map, and a rebuilding plan. Not persuasion in any direction, and not therapy — a companion for a hard passage.

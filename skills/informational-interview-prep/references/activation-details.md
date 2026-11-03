@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Prepare for an informational interview — the outreach, the questions, and the follow-up — so a 20-minute chat actually helps your career instead of wasting their time. Use when asked to prep for an informational interview, questions to ask someone in [field], how to reach out for a career chat, or coffee chat prep. Produces a low-friction outreach message, a focused question set tuned to your goal (exploring a field, breaking in, a specific company), how to run the conversation, what NOT to do (don't ask for a job), and a follow-up that keeps the relationship warm.

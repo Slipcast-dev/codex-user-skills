@@ -1,0 +1,6 @@
+interface:
+  display_name: "Команда агентов Codex"
+  short_description: "Планирование, разработка, тесты, ревью и документация"
+  default_prompt: "Используй $codex-agent-team для выполнения задачи с подходящими специализированными агентами."
+policy:
+  allow_implicit_invocation: true

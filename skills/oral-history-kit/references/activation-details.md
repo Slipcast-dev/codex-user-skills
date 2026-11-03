@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Record a parent's or grandparent's life while they can still tell it — the question arcs that unlock real stories instead of resume facts, the session logistics that keep it sustainable, the follow-up probes that get the texture, and the pipeline from recordings to a book the family keeps. Use when asked to interview my grandmother about her life, record dad's stories before it is too late, questions to ask an elderly parent, or make a family history book. Produces the session plan with question arcs, the interviewer technique guide, the consent and boundaries conversation, and the transcript-to-book pipeline. Warm, unhurried, and honest that later never comes on schedule.

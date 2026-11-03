@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Use when asked to walk me through an annual report, teach me to read this 10-K, explain a company's accounts to a beginner, or tutor me on the financial statements in an uploaded report. Walks a beginner up a fixed six-rung ladder — statement map, balance sheet line by line, operating profit to free cash flow, five sector-appropriate ratios with healthy ranges, the sceptical read, then a reusable checklist and a five-question quiz. Produces a page-referenced tutorial in which every figure cites the page it came from and anything missing is marked 'not disclosed in this report'. Educational, not financial advice.

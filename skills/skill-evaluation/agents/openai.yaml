@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Evaluation"
+  short_description: "Поведенческие проверки и регрессии навыков"
+  default_prompt: "Используй $skill-evaluation для этой задачи и сообщи проверенный результат."

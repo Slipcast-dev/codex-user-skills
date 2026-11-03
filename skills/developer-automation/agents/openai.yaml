@@ -1,0 +1,4 @@
+interface:
+  display_name: Automation Engineering
+  short_description: Надёжные боты, парсеры и автоматизация ОС
+  default_prompt: Используй $developer-automation для разработки и проверки этой задачи.

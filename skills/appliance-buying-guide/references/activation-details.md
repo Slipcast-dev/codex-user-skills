@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Cut through the model soup to buy the right appliance — the features that actually matter for you, the ones that are marketing, and when to buy. Use when asked which [fridge/washer/dishwasher] should I buy, help me choose an appliance, what features do I need, or is this appliance worth it. Produces a needs-based feature shortlist (must-have vs nice-to-have vs marketing fluff), fit and capacity checks, reliability and running-cost considerations, warranty/extended-warranty guidance, and timing tips — flagging to verify current models, prices, and specs before buying.

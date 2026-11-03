@@ -1,0 +1,4 @@
+interface:
+  display_name: "DeepSeek Harness Skill Adapter"
+  short_description: "Адаптирует скилы других ИИ под DeepSeek Harness"
+  default_prompt: "Адаптируй указанный скил под DeepSeek Harness, сохранив его назначение и проверив совместимость."

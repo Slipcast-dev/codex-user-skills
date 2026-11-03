@@ -1,0 +1,4 @@
+interface:
+  display_name: "API Integration Engineering"
+  short_description: "Надёжные API, webhook и внешние интеграции"
+  default_prompt: "Используй $api-integration-engineering для этой задачи и сообщи проверенный результат."

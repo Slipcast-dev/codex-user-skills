@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Write a UK Civil Service or NHS application: behaviour statements in the Success Profiles format, a personal statement mapped to the essential criteria, and a CV in the form these schemes expect. Use when asked to write my civil service application, answer Success Profiles behaviours, write a 250-word behaviour example, write my NHS supporting information, or apply on Civil Service Jobs or NHS Jobs. Produces each behaviour statement within the word limit using a situation, task, action, result structure, a criteria-mapped personal statement, and a check against the advert's essential criteria.

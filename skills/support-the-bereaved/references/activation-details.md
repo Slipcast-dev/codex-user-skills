@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Know what to actually say and do for someone who's grieving — the real help instead of the empty 'let me know if you need anything.' Use when asked what do I say to someone whose parent died, how do I support a grieving friend, what to write in a condolence, or how to help without making it worse. Produces words that land (and the phrases to avoid), specific concrete help to offer instead of vague availability, a condolence message in your voice, guidance on showing up over the long haul (not just week one), and how to support without centering yourself — so your care actually reaches them. Points to grief resources when the person needs more than a friend can give.

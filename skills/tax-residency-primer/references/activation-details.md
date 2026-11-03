@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Orient yourself on your tax-residency situation after moving countries — the questions that determine where you owe tax, the double-taxation and dual-residency traps, and what to pin down before you file — so you know what to ask a cross-border tax professional. Use when someone says 'am I tax resident in [country]', 'do I pay tax in two countries', 'moved countries mid-year, what about tax', or 'tax residency rules'. Produces a residency-question map, the trap list, a document checklist, and the questions for a professional. Strictly not tax advice — it orients and routes to a qualified adviser.

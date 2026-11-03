@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Network in a way that actually works for introverts — depth over breadth, one-on-one over rooms, and energy managed — instead of forcing yourself to work a crowd. Use when asked how do I network as an introvert, networking drains me, help me network without the small talk, or introvert-friendly networking. Produces an approach that plays to introvert strengths (deep 1:1 conversations, listening, follow-up, written outreach), a plan for the events you can't avoid (arrive early, one real conversation, leave), energy-management tactics, and how to build a genuine network without pretending to be an extrovert.

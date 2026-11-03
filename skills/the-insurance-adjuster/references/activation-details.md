@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Simulate the adjuster's settlement call after your accident or loss — the recorded-statement asks, the quick-settlement anchor, the friendly minimization — run against your actual claim, with a debrief on every answer that shrank it. Use when asked the adjuster wants a recorded statement, practice the settlement call, is this settlement offer low, or what will the insurance company try. Produces the call transcript with the adjuster's file notes, the offer trajectory, and a debrief separating fair process from pressure tactics — plus the bright lines that protect a claim.

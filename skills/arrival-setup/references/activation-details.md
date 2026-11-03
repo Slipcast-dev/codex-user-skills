@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Set up the essentials in the right order after moving to a new country — the ID/registration, bank account, phone, address, and social/tax number that unlock each other — so you don't get stuck in the chicken-and-egg loops that trap newcomers. Use when someone says 'I just moved to a new country', 'what do I do first after arriving', 'set up my life in [country]', or 'I can't open a bank account without an address but can't rent without a bank'. Produces a sequenced arrival checklist with dependencies and the official offices for each. Routes to official sources; rules are local.

@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Build a personal library of reusable prompts for the things you ask AI again and again — so you stop rewriting the same request from scratch. Use when asked help me build a prompt library, save my best prompts, I keep writing the same prompts, or organize my AI prompts. Produces a captured set of your recurring AI tasks turned into reusable, parameterized prompt templates, an organization scheme so you can find them, guidance on what makes a prompt reusable (clear role, inputs, output format), and how to store and improve them — turning ad-hoc prompting into a personal toolkit that compounds.

@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Design a small team of AI agents to tackle a complex task in parallel — who does what, how they hand off, and how to keep them coordinated — instead of one overloaded agent doing everything serially. Use when asked how do I use multiple AI agents, set up an agent team, orchestrate agents for, or run agents in parallel. Produces a decomposition of the task into agent roles, a coordination pattern (parallel vs sequential, how outputs combine), the context each agent needs (and what to keep isolated), a review/quality step, and the guardrails to keep it from going off the rails — practical multi-agent design for real tasks.

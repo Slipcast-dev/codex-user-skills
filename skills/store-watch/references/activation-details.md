@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Have a proactive agent watch an online shop (Shopify, WooCommerce, Etsy) for what needs the owner: best-sellers about to run out, a spike in refunds or returns on one product, bad reviews, failed orders and checkout problems, with interrupts only for what cannot wait and drafted replies for reviews. Use when asked to monitor my Shopify store, have Duet watch my shop, alert me when stock runs low, watch for bad reviews, or daily store health check. Produces the watch rules, the daily store lines, the interrupt thresholds, and drafted review replies; it never changes prices, refunds orders or publishes anything.

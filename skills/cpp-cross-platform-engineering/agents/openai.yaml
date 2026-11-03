@@ -1,0 +1,4 @@
+interface:
+  display_name: "C++ Cross-Platform Engineering"
+  short_description: "C++, CMake и проверка целевых платформ"
+  default_prompt: "Используй $cpp-cross-platform-engineering для этой задачи и сообщи проверенный результат."

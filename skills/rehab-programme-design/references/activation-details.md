@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Design a rehabilitation programme the patient will actually do — dosed and progressed against stated criteria, built around their week rather than an ideal one, and with the progression rule written down so it does not depend on being remembered. Use when asked to design a rehab programme, prescribe exercises, progress a rehabilitation plan, or when a patient is not doing their exercises. Produces the programme by phase, the dosage and progression criteria, the adherence design, the reassessment schedule, and the patient-facing version. A structuring framework for a licensed clinician; it prescribes nothing for any individual patient.

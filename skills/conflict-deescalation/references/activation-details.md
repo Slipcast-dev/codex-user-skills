@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Calm a heated conflict — in person or in writing — before it does damage, by lowering the temperature instead of winning the point. Use when asked help me de-escalate this, this argument is getting heated, calm this situation down, or how do I respond without making it worse. Produces a read on what's actually driving the heat (often an unmet need under the surface argument), the de-escalation moves (acknowledge, slow down, find the shared ground), what to say and what to avoid, and how to steer toward resolution once the temperature drops — because you can't solve anything while everyone's activated.

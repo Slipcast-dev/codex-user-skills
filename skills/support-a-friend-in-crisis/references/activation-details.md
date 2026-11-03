@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Show up well for someone going through something hard — loss, illness, a breakup, a crisis — with the right words, the right presence, and concrete help, instead of freezing or saying the wrong thing. Use when asked how do I support a friend going through, what do I say to someone who's struggling, my friend is in crisis, or how can I help someone grieving. Produces what to actually say (and the clichés to avoid), how to be present rather than fix, specific concrete help to offer, how to keep showing up over time, and how to look after yourself — with a clear flag to steer them to professional/crisis help when it's beyond a friend.

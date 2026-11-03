@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt & Skill Auditor"
+  short_description: "Audit and modernize prompts, instructions, and skills"
+  default_prompt: "Audit this prompt, instruction file, or skill for clarity, conflicts, safety, maintainability, and compatibility with current AI models. Recommend or apply focused improvements as requested."

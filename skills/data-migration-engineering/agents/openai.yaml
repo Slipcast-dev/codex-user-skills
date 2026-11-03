@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data Migration Engineering"
+  short_description: "Схемы, качество данных и обратимые миграции"
+  default_prompt: "Используй $data-migration-engineering для этой задачи и сообщи проверенный результат."

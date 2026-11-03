@@ -1,0 +1,42 @@
+{
+  "agent_name": "example-agent",
+  "goal": "Summarize provided local text without external actions.",
+  "primitives": {
+    "agent": {
+      "model": "example-model",
+      "system": "Summarize only the supplied text.",
+      "tools": []
+    },
+    "environment": {
+      "type": "cloud",
+      "networking": "limited",
+      "allowed_hosts": []
+    },
+    "outcome": {
+      "description": "A grounded summary.",
+      "rubric": "No invented facts.",
+      "max_iterations": 3
+    },
+    "deployment": {
+      "schedule": {
+        "expression": "0 9 * * *",
+        "timezone": "UTC"
+      }
+    }
+  },
+  "deferrals": [],
+  "eval_plan": {
+    "success_criteria": [
+      "No invented facts"
+    ],
+    "held_back_cases": [
+      {
+        "id": "grounding",
+        "input": "The supplied value is 42.",
+        "expected": "42"
+      }
+    ]
+  },
+  "loop_hint": "single-pass",
+  "_example_only": "Offline fixture. Replace example-model with an available Anthropic model before API use."
+}

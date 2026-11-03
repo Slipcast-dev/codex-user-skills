@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Evaluate performance fairly when output is AI-assisted — what still measures the human, what now measures the tooling, and how to run the review conversation. Use when reviewing someone whose work is heavily AI-assisted, when output volume stopped meaning anything, when calibrating a team with uneven AI adoption, or when writing review criteria for the AI era. Produces review guidance: a what-measures-whom analysis, rewritten criteria, calibration rules for mixed-adoption teams, and conversation scripts. For the general review document use performance-review; for redesigning the role itself use role-redesign-for-ai.

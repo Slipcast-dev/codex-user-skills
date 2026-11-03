@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Plan preparation for the Chinese postgraduate entrance examination (考研): choosing target schools and programmes with realistic odds, a phased study plan for the national subjects and the specialist papers, and preparation for the re-examination (复试) and adjustment (调剂). Use when asked 考研怎么规划, 帮我做考研复习计划, 择校择专业, 考研时间线, 复试怎么准备, 调剂, or plan my kaoyan. Produces a school-and-programme shortlist method with the data to collect, a month-by-month study plan by subject, weekly templates, the key-date checklist to confirm against official notices, and a 复试 and 调剂 preparation guide.

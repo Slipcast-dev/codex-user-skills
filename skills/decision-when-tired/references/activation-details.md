@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Make a decent decision when you're too depleted to think well — a low-energy protocol that protects you from bad tired-brain choices. Use when asked I'm too tired to decide, help me choose I'm exhausted, I can't think straight right now, or should I even decide this now. Produces a first check on whether this decision can simply wait until you're rested, and if not, a minimal-effort path to a safe-enough choice (default to reversible, avoid the tired-brain traps, use a simple rule) — because decisions made depleted are predictably worse, and the best move is often not to make them now.

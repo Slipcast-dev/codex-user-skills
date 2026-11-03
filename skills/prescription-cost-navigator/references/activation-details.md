@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Work down the cost of a prescription systematically — the generic and therapeutic-alternative conversation, discount programs vs insurance math, pharmacy price variance, and manufacturer/assistance programs, in the order that saves the most first. Use when asked my prescription is too expensive, how do I save on my meds, is there a cheaper version of this drug, or I can't afford my medication. Produces the cost-reduction ladder for the specific prescription, the scripts for pharmacist and prescriber conversations, and the never-do list (skipping doses is not a savings plan).

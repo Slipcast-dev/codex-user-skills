@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Write the charter for an AI agent a whole team shares (an OpenAI Dot in Slack or Teams, a shared Claude agent, a channel bot): who may give it instructions, which channels it works in, what it may say and do there, whose data it may read, who owns its mistakes, and how anyone can pause it. Use when asked to set rules for our team's agent, roll out Dots to my team, write a policy for a shared AI agent in Slack, decide who can instruct the bot, or govern an always-on agent across a team. Produces a one-page charter to pin in the channel, an instruction-rights table, the data boundaries, the escalation and pause procedure, and the first-month review.

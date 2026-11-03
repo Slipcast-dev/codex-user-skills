@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Check AI output before you trust or use it — where it's likely wrong, what to verify, and how to catch confident-sounding errors. Use when asked can I trust this AI answer, how do I verify what AI told me, fact-check this AI output, or is this AI response reliable. Produces a risk read on the specific output (the claims most likely to be wrong or made up), the parts that need independent verification vs the parts that are low-risk, how to actually verify each, the tells of AI hallucination and overconfidence, and a habit for building verification into your AI use — because AI is confidently wrong often enough that unchecked trust is a real risk.

@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Save the group trip from the group chat — budget alignment before anything gets booked (the awkward conversation, scripted), a decision protocol that actually books things, cost-splitting rules with real numbers for unequal rooms and champagne-taste friends, and the it's-okay-to-split-up daytime clause. Use when someone says 'we're planning a trip with friends and it's chaos', 'how do we split costs', 'one friend wants luxury and one is broke', or the trip has been 'being planned' for three months. Produces the budget-alignment script, the decision protocol, and the money agreement.

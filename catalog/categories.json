@@ -1,0 +1,112 @@
+[
+  {
+    "id": "agents-ai",
+    "title": "ИИ, Codex и агенты",
+    "count": 146
+  },
+  {
+    "id": "security-privacy",
+    "title": "Безопасность и приватность",
+    "count": 44
+  },
+  {
+    "id": "development",
+    "title": "Разработка ПО и архитектура",
+    "count": 99
+  },
+  {
+    "id": "devops-cloud",
+    "title": "DevOps, облака и эксплуатация",
+    "count": 47
+  },
+  {
+    "id": "testing-quality",
+    "title": "Тестирование и качество",
+    "count": 30
+  },
+  {
+    "id": "data-analytics",
+    "title": "Данные и аналитика",
+    "count": 98
+  },
+  {
+    "id": "design-creative",
+    "title": "Дизайн и творчество",
+    "count": 61
+  },
+  {
+    "id": "product-strategy",
+    "title": "Продукт и стратегия",
+    "count": 100
+  },
+  {
+    "id": "marketing-growth",
+    "title": "Маркетинг, SEO и рост",
+    "count": 105
+  },
+  {
+    "id": "sales-customer",
+    "title": "Продажи и работа с клиентами",
+    "count": 78
+  },
+  {
+    "id": "business-leadership",
+    "title": "Бизнес и руководство",
+    "count": 62
+  },
+  {
+    "id": "management-operations",
+    "title": "Управление, проекты и процессы",
+    "count": 89
+  },
+  {
+    "id": "people-career",
+    "title": "Карьера, HR и команды",
+    "count": 99
+  },
+  {
+    "id": "finance-personal",
+    "title": "Финансы, учёт и покупки",
+    "count": 132
+  },
+  {
+    "id": "legal-compliance",
+    "title": "Право, договоры и соответствие",
+    "count": 106
+  },
+  {
+    "id": "writing-communication",
+    "title": "Тексты, документы и коммуникация",
+    "count": 156
+  },
+  {
+    "id": "education-learning",
+    "title": "Обучение и образование",
+    "count": 48
+  },
+  {
+    "id": "health-care",
+    "title": "Здоровье и забота",
+    "count": 68
+  },
+  {
+    "id": "home-family",
+    "title": "Дом, семья и отношения",
+    "count": 65
+  },
+  {
+    "id": "travel-lifestyle",
+    "title": "Путешествия, досуг и образ жизни",
+    "count": 35
+  },
+  {
+    "id": "productivity-tools",
+    "title": "Продуктивность и инструменты",
+    "count": 116
+  },
+  {
+    "id": "industry-operations",
+    "title": "Отрасли, производство и строительство",
+    "count": 25
+  }
+]

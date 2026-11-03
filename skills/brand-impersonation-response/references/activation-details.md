@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Respond to a brand or executive impersonation incident — deepfaked executives, cloned support lines, fake apps, spoofed domains, or AI-generated scam content wearing your name. Use when a deepfake of a leader is circulating, customers report a fake version of your product or support channel, or to prepare the impersonation playbook before it happens. Produces an incident response: verification protocol, takedown sequencing by platform, customer and public communications, and the hardening plan. For general crisis comms use press-release/pm-crisis skills; for security incidents inside your systems use security-incident-response.

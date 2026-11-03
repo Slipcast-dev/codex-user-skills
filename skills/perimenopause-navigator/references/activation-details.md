@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Make sense of perimenopause symptoms nobody warned you about and prepare the GP conversation that actually helps — a symptom tracker mapped to what's likely hormonal, the prioritized list to raise, the HRT and treatment questions to ask, and how to push back on dismissal. Use when someone says 'is this perimenopause?', 'my doctor won't take my symptoms seriously', 'help me prepare for a menopause appointment', or is 40-55 and blindsided by symptoms. Produces a symptom map, a GP-visit brief, and a treatment-questions list. Not medical advice — it organizes your experience for the clinician who prescribes.

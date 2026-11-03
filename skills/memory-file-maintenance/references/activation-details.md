@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Keep your AI memory/context file (MEMORY.md, AGENTS.md, custom instructions) healthy over time — pruning the stale, adding the new, and keeping it sharp so your AI keeps getting you right. Use when asked review my memory file, my AI context is outdated, clean up my AGENTS.md, or maintain my AI instructions. Produces a review of your existing memory/instructions file (what's stale, contradictory, bloated, or missing), edits to prune and sharpen it, additions from recent patterns worth remembering, and a light maintenance habit — because a memory file that isn't tended drifts from who you actually are, with a privacy check on what should never be stored.

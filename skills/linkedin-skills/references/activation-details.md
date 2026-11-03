@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Use when someone wants to grow an organic LinkedIn presence — a content strategy for a career change or consulting or thought leadership, a rewritten profile or headline, post drafts and hooks, a posting cadence or newsletter plan, connection notes and outreach, a commenting strategy, repurposing an article or talk into posts, or a read on why their reach dropped. Triggers on "grow my LinkedIn", "fix my headline", "write a LinkedIn post", "what should I post about", "LinkedIn strategy", "connection request", "my reach dropped". Forks context to route to one of five sub-skills, and refuses automation, scraping, pods, and bulk DMs before any drafting starts.

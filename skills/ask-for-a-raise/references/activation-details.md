@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Build and deliver a raise request that actually works — the evidence, the number, the timing, and the exact words — instead of hoping it gets noticed. Use when asked how do I ask for a raise, I deserve more money, prepare me to ask for a raise, or negotiate a pay increase at my job. Produces a value case built on your actual contributions and market rate, a specific target number with justification, the right timing and person, a script for the conversation, and responses to the likely pushbacks — turning 'I want more' into a business case your manager can say yes to.

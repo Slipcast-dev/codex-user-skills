@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Turn one recurring pattern from a promoter scan into a complete, reusable skill in this library's format: a SKILL.md with a strong trigger description, required inputs, a framework, an output template, quality checks, anti-patterns, and three worked examples derived from the user's real prompts, plus the bundle manifest. Use when asked to draft a skill from this pattern, promote this pattern into a skill, write the SKILL.md for what I keep asking, or as the second step of the promote loop. Produces a ready-to-test skill folder that anyone, not just the original user, can use.

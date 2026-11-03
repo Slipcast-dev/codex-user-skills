@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Simulate a collective-bargaining session from either chair — the package-versus-item trap, the caucus break used as a weapon, the mandate check, the costing challenge, the last-minute add — run against your actual negotiation, with a debrief on every concession that left the table unpaid-for. Use when asked to prepare for union negotiations, rehearse a bargaining session, practice negotiating with management, or we are heading into pay talks. Produces the session transcript with the other side's caucus notes, the concession ledger showing what moved and what was traded for it, and a debrief with the discipline rules for the real room. Symmetric: plays either side.

@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Turn a vague bad mood or 'off' feeling into a precisely-named emotion and its likely cause — because naming it is what starts to defuse it. Use when asked I feel off and don't know why, help me figure out what I'm feeling, I'm in a weird mood, or why am I upset. Produces a short, gentle inquiry that distinguishes the actual emotion from the fog (anxious vs frustrated vs lonely vs overwhelmed), its most likely trigger, what the feeling might be pointing at, and one small thing that tends to help that specific state — never diagnosing, just helping you locate yourself.

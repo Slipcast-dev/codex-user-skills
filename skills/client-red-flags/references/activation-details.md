@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Spot a bad client before you sign — the warning signs of the projects that turn into unpaid, scope-creeping nightmares, and how to screen, price, or decline them. Use when asked is this client a red flag, should I take this client, screening a difficult client, or how to avoid bad clients. Produces a read on the warning signs present (haggling, vagueness, disrespect, urgency, unrealistic expectations), what each predicts, screening questions to ask before committing, protective terms if you proceed anyway, and how to decline gracefully — so you avoid the clients who cost more than they pay.

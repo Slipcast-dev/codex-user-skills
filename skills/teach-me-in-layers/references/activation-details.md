@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Learn a complex topic in progressive layers — a one-sentence version, then a paragraph, then the real depth — so you build a mental scaffold instead of drowning in detail. Use when asked explain this in layers, teach me X from simple to deep, I need to understand this progressively, or start simple then go deeper. Produces a topic explained at escalating depth (ELI5 → informed-adult → the real thing), each layer building on the last, checkpoints to make sure a layer landed before the next, and where to stop for your actual need — so you never get lost in detail without a frame to hang it on.

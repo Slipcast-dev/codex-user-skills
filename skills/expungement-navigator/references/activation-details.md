@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Figure out whether your record can be sealed or expunged, and map the steps to do it — eligibility, waiting periods, forms, and where to get help. Use when asked can I get my record expunged, how do I seal my criminal record, clear my background, or am I eligible for expungement. Produces a plain-language read on likely eligibility (offense type, dispositions, waiting periods), the document and step sequence to petition, the costs and fee-waiver options, the realistic timeline, and where to get free or low-cost legal help — so a record that can be cleared actually gets cleared. Not legal advice; expungement law is highly jurisdiction-specific and this points you to the right help.

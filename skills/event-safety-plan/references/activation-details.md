@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Produce the event safety documentation that satisfies a venue or licensing authority and actually works on the day — the risk assessment, crowd and capacity plan, emergency procedures, and the roles that must be filled. Use when asked to write an event risk assessment, safety plan, event management plan, or emergency procedure, or when a venue or authority has requested safety documentation. Produces the risk assessment, the crowd and capacity position, emergency and evacuation procedures, the medical and welfare plan, and the roles-and-competence schedule. Not a substitute for competent safety advice, which many events legally require.

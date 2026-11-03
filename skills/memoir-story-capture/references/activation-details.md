@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Capture a life story — your own or a parent's/grandparent's — into a keepsake, using good interview questions and a structure that turns memories into readable stories. Use when asked to help write a memoir, capture my parent's/grandparent's story, record family history, or preserve someone's life story. Produces a question set that unlocks real memories (not just dates), a session plan for interviewing over time, a structure to organize stories into chapters or themes, prompts to draw out detail and emotion, and options for the final form — so the stories are saved before they're lost.

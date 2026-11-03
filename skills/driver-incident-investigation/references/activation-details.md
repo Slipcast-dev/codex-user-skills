@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Investigate a commercial vehicle incident so the record is defensible and the cause is actually found — evidence secured in the first hours, the preventability decision made on stated criteria, and corrective action aimed at the system rather than the driver. Use when asked to investigate a vehicle accident, run a post-accident review, decide whether a collision was preventable, or write an incident report for a fleet. Produces the evidence checklist, the sequence reconstruction, the preventability determination with reasoning, the contributing-factor analysis, and the corrective actions. Not legal advice; involve your insurer and counsel early.

@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Build a credit history from zero in a new country — understand that credit doesn't transfer across borders, get the first products that report, avoid the newcomer traps, and reach a usable score in months not years. Use when someone says 'I have no credit history in [country]', 'build credit as a newcomer/immigrant', 'why was I rejected with a great score back home', or 'how do I get a credit card/loan as a new arrival'. Produces a credit-building plan, the starter products that report, a timeline, and the traps to avoid. Educational, not financial advice; routes to official credit sources.

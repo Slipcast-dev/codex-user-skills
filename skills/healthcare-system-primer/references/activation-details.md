@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Understand and enrol in a new country's healthcare system — how it works (public/private/insurance-based), what you're entitled to with your status, how to register with a doctor, get insurance if required, and what to do before you're covered. Use when someone says 'how does healthcare work in [country]', 'register with a doctor abroad', 'do I need health insurance in [country]', or 'I just moved and need to see a doctor'. Produces a system explainer, an enrolment checklist, a coverage-gap plan, and cost expectations. Orients and routes to official sources; not medical or insurance advice.

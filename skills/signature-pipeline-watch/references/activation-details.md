@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Have a proactive agent watch documents waiting for signature in DocuSign, Adobe Sign or PandaDoc: which are stuck, for how long, with whom, which have expiry dates coming, and which signed ones still need countersigning or filing, reported in the brief with drafted reminders a human sends. Use when asked to track contracts waiting for signature, chase unsigned DocuSign envelopes, have Duet watch my e-signatures, what contracts are stuck, or remind me about documents nobody has signed. Produces the watch rules, the pipeline lines by stage and age, the drafted reminder per stuck envelope, and the interrupt rule for expiring envelopes.

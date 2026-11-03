@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Figure out why a prompt isn't working and fix it — diagnose the actual failure (ambiguity, missing context, wrong format, conflicting instructions) instead of randomly rewording. Use when asked why isn't my prompt working, the AI keeps ignoring my instructions, my prompt gives inconsistent results, or how do I fix this prompt. Produces a diagnosis of the specific failure mode, the targeted fix for it (not a vibes rewrite), a corrected prompt, a check that it generalizes rather than fixing one case, and the principle behind the fix so you stop hitting it — turning prompt frustration into a debuggable, repeatable process.

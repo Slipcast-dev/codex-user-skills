@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Map a realistic path toward financial independence — the number you'd actually need, your savings rate's massive effect on the timeline, and the honest tradeoffs. Use when asked how do I reach financial independence, explain FIRE, what's my FI number, or plan for financial freedom. Produces an educational read on your rough FI number (and why the savings rate matters more than income), the timeline math at different savings rates, the levers and lifestyle tradeoffs, the different flavors (lean/coast/full), and the traps — turning a vague dream of freedom into a directional plan. Not financial advice.

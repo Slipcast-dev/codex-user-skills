@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Audit driver hours records for the violations that actually get cited — the falsification patterns, the edit trails, and the scheduling that makes compliance impossible — and fix the causes rather than the logs. Use when asked to audit hours of service, review driver logs, check tachograph or ELD records, prepare for an hours compliance review, or reduce hours violations. Produces the violation summary by type and severity, the falsification-pattern review, the scheduling root-cause analysis, the driver-level and systemic actions, and the audit trail. Rules and limits are jurisdiction-specific and must be verified against current regulation.

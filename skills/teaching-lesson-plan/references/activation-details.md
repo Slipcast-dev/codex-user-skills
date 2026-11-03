@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Design a structured lesson plan for any subject, audience, or format. Use when asked to write a lesson plan, course outline, teaching session, workshop curriculum, or training module. Produces a complete lesson plan with learning objectives, activities, timing, assessment, and differentiation guidance.

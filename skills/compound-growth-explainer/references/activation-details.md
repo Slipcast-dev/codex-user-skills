@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Make compound growth actually click — see how small, consistent amounts become large over time, and why starting now beats starting bigger later. Use when asked explain compound interest, how does compounding work, is it worth investing small amounts, or why should I start now. Produces an intuitive explanation of compounding with concrete illustrative examples for your situation, the outsized effect of time (why an early start beats a later larger one), how fees and inflation eat into it, and the honest caveats — turning an abstract concept into the motivation to start now. Educational, not financial advice.

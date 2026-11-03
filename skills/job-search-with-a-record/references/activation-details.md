@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Run a job search when you have a criminal record — where to apply, when and how to disclose, and how to turn the question into a short, confident answer instead of a dealbreaker. Use when asked how do I get a job with a felony, when do I tell an employer about my record, ban-the-box, or explain my conviction in an interview. Produces a target list of record-friendly employers and roles, a disclosure timing plan, a tight honest disclosure script (own it, pivot to now), answers to the background-check and gap questions, and the rights that protect you — so a record narrows the search without ending it. Not legal advice; points to reentry and legal-aid resources.

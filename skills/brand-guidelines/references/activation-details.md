@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Extract a brand's visual and verbal identity into an applicable guideline kit — tokens, voice rules, and do/don't pairs — then apply it consistently to any artifact. Use when asked to apply brand guidelines to a document/deck/page, to extract a brand kit from existing materials or a website, to keep AI-produced artifacts on-brand, or to write lightweight brand guidelines for a startup. Produces a compact brand kit (visual tokens + voice rules + application examples) and/or an artifact restyled to it. For a creator's personal voice use creator-brand-kit; for building new UI systems use frontend-design.

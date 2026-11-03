@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Build a defensible salary range for a role — what it actually pays given the market, location, level, and your value — so you can ask, counter, or set pay with a real number. Use when asked what should I be paid, is my salary fair, research market pay for [role], or how much to ask for. Produces a structured way to research the range from multiple sources, the factors that move your number (level, location, industry, skills, company size), where you likely sit in the band, and how to frame the number — flagging that pay data varies and should be triangulated, not taken from one source. Not the same as running the negotiation.

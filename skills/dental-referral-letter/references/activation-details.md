@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Write a dental referral letter a specialist can act on without ringing you back — the question you are actually asking, the findings and images that support it, and what you have already tried. Use when asked to write a referral to an endodontist, oral surgeon, periodontist or orthodontist, refer a patient to a specialist, or when a referral was returned for more information. Produces the referral letter, the attachment list, the urgency marker, and the patient-facing explanation. Communication support only; the clinical assessment and the decision to refer are the referring clinician's.

@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Check whether you're burning out as a caregiver — and get a realistic plan to protect yourself before you can't keep going. Use when asked I'm exhausted from caregiving, am I burning out caring for my parent, caregiver stress help, or I have nothing left to give. Produces an honest read on your burnout signs and how depleted you are, permission and reasons to accept help (which caregivers resist), specific ways to get support and respite, the guilt and identity traps to address, and a realistic self-care plan that fits a caregiver's actual life — because a caregiver who collapses can't care for anyone. Not medical or mental-health treatment.

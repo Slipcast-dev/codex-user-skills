@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Map your real energy through the day and week, then match your tasks to it — hard things when you're sharp, easy things when you're not. Use when asked when should I do my hard work, map my energy, why am I so unproductive at certain times, or schedule around my focus. Produces a picture of your energy peaks, troughs, and patterns from your own observations, a task-to-energy matching plan (deep work at peaks, admin at troughs), the traps you're currently falling into, and a realistic daily shape — because fighting your natural rhythm wastes your best hours on your worst tasks.

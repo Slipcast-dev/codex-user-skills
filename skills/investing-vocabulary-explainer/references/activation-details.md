@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Use when asked what a term means in an annual report, to explain EBITDA, goodwill, free cash flow, working capital or diluted EPS, or to define any investing or accounting word in plain English, ideally in the context of an uploaded report. Explains each term the user gives, anchored to the specific document where one is provided. Produces, per term, a one-sentence plain definition, where it appears in this document with the page, why a beginner might misread it, and one thing to check next. Refuses buy, sell and valuation opinions and points to the other skills in the bundle instead. Educational, not financial advice.

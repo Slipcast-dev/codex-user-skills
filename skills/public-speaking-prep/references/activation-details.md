@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Prepare for a specific talk, presentation, or speech — a clear structure, a strong open and close, delivery and nerves handling, and a rehearsal plan — so you land it. Use when asked to help me prepare a talk/presentation/speech, prep for public speaking, I have to give a presentation, or calm my speaking nerves. Produces a message-first structure built on your core point and audience, a memorable opening and closing, delivery guidance (pace, pauses, notes vs script), a nerves-management plan, a rehearsal approach, and Q&A prep — tuned to the occasion and your experience.

@@ -1,0 +1,3 @@
+# Полные условия применения
+
+Prepare the conversations with aging parents that everyone postpones — the driving talk, the money talk, the care-options talk, the moving talk — each with an opener that doesn't ambush, a dignity-first script, rehearsal against realistic resistance, and the fallback when it goes badly. Use when someone says 'I need to talk to my dad about driving', 'my mum won't discuss her finances', 'we need to talk about care', or is dreading a visit for exactly this reason. Produces the conversation plan, a rehearsal, and the small-steps fallback. A preparation tool, not family therapy — and it says so when the situation needs more.
