@@ -1,8 +1,12 @@
+[Русский](security-privacy.md) | [English](security-privacy.en.md)
+
 # Безопасность и приватность
 
 44 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [account-recovery-plan](../skills/account-recovery-plan/SKILL.md) | Get back into a locked or hacked account the right way — the official recovery routes, what proof you'll need, and how to re-secure it so it doesn't happen again. |
 | [ai-security](../skills/ai-security/SKILL.md) | Use when assessing AI/ML systems for prompt injection, jailbreak vulnerabilities, model inversion risk, data poisoning exposure, or agent tool abuse. Covers MITRE ATLAS technique mapping, injection signature detection, and adversarial robustness scoring. |

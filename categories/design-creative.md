@@ -1,8 +1,12 @@
+[Русский](design-creative.md) | [English](design-creative.en.md)
+
 # Дизайн и творчество
 
 61 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [ad-creative](../skills/ad-creative/SKILL.md) | When the user needs to generate, iterate, or scale ad creative for paid advertising. |
 | [apple-hig-expert](../skills/apple-hig-expert/SKILL.md) | Audits and designs iOS/macOS/watchOS/visionOS interfaces against the Apple Human Interface Guidelines, including the Liquid Glass design language (announced WWDC25, shipped with iOS 26/macOS Tahoe, Sept 2025). |

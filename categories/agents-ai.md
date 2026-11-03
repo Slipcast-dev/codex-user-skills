@@ -1,8 +1,12 @@
+[Русский](agents-ai.md) | [English](agents-ai.en.md)
+
 # ИИ, Codex и агенты
 
 146 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [agent-decision-receipts](../skills/agent-decision-receipts/SKILL.md) | Mint a tamper-evident, post-quantum-signed receipt for a consequential agent action (deploy, delete, pay, grant-access, model decision) so it can be verified later from the certificate alone. |
 | [agent-design-review](../skills/agent-design-review/SKILL.md) | Review an LLM agent design and find where it will be unreliable, expensive, or unsafe. |

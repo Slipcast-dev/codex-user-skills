@@ -1,8 +1,12 @@
+[Русский](management-operations.md) | [English](management-operations.en.md)
+
 # Управление, проекты и процессы
 
 89 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [action-runner](../skills/action-runner/SKILL.md) | Turn a skill's recommendations into real, executed actions — open the tickets, file the issues, post the updates — safely: dry-run preview, risk-classified, approval-gated, then recorded back to the brain. |
 | [after-action-report](../skills/after-action-report/SKILL.md) | Run a structured after-action review (postmortem, retrospective) on a launch, incident, or completed project to capture timeline, root cause analysis, contributing factors, and actionable lessons. |

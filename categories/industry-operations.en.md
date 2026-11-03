@@ -1,0 +1,35 @@
+[Русский](industry-operations.md) | [English](industry-operations.en.md)
+
+# Industry, Manufacturing and Construction
+
+25 skills. [All categories](../CATALOG.en.md).
+
+Repository navigation and documentation are available in Russian and English. Skill instructions and resources retain their source languages. This catalog uses original English descriptions and English translations of Russian descriptions.
+
+| Skill | Description (English) |
+| --- | --- |
+| [architectural-programme-brief](../skills/architectural-programme-brief/SKILL.md) | Turn a client's wishes into an architectural brief that can actually be designed against — the accommodation schedule, the adjacencies, the budget reality, and the constraints named before they become change orders. |
+| [architectural-specification](../skills/architectural-specification/SKILL.md) | Write a specification section that a contractor can price accurately and a site can build from — performance stated, products defined, workmanship and tolerances given, and the coordination with the drawings made explicit. |
+| [architecture-client-presentation](../skills/architecture-client-presentation/SKILL.md) | Present a design to a client so they can make a decision rather than react to a picture — the brief restated, the moves explained against it, the options with their trade-offs, and a specific decision requested. |
+| [bom-cost-review](../skills/bom-cost-review/SKILL.md) | Review a bill of materials for cost, risk, and supply exposure — cost rollup, top-10 cost drivers, single-source and EOL risk, MOQ vs forecast mismatch, cost-down candidates, and tariff/logistics sensitivity. |
+| [change-order-writer](../skills/change-order-writer/SKILL.md) | Draft a defensible construction change order with entitlement basis, scope delta, itemised pricing, and schedule impact. |
+| [cn-quality-traceability](../skills/cn-quality-traceability/SKILL.md) | Use when asked 质量追溯体系怎么建, 产品追溯方案, 批次追溯, 一物一码, 客户要求可追溯性, 召回演练, 正向追溯和反向追溯, or plan product and batch traceability in a Chinese factory. |
+| [construction-rfi-response](../skills/construction-rfi-response/SKILL.md) | Answer a construction request for information so the site can act on it — a direct answer, the drawing or specification reference that supports it, and an explicit statement of whether it changes cost or programme. |
+| [demand-forecast-review](../skills/demand-forecast-review/SKILL.md) | Interrogate a demand forecast before the business commits supply and inventory to it. |
+| [driver-incident-investigation](../skills/driver-incident-investigation/SKILL.md) | Investigate a commercial vehicle incident so the record is defensible and the cause is actually found — evidence secured in the first hours, the preventability decision made on stated criteria, and corrective action aimed at the system rather than the driver. |
+| [evt-dvt-pvt-gate-review](../skills/evt-dvt-pvt-gate-review/SKILL.md) | Run an NPI phase-gate review for EVT, DVT, or PVT — exit criteria per phase, open-issue triage, yield readout, waiver discipline, and a go/no-go call. |
+| [factory-acceptance-test](../skills/factory-acceptance-test/SKILL.md) | Write a factory acceptance test (FAT) plan or report — test coverage matrix against spec, AQL sampling plan, pass/fail criteria, golden-sample handling, deviation log, and sign-off structure. |
+| [freight-rate-quote](../skills/freight-rate-quote/SKILL.md) | Build a freight rate that covers the cost of actually running the load — the per-mile economics, the deadhead and detention nobody prices, and the accessorials that decide whether the lane is profitable. |
+| [guest-incident-log](../skills/guest-incident-log/SKILL.md) | Document a guest incident at a hospitality venue — injury, illness, foodborne complaint, altercation, or property loss — into a clear, defensible record. |
+| [logistics-incident-report](../skills/logistics-incident-report/SKILL.md) | Write up a supply chain disruption — port delay, carrier failure, customs hold, or in-transit damage — as a decision-ready incident report. |
+| [punch-list-builder](../skills/punch-list-builder/SKILL.md) | Turn walkthrough notes, photos, or voice-memo transcripts into a proper construction punch list with location, trade, and spec reference per item. |
+| [report-a-hazard](../skills/report-a-hazard/SKILL.md) | Report a public hazard or code problem to the authority that can actually fix it — a pothole, broken streetlight, illegal dump, unsafe building, code violation, blocked drain — with the right department, the details that get it actioned, a tracking reference, and an escalation path if it's ignored. |
+| [rma-failure-analysis](../skills/rma-failure-analysis/SKILL.md) | Turn field returns into a structured failure-analysis report — RMA triage taxonomy (NTF vs real failures), Pareto by verified failure mode, 8D-style containment→root-cause→corrective-action structure, and cost-of-quality framing. |
+| [server-training-guide](../skills/server-training-guide/SKILL.md) | Build an onboarding and training guide for restaurant front-of-house staff (servers, hosts, bartenders). |
+| [site-analysis-report](../skills/site-analysis-report/SKILL.md) | Analyse a site before designing on it — what is physically there, what the law and the neighbours allow, and which constraints will actually shape the building. |
+| [sourcing-strategy](../skills/sourcing-strategy/SKILL.md) | Build a talent sourcing strategy for a hard-to-fill role. Use when asked to create a sourcing strategy, a candidate sourcing plan, a channel plan for hiring, or to figure out where to find candidates for a role. |
+| [subcontractor-scorecard](../skills/subcontractor-scorecard/SKILL.md) | Score a subcontractor's performance across schedule reliability, quality, safety, paperwork, and change-order behaviour with weighted anchors. |
+| [supplier-scorecard](../skills/supplier-scorecard/SKILL.md) | Build a quarterly supplier performance scorecard with a weighted grade and a clear escalate/develop/exit call. |
+| [vendor-comparison-matrix](../skills/vendor-comparison-matrix/SKILL.md) | Compare vendors on a matrix that decides instead of decorates — the criteria weighted before the demos (so the shiny demo can't rewrite them), the evidence-based scoring with the marketing-vs-verified flags, the total-cost row that includes switching, and the reference-check questions that get honest answers. |
+| [vendor-evaluation](../skills/vendor-evaluation/SKILL.md) | Evaluate, select, and contract with vendors and SaaS tools. Use this skill when comparing alternatives, running an RFP, scoring vendors against criteria, negotiating contracts, planning a switch, or assessing a vendor's risk. |
+| [vendor-management](../skills/vendor-management/SKILL.md) | Use when reviewing, scoring, or auditing third-party SaaS / vendor relationships — running a vendor scorecard with industry tuning, tracking SLA compliance with credit-claim flags, classifying third-party risk across 4 risk vectors, preparing a tier-1 vendor review, or auditing the SaaS portfolio. |

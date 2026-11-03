@@ -1,8 +1,12 @@
+[Русский](testing-quality.md) | [English](testing-quality.en.md)
+
 # Тестирование и качество
 
 30 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [a11y-audit](../skills/a11y-audit/SKILL.md) | Accessibility audit skill for scanning, fixing, and verifying WCAG 2.2 Level A and AA compliance across React, Next.js, Vue, Angular, Svelte, and plain HTML codebases. |
 | [accessibility-audit](../skills/accessibility-audit/SKILL.md) | Run a comprehensive WCAG accessibility audit covering perceivable, operable, understandable, and robust principles. |

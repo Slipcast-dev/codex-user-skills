@@ -1,8 +1,12 @@
+[Русский](finance-personal.md) | [English](finance-personal.en.md)
+
 # Финансы, учёт и покупки
 
 132 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [401k-plan-decoder](../skills/401k-plan-decoder/SKILL.md) | Decode a 401k or workplace retirement plan — the real cost of its funds, the match's fine print, vesting math, and the plan features worth using or avoiding. |
 | [annual-report-tutor](../skills/annual-report-tutor/SKILL.md) | Use when asked to walk me through an annual report, teach me to read this 10-K, explain a company's accounts to a beginner, or tutor me on the financial statements in an uploaded report. |

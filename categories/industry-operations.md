@@ -1,8 +1,12 @@
+[Русский](industry-operations.md) | [English](industry-operations.en.md)
+
 # Отрасли, производство и строительство
 
 25 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [architectural-programme-brief](../skills/architectural-programme-brief/SKILL.md) | Turn a client's wishes into an architectural brief that can actually be designed against — the accommodation schedule, the adjacencies, the budget reality, and the constraints named before they become change orders. |
 | [architectural-specification](../skills/architectural-specification/SKILL.md) | Write a specification section that a contractor can price accurately and a site can build from — performance stated, products defined, workmanship and tolerances given, and the coordination with the drawings made explicit. |

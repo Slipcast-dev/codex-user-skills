@@ -1,8 +1,12 @@
+[Русский](marketing-growth.md) | [English](marketing-growth.en.md)
+
 # Маркетинг, SEO и рост
 
 105 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [ad-copy](../skills/ad-copy/SKILL.md) | Write platform-native paid ad copy with multiple angles to test. Use when asked to write ad copy, Google/Facebook/LinkedIn/Instagram ads, PPC headlines, or paid social creative copy. |
 | [ads-creative-development](../skills/ads-creative-development/SKILL.md) | How to produce ad creative that converts at performance scale. Hook patterns, format selection, video pacing, variation systems, sequential testing methodology, fatigue detection, brand-voice alignment without conversion dilution, and platform-specific creative norms. |

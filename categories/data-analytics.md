@@ -1,8 +1,12 @@
+[Русский](data-analytics.md) | [English](data-analytics.en.md)
+
 # Данные и аналитика
 
 98 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [ab-test-readout](../skills/ab-test-readout/SKILL.md) | Analyse a finished A/B test and write the readout — the result, whether it's statistically and practically significant, what it means, and the ship/no-ship call. |
 | [ab-test-setup](../skills/ab-test-setup/SKILL.md) | When the user wants to plan, design, or implement an A/B test or experiment. |

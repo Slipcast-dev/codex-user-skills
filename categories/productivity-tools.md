@@ -1,8 +1,12 @@
+[Русский](productivity-tools.md) | [English](productivity-tools.en.md)
+
 # Продуктивность и инструменты
 
 116 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [archive-strategy](../skills/archive-strategy/SKILL.md) | Design the archive layer that keeps current workspaces lean without losing history — what moves, when, to where, findable-by-search, with the project-close ritual that makes archiving automatic instead of aspirational. |
 | [atlassian-admin](../skills/atlassian-admin/SKILL.md) | Atlassian Administrator for managing and organizing Atlassian products (Jira, Confluence, Bitbucket, Trello), users, permissions, security, integrations, system configuration, and org-wide governance. |

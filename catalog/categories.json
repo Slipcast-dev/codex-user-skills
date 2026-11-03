@@ -2,111 +2,133 @@
   {
     "id": "agents-ai",
     "title": "ИИ, Codex и агенты",
-    "count": 146
+    "count": 146,
+    "title_en": "AI, Codex and Agents"
   },
   {
     "id": "security-privacy",
     "title": "Безопасность и приватность",
-    "count": 44
+    "count": 44,
+    "title_en": "Security and Privacy"
   },
   {
     "id": "development",
     "title": "Разработка ПО и архитектура",
-    "count": 99
+    "count": 99,
+    "title_en": "Software Development and Architecture"
   },
   {
     "id": "devops-cloud",
     "title": "DevOps, облака и эксплуатация",
-    "count": 47
+    "count": 47,
+    "title_en": "DevOps, Cloud and Reliability"
   },
   {
     "id": "testing-quality",
     "title": "Тестирование и качество",
-    "count": 30
+    "count": 30,
+    "title_en": "Testing and Quality"
   },
   {
     "id": "data-analytics",
     "title": "Данные и аналитика",
-    "count": 98
+    "count": 98,
+    "title_en": "Data and Analytics"
   },
   {
     "id": "design-creative",
     "title": "Дизайн и творчество",
-    "count": 61
+    "count": 61,
+    "title_en": "Design and Creative Work"
   },
   {
     "id": "product-strategy",
     "title": "Продукт и стратегия",
-    "count": 100
+    "count": 100,
+    "title_en": "Product and Strategy"
   },
   {
     "id": "marketing-growth",
     "title": "Маркетинг, SEO и рост",
-    "count": 105
+    "count": 105,
+    "title_en": "Marketing, SEO and Growth"
   },
   {
     "id": "sales-customer",
     "title": "Продажи и работа с клиентами",
-    "count": 78
+    "count": 78,
+    "title_en": "Sales and Customer Success"
   },
   {
     "id": "business-leadership",
     "title": "Бизнес и руководство",
-    "count": 62
+    "count": 62,
+    "title_en": "Business and Leadership"
   },
   {
     "id": "management-operations",
     "title": "Управление, проекты и процессы",
-    "count": 89
+    "count": 89,
+    "title_en": "Management, Projects and Processes"
   },
   {
     "id": "people-career",
     "title": "Карьера, HR и команды",
-    "count": 99
+    "count": 99,
+    "title_en": "Careers, HR and Teams"
   },
   {
     "id": "finance-personal",
     "title": "Финансы, учёт и покупки",
-    "count": 132
+    "count": 132,
+    "title_en": "Finance, Accounting and Purchasing"
   },
   {
     "id": "legal-compliance",
     "title": "Право, договоры и соответствие",
-    "count": 106
+    "count": 106,
+    "title_en": "Legal, Contracts and Compliance"
   },
   {
     "id": "writing-communication",
     "title": "Тексты, документы и коммуникация",
-    "count": 156
+    "count": 156,
+    "title_en": "Writing, Documents and Communication"
   },
   {
     "id": "education-learning",
     "title": "Обучение и образование",
-    "count": 48
+    "count": 48,
+    "title_en": "Learning and Education"
   },
   {
     "id": "health-care",
     "title": "Здоровье и забота",
-    "count": 68
+    "count": 68,
+    "title_en": "Health and Care"
   },
   {
     "id": "home-family",
     "title": "Дом, семья и отношения",
-    "count": 65
+    "count": 65,
+    "title_en": "Home, Family and Relationships"
   },
   {
     "id": "travel-lifestyle",
     "title": "Путешествия, досуг и образ жизни",
-    "count": 35
+    "count": 35,
+    "title_en": "Travel, Leisure and Lifestyle"
   },
   {
     "id": "productivity-tools",
     "title": "Продуктивность и инструменты",
-    "count": 116
+    "count": 116,
+    "title_en": "Productivity and Tools"
   },
   {
     "id": "industry-operations",
     "title": "Отрасли, производство и строительство",
-    "count": 25
+    "count": 25,
+    "title_en": "Industry, Manufacturing and Construction"
   }
 ]

@@ -1,8 +1,12 @@
+[Русский](education-learning.md) | [English](education-learning.en.md)
+
 # Обучение и образование
 
 48 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [chess-opening-coach](../skills/chess-opening-coach/SKILL.md) | Build a small, coherent opening repertoire that fits your style and level — the few lines actually worth learning, plus the plans and traps behind them. |
 | [cn-class-meeting](../skills/cn-class-meeting/SKILL.md) | Use when asked 帮我设计一节班会, 主题班会方案, 班会课教案, 开学第一课, 安全教育班会, 心理健康班会, or plan a class meeting as a 班主任. |

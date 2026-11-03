@@ -1,3 +1,5 @@
+[Русский](CODE_OF_CONDUCT.md) | [English](CODE_OF_CONDUCT.en.md)
+
 # Правила общения
 
 Эти правила действуют в issues, pull requests, обсуждениях и других пространствах проекта.

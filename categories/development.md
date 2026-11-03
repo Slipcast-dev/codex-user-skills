@@ -1,8 +1,12 @@
+[Русский](development.md) | [English](development.en.md)
+
 # Разработка ПО и архитектура
 
 99 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [adversarial-reviewer](../skills/adversarial-reviewer/SKILL.md) | Adversarial code review that breaks the self-review monoculture. Use when you want a genuinely critical review of recent changes, before merging a PR, or when you suspect Claude is being too agreeable about code quality. |
 | [api-client](../skills/api-client/SKILL.md) | Интеграция с внешними API: авторизация (OAuth/ключи), rate-limit, повторные попытки, HTTP-клиенты |

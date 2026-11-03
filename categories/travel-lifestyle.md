@@ -1,8 +1,12 @@
+[Русский](travel-lifestyle.md) | [English](travel-lifestyle.en.md)
+
 # Путешествия, досуг и образ жизни
 
 35 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [accessible-travel-planner](../skills/accessible-travel-planner/SKILL.md) | Plan a trip that actually works with a disability or access need — confirm real accessibility (not just 'accessible' labels), book the assistance in advance, plan for equipment and medication, and build in the contingencies for when access breaks down. |
 | [arrival-setup](../skills/arrival-setup/SKILL.md) | Set up the essentials in the right order after moving to a new country — the ID/registration, bank account, phone, address, and social/tax number that unlock each other — so you don't get stuck in the chicken-and-egg loops that trap newcomers. |

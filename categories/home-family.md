@@ -1,8 +1,12 @@
+[Русский](home-family.md) | [English](home-family.en.md)
+
 # Дом, семья и отношения
 
 65 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [after-the-disaster](../skills/after-the-disaster/SKILL.md) | Work through the first hours and days after a disaster — a fire, flood, storm, or evacuation — in the right order: safety and people first, then documenting for insurance and aid, then the immediate recovery steps, without missing the things that cost money or health later. |
 | [blended-family-plan](../skills/blended-family-plan/SKILL.md) | Plan the merging of two families thoughtfully — roles, rules, routines, and relationships — so a blended household starts on the right foot instead of a collision. |

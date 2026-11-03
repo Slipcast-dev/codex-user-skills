@@ -1,8 +1,12 @@
+[Русский](writing-communication.md) | [English](writing-communication.en.md)
+
 # Тексты, документы и коммуникация
 
 156 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [all-hands-deck](../skills/all-hands-deck/SKILL.md) | Build an all-hands that lands with everyone from intern to VP — the mixed-altitude structure (the story for all, the numbers for some), the wins-with-names section done right, the hard-news slide handled straight, and the Q&A design that gets real questions. |
 | [altitude-shifter](../skills/altitude-shifter/SKILL.md) | Re-pitch one piece of content for four audiences — the board, the engineers, a customer, a new hire — with a delta table showing what changed between altitudes and why. |

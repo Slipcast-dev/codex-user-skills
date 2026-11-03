@@ -1,8 +1,12 @@
+[Русский](legal-compliance.md) | [English](legal-compliance.en.md)
+
 # Право, договоры и соответствие
 
 106 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [ai-act-readiness](../skills/ai-act-readiness/SKILL.md) | /compliance-os:ai-act-readiness [system] — EU AI Act 6-question forcing interrogation. Use during AI-system intake, before EU deployment, or during annual compliance refresh as Article 113 obligations phase in (2025-02-02 / 2025-08-02 / 2026-08-02 / 2027-08-02). |
 | [aims-audit](../skills/aims-audit/SKILL.md) | /compliance-os:aims-audit [scope] — ISO/IEC 42001 AIMS internal-audit 6-question forcing interrogation. Use before certification stage 1, before annual internal audit cycles, or when onboarding a new AI system into an existing AIMS. |

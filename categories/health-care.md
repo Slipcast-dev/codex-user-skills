@@ -1,8 +1,12 @@
+[Русский](health-care.md) | [English](health-care.en.md)
+
 # Здоровье и забота
 
 68 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [accommodation-request](../skills/accommodation-request/SKILL.md) | Request a reasonable accommodation at work or in education — frame it around the barrier and the adjustment (not your diagnosis), cite the right process, and navigate the back-and-forth constructively. |
 | [aging-in-place-assessment](../skills/aging-in-place-assessment/SKILL.md) | Assess whether and how someone can safely stay in their own home as they age — the home hazards, the support gaps, and the modifications and services that make it work. |

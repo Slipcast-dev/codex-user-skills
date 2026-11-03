@@ -1,8 +1,12 @@
+[Русский](people-career.md) | [English](people-career.en.md)
+
 # Карьера, HR и команды
 
 99 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [360-feedback-template](../skills/360-feedback-template/SKILL.md) | Design a 360-degree feedback survey or write a structured 360 feedback report. |
 | [academic-cv](../skills/academic-cv/SKILL.md) | Build or tailor an academic CV for faculty, postdoc, research or fellowship applications: publications, grants, teaching, supervision and service in the order the field expects, with consistent citations. |

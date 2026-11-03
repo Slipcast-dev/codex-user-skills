@@ -1,8 +1,12 @@
+[Русский](sales-customer.md) | [English](sales-customer.en.md)
+
 # Продажи и работа с клиентами
 
 78 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [account-plan](../skills/account-plan/SKILL.md) | Build a structured account plan for any key customer or target account. Use when asked to create an account plan, key account strategy, strategic account review, or territory plan. Produces a complete account plan with relationship map, growth opportunities, risks, and 90-day action plan. |
 | [bid-tender-review](../skills/bid-tender-review/SKILL.md) | Analyse a construction bid or tender package for scope gaps, risk-shifting exclusions, unit-rate red flags, and front-loading in the schedule of values. |

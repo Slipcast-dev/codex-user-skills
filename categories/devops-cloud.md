@@ -1,8 +1,12 @@
+[Русский](devops-cloud.md) | [English](devops-cloud.en.md)
+
 # DevOps, облака и эксплуатация
 
 47 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [aws-solution-architect](../skills/aws-solution-architect/SKILL.md) | Design AWS architectures for startups using serverless patterns and IaC templates. |
 | [azure-cloud-architect](../skills/azure-cloud-architect/SKILL.md) | Design Azure architectures for startups and enterprises. Use when asked to design Azure infrastructure, create Bicep/ARM templates, optimize Azure costs, set up Azure DevOps pipelines, or migrate to Azure. Covers AKS, App Service, Azure Functions, Cosmos DB, and cost optimization. |

@@ -1,0 +1,118 @@
+{
+  "api-client": {
+    "source_description": "Интеграция с внешними API: авторизация (OAuth/ключи), rate-limit, повторные попытки, HTTP-клиенты",
+    "description": "Integrate external APIs: authentication (OAuth/API keys), rate limits, retries and HTTP clients."
+  },
+  "api-integration-engineering": {
+    "source_description": "Проектировать, реализовывать и проверять внешние API-интеграции, webhook, пагинацию и повторную доставку. Использовать для контрактов и отказов интеграции; не для обычного UI или выбора бизнес-инструмента.",
+    "description": "Design, implement and verify external API integrations, webhooks, pagination and redelivery. Use for integration contracts and failures, rather than ordinary UI work or selecting business tools."
+  },
+  "backend-developer": {
+    "source_description": "Разработка бэкенда: Node.js/Express, Python/FastAPI/Django, REST/GraphQL, авторизация, валидация, интеграция с БД",
+    "description": "Backend development with Node.js/Express and Python/FastAPI/Django: REST/GraphQL, authentication, validation and database integration."
+  },
+  "code-review": {
+    "source_description": "Чеклист комплексного ревью кода: корректность, безопасность, тесты, качество, производительность",
+    "description": "A comprehensive code review checklist covering correctness, security, tests, quality and performance."
+  },
+  "codex-agent-team": {
+    "source_description": "Команда специализированных агентов для разработки: планирование, архитектура, исправление ошибок, тесты, ревью, документация, GitHub и контроль агентов. Применяй для нетривиальной разработки или запроса конкретной роли.",
+    "description": "A team of specialized development agents for planning, architecture, bug fixes, tests, review, documentation, GitHub and agent supervision. Use for substantial development or requests for a specific role."
+  },
+  "cpp-cross-platform-engineering": {
+    "source_description": "Разрабатывать, отлаживать и собирать C++17/20 библиотеки, CLI и системные утилиты с RAII, CMake, диагностикой памяти и проверкой целевых платформ. Не применять к задачам без C++.",
+    "description": "Develop, debug and build C++17/20 libraries, CLIs and system utilities using RAII, CMake, memory diagnostics and target-platform verification. Not intended for tasks without C++."
+  },
+  "data-migration-engineering": {
+    "source_description": "Проектировать и проверять преобразование данных, изменения схем и миграции с совместимостью, сверкой результата и восстановлением. Не заменяет анализ таблиц или обычный SQL-запрос без изменения данных.",
+    "description": "Design and verify data transformations, schema changes and migrations with compatibility checks, reconciliation and recovery. Does not replace spreadsheet analysis or ordinary SQL queries that do not change data."
+  },
+  "data-visualization": {
+    "source_description": "Выбор и построение подходящей визуализации данных (графики, диаграммы, карты)",
+    "description": "Select and build suitable data visualizations, including charts, diagrams and maps."
+  },
+  "database": {
+    "source_description": "Работа с БД: схемы, миграции (Alembic/Prisma), SQL/ORM, индексы, нормализация, выбор СУБД",
+    "description": "Database work: schemas, migrations (Alembic/Prisma), SQL/ORM, indexes, normalization and database selection."
+  },
+  "deepseek-harness-adapter": {
+    "source_description": "Адаптирует SKILL.md и связанные ресурсы, написанные для другого ИИ-агента, под DeepSeek Harness с сохранением назначения, ограничений и проверяемого поведения. Применяй, когда пользователь просит портировать, конвертировать или совместить чужой скил с DeepSeek Harness.",
+    "description": "Adapt SKILL.md and related resources written for another AI agent to DeepSeek Harness while preserving their purpose, constraints and verifiable behavior. Use when asked to port, convert or make another agent’s skill compatible with DeepSeek Harness."
+  },
+  "deployment": {
+    "source_description": "Безопасная процедура деплоя: pre-deploy, deploy, post-deploy и откат",
+    "description": "A safe deployment procedure covering pre-deployment checks, deployment, post-deployment checks and rollback."
+  },
+  "desktop-app": {
+    "source_description": "Десктопные приложения: Electron/Tauri, упаковка, автообновление, нативные API",
+    "description": "Desktop applications with Electron/Tauri: packaging, automatic updates and native APIs."
+  },
+  "developer": {
+    "source_description": "Полный цикл разработки ПО: анализ требований, проектирование, реализация, тестирование, ревью, деплой и сопровождение на всех уровнях стека",
+    "description": "The full software development lifecycle: requirements analysis, design, implementation, testing, review, deployment and maintenance across the stack."
+  },
+  "developer-automation": {
+    "source_description": "Разрабатывать и отлаживать ботов, парсеры, фоновые задачи и автоматизацию macOS/Windows. Дополняет основной инженерный процесс правилами состояния, повторов, завершения и платформенных интеграций; не является общим маршрутизатором веб-разработки.",
+    "description": "Develop and debug bots, parsers, background jobs and macOS/Windows automation. Extends the engineering workflow with state management, retries, shutdown and platform integrations; it is not a general web-development router."
+  },
+  "docker-dev": {
+    "source_description": "Контейнеризация и локальная разработка через Docker: Dockerfile, docker-compose, multi-stage сборка, networking",
+    "description": "Containerization and local development with Docker: Dockerfiles, Docker Compose, multi-stage builds and networking."
+  },
+  "document-processing": {
+    "source_description": "Работа с офисными форматами PDF, DOCX и XLSX: чтение, извлечение, изменение",
+    "description": "Work with PDF, DOCX and XLSX office formats: reading, extraction and modification."
+  },
+  "dsh-converter": {
+    "source_description": "Конвертация промтов, инструкций и скилов ChatGPT/Claude в формат DeepSeek Harness (DSH)",
+    "description": "Convert ChatGPT/Claude prompts, instructions and skills to the DeepSeek Harness (DSH) format."
+  },
+  "frontend-developer": {
+    "source_description": "Разработка фронтенда: HTML/CSS/JS, React/Vue/Svelte, верстка, сборка (Vite/Webpack), работа с API, доступность",
+    "description": "Frontend development with HTML/CSS/JS and React/Vue/Svelte: layout, builds (Vite/Webpack), API integration and accessibility."
+  },
+  "fullstack-project": {
+    "source_description": "Запуск полного веб-проекта с нуля: инициализация монорепо/клиент+сервер, структура, окружение, локальный запуск",
+    "description": "Start a complete web project from scratch: initialize a monorepo or client/server setup, organize its structure, configure the environment and run it locally."
+  },
+  "git-workflow": {
+    "source_description": "Git-флоу: ветки, коммиты (conventional commits), PR, rebase/merge, разрешение конфликтов, теги",
+    "description": "Git workflows: branches, conventional commits, pull requests, rebasing/merging, conflict resolution and tags."
+  },
+  "mobile-app": {
+    "source_description": "Мобильные приложения: React Native/Expo/Flutter, сборка, нативные модули, публикация в стор",
+    "description": "Mobile applications with React Native/Expo/Flutter: builds, native modules and app-store publication."
+  },
+  "parser-scraper": {
+    "source_description": "Веб-скрейпинг и парсинг: Playwright/Selenium/BeautifulSoup/httpx, обход антиботов, пагинация, экспорт данных",
+    "description": "Web scraping and parsing with Playwright/Selenium/BeautifulSoup/httpx: handling anti-bot measures, pagination and data export."
+  },
+  "prompt-audit": {
+    "source_description": "Аудит промтов и инструкций: чёткость, полнота, безопасность, структура и соответствие схеме",
+    "description": "Audit prompts and instructions for clarity, completeness, security, structure and schema compliance."
+  },
+  "prompt-authoring-standard": {
+    "source_description": "Применяй при разработке, написании или ревью промптов для LLM — универсальный стандарт промпта",
+    "description": "Apply this universal prompt standard when designing, writing or reviewing prompts for LLMs."
+  },
+  "report-writing": {
+    "source_description": "Стандарт написания структурированных отчётов: резюме, выводы, детали, рекомендации",
+    "description": "A standard for structured reports: executive summary, findings, details and recommendations."
+  },
+  "skill-evaluation": {
+    "source_description": "Проверять выбор и наблюдаемое поведение навыков на реалистичных положительных, отрицательных и аварийных сценариях. Использовать после существенного изменения навыка или для регрессии; текстовый аудит выполняет prompt-skill-auditor.",
+    "description": "Evaluate skill selection and observable behavior using realistic positive, negative and failure scenarios. Use after substantial skill changes or for regression checks; prompt-skill-auditor handles text audits."
+  },
+  "telegram-bot": {
+    "source_description": "Создание Telegram-ботов: aiogram/python-telegram-bot/grammY, команды, кнопки, FSM, вебхуки, деплой",
+    "description": "Build Telegram bots with aiogram/python-telegram-bot/grammY: commands, buttons, finite-state machines, webhooks and deployment."
+  },
+  "testing": {
+    "source_description": "Тестирование: unit/integration/e2e, выбор фреймворка (pytest/Jest/Vitest/Playwright), TDD,覆盖率",
+    "description": "Testing: unit/integration/end-to-end tests, framework selection (pytest/Jest/Vitest/Playwright), TDD and coverage."
+  },
+  "universal-software-development": {
+    "source_description": "Выбрать инженерный процесс и профильные навыки для новой или межплатформенной задачи разработки, когда основной маршрут ещё не определён. Не дублировать уже выбранный профильный процесс реализации или ревью.",
+    "description": "Select an engineering workflow and specialist skills for new or cross-platform development when the main route has not yet been chosen. Avoid duplicating an implementation or review workflow already selected."
+  }
+}

@@ -1,8 +1,12 @@
+[Русский](business-leadership.md) | [English](business-leadership.en.md)
+
 # Бизнес и руководство
 
 62 навыков. [Все категории](../CATALOG.md).
 
-| Навык | Назначение |
+Навигация и документация доступны на русском и английском. Инструкции и ресурсы навыков сохранены на языках оригиналов. Описания в этой версии приведены из исходных навыков; английская версия каталога содержит переводы русских описаний.
+
+| Навык | Описание из исходного навыка |
 | --- | --- |
 | [acquirer-red-team](../skills/acquirer-red-team/SKILL.md) | Simulate the acquirer's diligence team hunting for reasons to cut your price — their internal red-flags memo with a price-chip estimate per finding. |
 | [agm-in-a-box](../skills/agm-in-a-box/SKILL.md) | Run a club, PTA, or association AGM that finishes on time and holds up later — the notice and agenda done right, a quorum plan, minutes that capture decisions not conversations, elections without awkwardness, and the follow-up that makes decisions real. |

@@ -7,9 +7,71 @@ import re
 import sys
 from collections import Counter
 from pathlib import Path
+from typing import Any
 from urllib.parse import unquote
 
 ROOT = Path(__file__).resolve().parents[1]
+
+
+def check_localizations(
+    items: list[dict[str, Any]], categories: list[dict[str, Any]],
+) -> list[str]:
+    """Проверяет парные страницы, переводы и одинаковый состав категорий."""
+    errors: list[str] = []
+    translations = json.loads(
+        (ROOT / 'catalog/descriptions.en.json').read_text(encoding='utf-8')
+    )
+    by_name = {item['name']: item for item in items}
+    for name, translation in translations.items():
+        if name not in by_name:
+            errors.append(f'Перевод неизвестного навыка: {name}')
+            continue
+        if translation.get('source_description') != by_name[name]['description']:
+            errors.append(f'Устаревший английский перевод: {name}')
+        translated = translation.get('description', '')
+        if not translated.strip() or re.search('[А-Яа-яЁё]', translated):
+            errors.append(f'Некорректный английский перевод: {name}')
+    for item in items:
+        if re.search('[А-Яа-яЁё]', item['description']):
+            if item['name'] not in translations:
+                errors.append(f"Нет английского описания: {item['name']}")
+    stems = [
+        'README', 'CATALOG', 'CONTRIBUTING', 'CODE_OF_CONDUCT',
+        'SECURITY', 'SUPPORT', 'CHANGELOG', 'THIRD_PARTY_NOTICES',
+    ]
+    for category in categories:
+        slug = category['id']
+        if not category.get('title_en', '').strip():
+            errors.append(f'Нет английского названия категории: {slug}')
+        stems.append(f'categories/{slug}')
+        expected = Counter(
+            item['name'] for item in items if item['category'] == slug
+        )
+        for suffix in ('', '.en'):
+            page = ROOT / f'categories/{slug}{suffix}.md'
+            if not page.exists():
+                continue  # Ниже выдаётся единая ошибка для отсутствующей страницы.
+            text = page.read_text(encoding='utf-8')
+            actual = Counter(re.findall(
+                r'\[([^]\n]+)\]\(\.\./skills/[^)]+/SKILL\.md\)', text,
+            ))
+            if actual != expected:
+                errors.append(f'Состав локализованной категории неверен: {page.name}')
+    for stem in stems:
+        basename = Path(stem).name
+        expected_links = (
+            f'[Русский]({basename}.md)',
+            f'[English]({basename}.en.md)',
+        )
+        for suffix in ('', '.en'):
+            page = ROOT / f'{stem}{suffix}.md'
+            if not page.is_file():
+                errors.append(f'Нет локализованной страницы: {stem}{suffix}.md')
+                continue
+            content = page.read_text(encoding='utf-8')
+            if not all(link in content for link in expected_links):
+                errors.append(f'Нет переключателя языка: {stem}{suffix}.md')
+    return errors
 
 
 def check() -> list[str]:
@@ -18,6 +80,7 @@ def check() -> list[str]:
     data = json.loads((ROOT / 'catalog/skills.json').read_text(encoding='utf-8'))
     items = data['skills']
     categories = json.loads((ROOT / 'catalog/categories.json').read_text(encoding='utf-8'))
+    errors.extend(check_localizations(items, categories))
     slugs = {category['id'] for category in categories}
     names = [item['name'] for item in items]
     if len(names) != len(set(names)):

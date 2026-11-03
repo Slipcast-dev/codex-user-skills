@@ -18,4 +18,4 @@ jobs:
       - name: Check generated catalog is current
         run: |
           python3 scripts/build_catalog.py
-          git diff --exit-code -- CATALOG.md THIRD_PARTY_NOTICES.md catalog/categories.json catalog/provenance.json categories/
+          git diff --exit-code -- CATALOG.md CATALOG.en.md THIRD_PARTY_NOTICES.md THIRD_PARTY_NOTICES.en.md catalog/categories.json catalog/provenance.json categories/

@@ -1,3 +1,5 @@
+[Русский](README.md) | [English](README.en.md)
+
 <p align="center">
   <img src="assets/banner.svg" alt="Codex User Skills — каталог пользовательских навыков для OpenAI Codex" width="100%">
 </p>
@@ -14,11 +16,12 @@
 [![GitHub Stars](https://img.shields.io/github/stars/Slipcast-dev/codex-user-skills?style=flat)](https://github.com/Slipcast-dev/codex-user-skills/stargazers)
 [![Последнее изменение](https://img.shields.io/github/last-commit/Slipcast-dev/codex-user-skills)](https://github.com/Slipcast-dev/codex-user-skills/commits/main)
 [![Формат](https://img.shields.io/badge/format-SKILL.md-7c3aed)](https://developers.openai.com/codex/skills)
+[![Языки](https://img.shields.io/badge/languages-RU%20%7C%20EN-0284c7)](README.en.md)
 [![Лицензии](https://img.shields.io/badge/licenses-per--skill-64748b)](THIRD_PARTY_NOTICES.md)
 
 Независимая коллекция сообщества. Репозиторий не является официальным продуктом OpenAI и не означает одобрения или поддержки со стороны OpenAI. Системные навыки Codex и навыки из установленных плагинов в коллекцию не входят.
 
-**English:** An independent, categorized collection of user-installed skills for OpenAI Codex. Browse [the catalog](CATALOG.md), inspect a skill, then install its complete folder. Bundled system and plugin skills are excluded. Original per-skill licenses and attribution are preserved.
+Документация и навигация доступны на русском и английском языках. Инструкции и ресурсы самих навыков сохранены на исходных языках. Большинство описаний изначально на английском; для русских описаний в английском каталоге добавлен перевод. Полная английская версия: [README.en.md](README.en.md).
 
 ## Категории и поиск
 
@@ -55,7 +58,7 @@ $skill-installer Установи навык из https://github.com/Slipcast-de
 
 ### Вручную: macOS и Linux
 
-Нужен установленный Git. Следующий пример копирует один навык в пользовательский каталог `~/.agents/skills` и прерывается, если одноимённая папка уже существует:
+Нужен установленный Git. Следующий пример копирует один навык в пользовательский каталог `~/.agents/skills` и не перезаписывает одноимённую папку, если она уже существует:
 
 ```sh
 git clone https://github.com/Slipcast-dev/codex-user-skills.git
@@ -117,5 +120,6 @@ scripts/              Инструменты сопровождения ката
 - [Правила общения](CODE_OF_CONDUCT.md)
 - [Сообщить об уязвимости](SECURITY.md)
 - [Вопросы и помощь](SUPPORT.md)
+- [История изменений](CHANGELOG.md)
 
 Шаблоны обращений, инструкции для участников и политика безопасности подготовлены с учётом [рекомендаций GitHub для публичных репозиториев](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-community-profiles-for-public-repositories).
