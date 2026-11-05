@@ -1,7 +1,8 @@
 ---
 name: "code-review-web"
-description: "Review web application code for bugs, security issues, performance problems, and stack-specific anti-patterns."
+description: "Review web application code for bugs, security issues, performance problems, and stack-specific anti-patterns. Use this skill whenever the user wants to review code, debug a production issue, investigate a build failure, audit security, or check a PR before merging. Triggers on code review, review my code, debug, build error, broken, not working, why is X failing, check this code, security check, PR review, audit code, refactor. Also triggers when investigating 4xx or 5xx errors, deploy failures, environment variable issues, and CMS integration problems."
 ---
+
 # Code Review for Web
 
 Review and debug web application code with a focus on the patterns that actually break production. Stack-agnostic principles in SKILL.md. Stack-specific patterns in references.
@@ -208,6 +209,3 @@ For incidents: a postmortem document. See `after-action-report` for that format.
 - [`references/nextjs-patterns.md`](references/nextjs-patterns.md) - Stack-specific patterns for Next.js (App Router, ISR, Server Components, common bugs).
 - [`references/wordpress-headless-patterns.md`](references/wordpress-headless-patterns.md) - Stack-specific patterns for headless WordPress integrations.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

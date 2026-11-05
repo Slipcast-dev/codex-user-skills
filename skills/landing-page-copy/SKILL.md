@@ -1,7 +1,8 @@
 ---
 name: "landing-page-copy"
-description: "Write landing page copy with attention to the hero, value proposition, social proof, objection handling, and conversion-focused CTAs."
+description: "Write landing page copy with attention to the hero, value proposition, social proof, objection handling, and conversion-focused CTAs. Use this skill whenever the user wants to write a landing page, sales page, hero section, or any conversion-focused web copy. Triggers on landing page, sales page, hero copy, value proposition, headline, subheadline, hero section, CTA copy, conversion copy, opt-in page, squeeze page. Also triggers when the user has a marketing campaign or product launch needing dedicated conversion copy. Use `cro-optimization` instead when the page already exists and the ask is to lift its conversion rate through testing rather than to write the copy."
 ---
+
 # Landing Page Copy
 
 Write copy for pages with a single conversion goal: signup, purchase, demo request, download, lead capture. Stack-agnostic.
@@ -261,6 +262,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 - [`references/hero-formulas.md`](references/hero-formulas.md) - Patterns and formulas for hero headlines.
 - [`references/objection-library.md`](references/objection-library.md) - Common objections by category, with handling strategies.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Reach back out to a friend or person you've lost touch with — past the awkwardness of the gap — with a message that reopens the door warmly. Use when asked how do I reconnect with an old friend, it's been too long and it's awkward, reach out to someone I drifted from, or message someone I lost touch with. Produces a read on why the awkwardness is smaller than it feels, a warm reach-out message that acknowledges the gap without over-apologizing, a specific hook (a memory, a reason, a simple 'you crossed my mind'), and how to move from message to actually reconnecting — because most drifted friendships just needed one person to text first.

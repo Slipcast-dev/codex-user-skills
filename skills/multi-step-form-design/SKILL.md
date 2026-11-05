@@ -1,7 +1,8 @@
 ---
 name: "multi-step-form-design"
-description: "Designing forms with multiple steps, progress indicators, conditional logic, and save-and-resume mechanics."
+description: "Designing forms with multiple steps, progress indicators, conditional logic, and save-and-resume mechanics. The discipline of breaking complex data collection into stages that respect cognitive load while maintaining completion intent. Honest about kitchen-sink-single-page (overwhelms before the user starts), progress-theater (steps without genuine staging), and genuinely-staged (each step earns its own page) patterns. Triggers on multi-step form, multi-page form, form wizard, signup wizard, lead form, application form, intake form, configurator, onboarding form. Also triggers when a long form is converting poorly, when an audience is dropping off mid-form, or when a multi-step form is being scoped for the first time."
 ---
+
 # Multi-Step Form Design
 
 A senior growth practitioner's playbook for designing forms with multiple steps, progress indicators, conditional logic, and save-and-resume mechanics. The discipline of breaking complex data collection into stages that respect cognitive load while maintaining completion intent.
@@ -333,6 +334,3 @@ That is the bar. Below the bar are kitchen-sink-single-pages (overwhelm before t
 
 The discipline is in the design choices upstream of the form. The decision to make the form multi-step (or not). The step architecture that makes each step coherent. The progress indicator that reflects honest progress. The conditional logic that removes friction without adding confusion. The validation that catches errors helpfully. The drop-off measurement that informs ongoing improvement.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

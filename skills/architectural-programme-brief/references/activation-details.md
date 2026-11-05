@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Turn a client's wishes into an architectural brief that can actually be designed against — the accommodation schedule, the adjacencies, the budget reality, and the constraints named before they become change orders. Use when asked to write an architectural brief, prepare a project brief for a building, run a client briefing, or capture requirements for a new build or refurbishment. Produces the accommodation schedule with areas, the adjacency and circulation requirements, the site and statutory constraints, the budget and programme reality check, and the explicit exclusions.

@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Write a monitoring setup guide for a service — defining what to measure, how to alert on it, and how to build the observability stack covering the four golden signals, business metrics, log strategy, distributed tracing, alerting rules, dashboard layout, and observability debt. Use when asked to set up monitoring for a service, define alerting strategy, write an observability plan, create a dashboard specification, or document logging standards for a team. Produces a metric definitions table, alert rules specification, dashboard layout wireframe, log schema, tracing setup checklist, and monitoring gap analysis.

@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Assemble the grab-and-go document and information kit for a disaster — the IDs, insurance, medical, financial, and property records (physical copies + secure digital backups) you'd need to prove who you are, get aid, and rebuild after a fire, flood, or evacuation. Use when someone says 'what documents for an emergency', 'important papers for a disaster', 'emergency document checklist', or 'what would I need if my house burned down'. Produces a documents checklist, a physical + digital storage plan, and the info that isn't a document (contacts, med lists). Pairs with the go-bag.

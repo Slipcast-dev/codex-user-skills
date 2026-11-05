@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Put one situation in front of three professionals chosen to disagree — the lawyer, the accountant, and the therapist read the same divorce — each ruling independently, with the conflicts surfaced in a disagreement table instead of blended into mush. Use when asked for different professional perspectives, what would a lawyer versus an accountant say, I keep getting one-sided advice, or pressure-test this from multiple angles. Produces three independent readings, the disagreement table with why the frames diverge, and the decision map of which expert to weight for which sub-decision. The anti-consensus skill: it never averages.

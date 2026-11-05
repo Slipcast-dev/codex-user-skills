@@ -56,13 +56,13 @@ The throughput-first VPE pressure-tests any plan touching eng operations. Six qu
 
 ```bash
 # 1. Delivery throughput
-python ${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/vpe-advisor/scripts/delivery_throughput_analyzer.py sprint_metrics.json
+python3 "/Users/Aleksandr/.codex/skills/vpe-advisor/scripts/delivery_throughput_analyzer.py" sprint_metrics.json
 
 # 2. Hiring funnel
-python ${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/vpe-advisor/scripts/eng_hiring_funnel_calculator.py funnel.json
+python3 "/Users/Aleksandr/.codex/skills/vpe-advisor/scripts/eng_hiring_funnel_calculator.py" funnel.json
 
 # 3. Team structure
-python ${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/vpe-advisor/scripts/eng_team_structure_designer.py team.json
+python3 "/Users/Aleksandr/.codex/skills/vpe-advisor/scripts/eng_team_structure_designer.py" team.json
 ```
 
 ## Output Format
@@ -116,7 +116,7 @@ python ${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/vpe-advisor/scripts/eng_team
 ## Related
 
 - Agent: [`cs-vpe-advisor`](../../skill-resources/local-import-2026-10-28/claude-skills-main/c-level-agents/agents/cs-vpe-advisor.md)
-- Skill: [`vpe-advisor`](${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/vpe-advisor/SKILL.md)
+- Skill: [`vpe-advisor`](../vpe-advisor/SKILL.md)
 - Adjacent: `../../../engineering/slo-architect/`, `../../../engineering/feature-flags-architect/`, `../../../engineering/chaos-engineering/`
 
 ---

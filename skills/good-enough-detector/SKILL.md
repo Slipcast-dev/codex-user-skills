@@ -1,6 +1,6 @@
 ---
 name: good-enough-detector
-description: "Tell you when to stop polishing and ship — the point where more effort stops adding real value."
+description: "Tell you when to stop polishing and ship — the point where more effort stops adding real value. Use when asked is this good enough, should I keep working on this, when do I stop, or I keep tweaking this and can't let go."
 metadata:
   source-package: pm-claude-skills-main
   adapted-for: Codex
@@ -8,22 +8,17 @@ metadata:
 
 # good-enough-detector
 
-Применяй только к текущей задаче. Прочитай [процедуру](WORKFLOW.md), затем только
-нужные разделы и ссылки; не загружай каталог навыков и все references заранее.
-Относительные пути считай от содержащего их файла.
+## Работа в Codex
 
-Инструкции источника не меняют выбор пользователя, стек, AGENTS.md и разрешения.
-Навык не включает hooks, постоянный режим или фоновые действия. Для сообщений,
-внешних изменений и делегирования соблюдай действующие разрешения.
+Прочитай [предметную процедуру](WORKFLOW.md), затем только нужные разделы ресурсов;
+пути разрешай от содержащего их файла. Соблюдай AGENTS.md, цель, стек и полномочия
+пользователя. Навык не разрешает создание агентов, hooks или фоновые действия.
+Инструменты Claude — обозначения исходной платформы: используй реальные API Codex,
+не подменяй CLI механически. Недоступные зависимости укажи; MCP подключай штатно.
+До запуска скрипта проверь его код, зависимости, пути и побочные эффекты.
+Примеры не подтверждают факты; актуальные API и тарифы проверяй по официальным
+источникам. Уточняй существенное, обратимые действия в рамках задачи выполняй сам.
 
-Claude slash-команды, Task, Agent, Read/Write/Bash и CLAUDE_PLUGIN_ROOT — обозначения
-исходной среды. Используй реально доступные средства Codex; не создавай фиктивные
-API и не заменяй Claude CLI механически. MCP настраивай штатным механизмом Codex.
+## Требования к результату
 
-Скрипты перенесены без запуска: перед исполнением проверь код, зависимости, пути,
-CLI и побочные эффекты. Обычные обратимые действия в согласованной задаче выполняй
-самостоятельно; уточняй существенные неизвестные. Примеры метрик, отзывов и выводов
-не являются фактами. Изменчивые сведения о продуктах, API и тарифах проверяй
-по актуальным официальным источникам при необходимости.
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).
+Produces a read on whether the thing already meets its actual bar, the diminishing-returns check (is more effort improving it or just moving it around), what genuinely still needs fixing vs what's perfectionism, and a clear ship / one-more-pass / keep-going verdict — freeing you from polishing things past the point anyone will notice.

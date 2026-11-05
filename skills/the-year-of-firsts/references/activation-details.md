@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Get through the first year after losing someone — the birthdays, holidays, and ordinary triggers that ambush you — with a gentle plan for the hard days instead of being blindsided. Use when asked how do I get through the holidays after a death, the first birthday without them, grief is hitting me in waves, or coping with the first year of loss. Produces a map of the anticipated hard days, keep/change/skip options for each, grounding for the ambush waves, ways to include their memory, and gentle markers for when grief needs more support. Not therapy; points to grief counseling and support groups.

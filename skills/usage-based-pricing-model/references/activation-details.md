@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Design a usage-based pricing scheme that scales revenue with value without scaring customers away — the metric that tracks value, tiers with included volume, and the guardrails that prevent bill shock. Use when asked to design usage-based or metered pricing, move from seats to consumption, price an API or AI product per unit, or handle customers afraid of variable bills. Produces the value-metric selection, the tier structure with included volumes and overage rates, the bill-shock guardrails, revenue modelling at usage percentiles, and the migration plan from the current model.

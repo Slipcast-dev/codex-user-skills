@@ -1,7 +1,8 @@
 ---
 name: "seo-site-health-audit"
-description: "Triage technical SEO findings from Ahrefs Site Audit (and similar crawlers) by SEO impact, not just severity."
+description: "Triage technical SEO findings from Ahrefs Site Audit (and similar crawlers) by SEO impact, not just severity. Use this skill when reviewing crawl results, prioritizing technical fixes, scoping a technical SEO sprint, or after running any site-wide crawl. Triggers on site audit results, technical fix list, crawl errors, technical SEO triage, prioritize technical issues, what should we fix first, broken links, redirect chains. Also triggers when a long list of crawler issues is creating decision paralysis."
 ---
+
 # SEO Site Health Audit
 
 Triage technical SEO findings from Ahrefs Site Audit (or any equivalent crawler) by impact on rankings and traffic, not by raw issue count or severity label. Stack-agnostic. Produces a prioritized backlog of fixes mapped to business impact.
@@ -178,6 +179,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 
 - [`references/issue-impact-table.md`](references/issue-impact-table.md) - Mapping table of common crawler issues to mechanism grade and typical fix effort, plus cluster signals and the park-or-skip list. This file is the source of truth for every issue grade; the triage matrix above turns a grade plus a tier plus an effort into a priority band.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

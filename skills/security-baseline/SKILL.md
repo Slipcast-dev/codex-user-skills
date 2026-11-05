@@ -1,7 +1,8 @@
 ---
 name: "security-baseline"
-description: "Establish a security baseline for a website or web app. Use this skill when configuring HTTPS and TLS, setting security headers, planning secrets management, evaluating CSP policies, doing a basic security audit, or hardening a site before launch."
+description: "Establish a security baseline for a website or web app. Use this skill when configuring HTTPS and TLS, setting security headers, planning secrets management, evaluating CSP policies, doing a basic security audit, or hardening a site before launch. Triggers on security headers, HTTPS, TLS, CSP, content security policy, HSTS, secrets management, vulnerability scan, security audit, harden, OWASP, security baseline. Also triggers when a security review is required for compliance or before going live."
 ---
+
 # Security Baseline
 
 Establish the security floor for any production website or web app. Stack-agnostic. Covers the things that should be in place before public launch and verified periodically after.
@@ -297,6 +298,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 
 - [`references/headers-checklist.md`](references/headers-checklist.md): A copy-paste checklist of recommended security headers with example values, organized by tier of importance.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

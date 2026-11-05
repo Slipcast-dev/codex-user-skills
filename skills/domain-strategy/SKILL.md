@@ -1,7 +1,8 @@
 ---
 name: "domain-strategy"
-description: "Plan, manage, and optimize a domain portfolio. Use this skill for DNS architecture decisions, redirect strategies, registrar choice, parking unused domains, multi-site setups, and domain consolidation or split planning."
+description: "Plan, manage, and optimize a domain portfolio. Use this skill for DNS architecture decisions, redirect strategies, registrar choice, parking unused domains, multi-site setups, and domain consolidation or split planning. Triggers on DNS, domain, registrar, redirect, parking, subdomain, apex, www vs non-www, multi-site, portfolio, hreflang setup, domain migration. Also triggers when planning a new site that needs domain decisions made before launch."
 ---
+
 # Domain Strategy
 
 Decide how domains, subdomains, and DNS work across a portfolio. Stack-agnostic. Works for one site or one hundred.
@@ -213,6 +214,3 @@ A domain strategy document includes:
 
 - [`references/dns-record-reference.md`](references/dns-record-reference.md): Common DNS records explained, with the syntax for the most useful ones (A, AAAA, CNAME, MX, TXT, CAA, SRV, etc.) and when each is needed.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

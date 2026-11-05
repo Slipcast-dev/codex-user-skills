@@ -1,7 +1,8 @@
 ---
 name: "cost-optimization"
-description: "Audit and reduce infrastructure and tooling costs without sacrificing reliability or velocity."
+description: "Audit and reduce infrastructure and tooling costs without sacrificing reliability or velocity. Use this skill when reviewing monthly cloud or SaaS spend, finding unused resources, rightsizing infrastructure, negotiating vendor contracts, deciding what to consolidate, or planning for budget cuts. Triggers on cost optimization, cloud spend, SaaS spend, rightsizing, unused resources, FinOps, infrastructure audit, vendor consolidation, budget cut, cost review. Also triggers when finance flags rising costs or when a contract renewal is up."
 ---
+
 # Cost Optimization
 
 Audit cloud, SaaS, and infrastructure spend. Cut what's not earning its keep. Rightsize what's oversized. Negotiate what's negotiable. Without breaking what works.
@@ -340,6 +341,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 
 - [`references/cloud-audit-checklist.md`](references/cloud-audit-checklist.md): A practical walkthrough for auditing a cloud account (compute, storage, database, network, monitoring) for waste and rightsizing opportunities.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

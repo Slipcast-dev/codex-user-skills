@@ -1,7 +1,8 @@
 ---
 name: "experiment-design"
-description: "A discipline for designing experiments (A/B tests, multivariate, holdouts) so the results actually answer the question you asked."
+description: "A discipline for designing experiments (A/B tests, multivariate, holdouts) so the results actually answer the question you asked. Hypothesis writing, sample size, duration, segment analysis, running discipline, matching a result to a pre-committed decision rule, and the common failure modes that produce confidently wrong shipping decisions. Use this skill whenever the user is planning a test that has not run yet: framing a hypothesis, sizing the sample, setting duration, choosing guardrails, or deciding whether something is worth testing at all. Triggers on design an experiment, experiment plan, A/B test, split test, multivariate test, holdout, experiment hypothesis, sample size, minimum detectable effect, MDE, test duration, guardrail metric, no peeking, pre-committed decision rule, is this worth testing. Use `experimentation-analytics` instead when the test has already run and the question is how to read the result panel."
 ---
+
 # Experiment Design
 
 A senior product manager's playbook for running experiments that produce trustworthy decisions.
@@ -61,6 +62,3 @@ Before applying a method below, read its linked section. For a narrow task selec
 - Reading results and making the call: [method](references/domain-guide.md#reading-results-and-making-the-call).
 - Common failures and fixes: [method](references/domain-guide.md#common-failures-and-fixes).
 - Closing: when in doubt: [method](references/domain-guide.md#closing-when-in-doubt).
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

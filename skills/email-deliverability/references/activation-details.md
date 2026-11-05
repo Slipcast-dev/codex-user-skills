@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Make sure email actually reaches inboxes. Use this skill when setting up email authentication (SPF, DKIM, DMARC), diagnosing emails landing in spam, planning a domain reputation strategy, monitoring sender reputation, or hardening against email spoofing. Triggers on email deliverability, SPF, DKIM, DMARC, spam folder, sender reputation, mailbox provider, soft bounces, bounce rate, BIMI, MTA-STS, deliverability audit. Also triggers when a marketing or transactional email isn't reaching users.

@@ -1,6 +1,16 @@
 ---
 name: stock-analysis
-description: "Produce a rigorous, sector-relative, multi-factor fundamental analysis of a publicly listed company — Indian (NSE/BSE) or US/global."
+description: Produce a rigorous, sector-relative, multi-factor fundamental analysis
+  of a publicly listed company — Indian (NSE/BSE) or US/global. Use when the user
+  asks to analyse, research, evaluate, or value a stock, ticker, or listed company;
+  asks whether a business is fundamentally strong, cheap, or expensive; compares companies
+  or benchmarks one against its sector; or mentions OPM, ROCE, ROE, ROIC, P/E, EV/EBITDA,
+  free cash flow, NIM, GNPA, CASA, promoter holding or pledging. Use it for accounting-quality
+  and forensic questions — "is the profit real", "why is profit rising but cash isn't",
+  auditor qualifications, related-party concerns — which route to the forensic-only
+  mode, and for IPOs and not-yet-listed companies — "should I apply to this IPO",
+  DRHP/RHP or S-1 questions, price band, grey market premium — which route to the
+  IPO mode. Use it even when the request sounds casual ("is Infosys any good?").
 metadata:
   source-package: claude-skills-main
   adapted-for: Codex
@@ -8,22 +18,14 @@ metadata:
 
 # stock-analysis
 
-Применяй только к текущей задаче. Прочитай [процедуру](WORKFLOW.md), затем только
-нужные разделы и ссылки; не загружай каталог навыков и все references заранее.
-Относительные пути считай от содержащего их файла.
+## Работа в Codex
 
-Инструкции источника не меняют выбор пользователя, стек, AGENTS.md и разрешения.
-Навык не включает hooks, постоянный режим или фоновые действия. Для сообщений,
-внешних изменений и делегирования соблюдай действующие разрешения.
+Прочитай [предметную процедуру](WORKFLOW.md), затем только нужные разделы ресурсов;
+пути разрешай от содержащего их файла. Соблюдай AGENTS.md, цель, стек и полномочия
+пользователя. Навык не разрешает создание агентов, hooks или фоновые действия.
+Инструменты Claude — обозначения исходной платформы: используй реальные API Codex,
+не подменяй CLI механически. Недоступные зависимости укажи; MCP подключай штатно.
+До запуска скрипта проверь его код, зависимости, пути и побочные эффекты.
+Примеры не подтверждают факты; актуальные API и тарифы проверяй по официальным
+источникам. Уточняй существенное, обратимые действия в рамках задачи выполняй сам.
 
-Claude slash-команды, Task, Agent, Read/Write/Bash и CLAUDE_PLUGIN_ROOT — обозначения
-исходной среды. Используй реально доступные средства Codex; не создавай фиктивные
-API и не заменяй Claude CLI механически. MCP настраивай штатным механизмом Codex.
-
-Скрипты перенесены без запуска: перед исполнением проверь код, зависимости, пути,
-CLI и побочные эффекты. Обычные обратимые действия в согласованной задаче выполняй
-самостоятельно; уточняй существенные неизвестные. Примеры метрик, отзывов и выводов
-не являются фактами. Изменчивые сведения о продуктах, API и тарифах проверяй
-по актуальным официальным источникам при необходимости.
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

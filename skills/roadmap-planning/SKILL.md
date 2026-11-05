@@ -1,7 +1,8 @@
 ---
 name: "roadmap-planning"
-description: "Build a multi-quarter roadmap from a backlog of ideas, requests, and ongoing initiatives."
+description: "Build a multi-quarter roadmap from a backlog of ideas, requests, and ongoing initiatives. Use this skill when planning the next quarter, sequencing dependent work, balancing build vs improve vs maintain, or making the case for what NOT to do. Triggers on roadmap, quarterly planning, what should we build next, sequencing, prioritization, OKR planning, capacity planning, what's on the roadmap, plan the year, what to ship next quarter. Also triggers when stakeholders are pulling in different directions and the team needs a defensible plan."
 ---
+
 # Roadmap Planning
 
 Take a pile of ideas, requests, and ongoing work. Produce a defensible plan for what to ship, when, and why. The output is a roadmap document plus the prioritization work that made it credible.
@@ -223,6 +224,3 @@ The roadmap is a living document. Plan to revisit it monthly. Replan it formally
 
 - [`references/prioritization-frameworks.md`](references/prioritization-frameworks.md) - Detailed breakdown of RICE, MoSCoW, Kano, Cost of Delay, and Strategic Alignment frameworks. When to use each, how to apply them, common mistakes.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

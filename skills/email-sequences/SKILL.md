@@ -1,7 +1,8 @@
 ---
 name: "email-sequences"
-description: "Design and write email campaigns and sequences including onboarding flows, lifecycle campaigns, transactional emails, newsletters, broadcast sends, and launch and announcement emails."
+description: "Design and write email campaigns and sequences including onboarding flows, lifecycle campaigns, transactional emails, newsletters, broadcast sends, and launch and announcement emails. Use this skill whenever the user wants to write email copy, plan an email sequence, design an onboarding drip, or set up lifecycle email campaigns. Triggers on email sequence, drip campaign, onboarding email, lifecycle email, welcome email, transactional email, newsletter, email broadcast, launch email, announcement email, nurture sequence, abandoned cart, re-engagement, win-back. Also triggers when planning email automation flows or writing email subject lines for campaigns."
 ---
+
 # Email Sequences
 
 Plan and write email campaigns. Sequences (multi-message flows triggered by events) and broadcasts (one-off sends). Stack-agnostic. Works with any email service provider.
@@ -277,6 +278,3 @@ For a single broadcast, just one email block.
 - [`references/subject-line-patterns.md`](references/subject-line-patterns.md) - Subject line patterns with examples for each sequence type.
 - [`references/sequence-templates.md`](references/sequence-templates.md) - Skeleton templates for the 6 sequence types.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Respond to an HOA or condo-association violation notice or fine — decide whether to comply, cure, or dispute, and do it on the record. Use when asked to respond to an HOA violation, my HOA fined me, is this HOA rule enforceable, or fight an HOA notice. Produces a read on whether the citation likely holds (against the governing documents and consistent enforcement), a comply-vs-dispute recommendation, a measured response/appeal letter, the evidence and record-keeping to keep, and escalation options — flagging that HOA rules and rights are governed by your documents and local law. Not legal advice.

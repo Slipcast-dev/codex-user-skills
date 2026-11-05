@@ -1,7 +1,8 @@
 ---
 name: "pm-spec-writing"
-description: "Translate ideas, feature requests, or vague concepts into specific, actionable dev briefs."
+description: "Translate ideas, feature requests, or vague concepts into specific, actionable dev briefs. Use this skill whenever the user has an idea they want to build, a feature to spec out, a bug to file, a project to scope, or needs to convert a half-formed idea into a clear implementation brief. Triggers on I want to add, we should build, can we make, what is the plan for, how do we implement, dev brief, feature spec, PRD, user story, acceptance criteria, scope this, prioritize. Also triggers when the user has a list of things they want to build and needs help converting them into well-formed tasks."
 ---
+
 # PM Spec Writing
 
 Take an idea (often vague) and turn it into a specification a developer or AI agent can actually build from. Stack-agnostic. Works for new features, bug fixes, content changes, or infrastructure work.
@@ -227,6 +228,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 - [`references/dev-brief-template.md`](references/dev-brief-template.md) - Compact dev brief template for tactical work.
 - [`references/prioritization-frameworks.md`](references/prioritization-frameworks.md) - Beyond impact/effort: RICE, weighted scoring, MoSCoW.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

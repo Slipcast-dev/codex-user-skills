@@ -1,7 +1,8 @@
 ---
 name: "art-direction"
-description: "Direct visual and creative work for campaigns, photography, illustration, video, and branded experiences."
+description: "Direct visual and creative work for campaigns, photography, illustration, video, and branded experiences. Use this skill whenever the user wants to brief a photographer, direct illustrators, plan a creative campaign, develop visual concepts, or evaluate creative work for fit. Triggers on art direction, photo brief, photography brief, illustration brief, campaign concept, creative concept, visual direction, mood board, look and feel, visual treatment, video direction. Also triggers when the user has approved brand identity but needs to extend it into specific creative deliverables. Use `creative-direction` instead when the ask is the project-wide aesthetic brief that this skill consumes as input."
 ---
+
 # Art Direction
 
 Direct creative work that extends the brand into specific deliverables. Photography, illustration, video, motion, campaigns, environmental design.
@@ -194,6 +195,3 @@ Plus a separate moodboard or visual reference doc with images, at the count the 
 - [`references/photo-shoot-brief.md`](references/photo-shoot-brief.md) - Detailed brief template for photography commissions.
 - [`references/illustration-brief.md`](references/illustration-brief.md) - Brief template for illustration commissions.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

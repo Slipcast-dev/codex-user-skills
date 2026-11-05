@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Review what an LLM feature or agent actually puts in its context window — and find what's bloating, missing, or fighting itself. Use when asked to review a system prompt and context assembly, cut token usage without losing quality, debug an agent that ignores instructions, or audit how retrieval results, history, and tool definitions are packed into the window. Produces a context inventory with a keep/cut/restructure verdict per component, ordering and caching fixes, and a token budget. For wording-level prompt tuning use prompt-optimizer.

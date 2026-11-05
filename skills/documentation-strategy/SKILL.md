@@ -1,7 +1,8 @@
 ---
 name: "documentation-strategy"
-description: "Design and run a documentation system for a team or product. Use this skill when planning what to document, choosing a documentation tool, organizing existing docs, fixing stale documentation, designing a maintenance cadence, or scoping technical writing work."
+description: "Design and run a documentation system for a team or product. Use this skill when planning what to document, choosing a documentation tool, organizing existing docs, fixing stale documentation, designing a maintenance cadence, or scoping technical writing work. Triggers on documentation, docs, tech writing, knowledge base, wiki, runbook, README, internal docs, doc audit, doc maintenance, stale docs, where do we document. Also triggers when the team is repeatedly answering the same questions or when onboarding takes too long."
 ---
+
 # Documentation Strategy
 
 Decide what gets documented, where, by whom, and how it stays fresh. Stack-agnostic. Applies to internal team docs, product docs, runbooks, READMEs, and knowledge bases.
@@ -423,6 +424,3 @@ A documentation strategy document includes:
 
 - [`references/doc-types-guide.md`](references/doc-types-guide.md): Detailed guide to the four doc types (reference, how-to, explanation, tutorial) with examples and templates for each.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

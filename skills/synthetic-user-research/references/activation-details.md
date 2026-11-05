@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Use AI personas for early-stage research signal — with hard guardrails on what synthetic methods can and cannot validate. Use when asked to run synthetic user testing, simulate user reactions with AI personas, pretest a survey or message before fielding it, or decide whether synthetic research is appropriate at all. Produces a fit verdict for the question at hand, a persona-panel design grounded in real data, the findings labelled as synthetic throughout, and the follow-up plan with real humans. Never a substitute for discovery interviews — see discovery-interview-guide and user-research-synthesis for the real thing.

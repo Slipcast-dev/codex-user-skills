@@ -1,7 +1,8 @@
 ---
 name: "lead-magnet-design"
-description: "Designing lead magnets that earn the email. The discipline of building gated content (ebooks, templates, checklists, swipe files, mini-courses, free tools) that delivers genuine standalone value while qualifying the lead and warming them for what comes next."
+description: "Designing lead magnets that earn the email. The discipline of building gated content (ebooks, templates, checklists, swipe files, mini-courses, free tools) that delivers genuine standalone value while qualifying the lead and warming them for what comes next. Honest about thin-bait (overpromises, underdelivers), kitchen-sink-resource (everything, helps with nothing), and earned-value-magnet (delivers standalone value while qualifying the lead). Triggers on lead magnet, gated content, opt-in offer, ebook, checklist, template, swipe file, mini-course, free tool, content upgrade, freebie, opt-in, list-building offer. Also triggers when an audience is being asked for an email and the offer attached to that ask needs design discipline, when previous lead magnets converted but did not produce qualified leads, or when a lead magnet is being scoped for the first time."
 ---
+
 # Lead Magnet Design
 
 A senior growth practitioner's playbook for designing lead magnets that earn the email. Templates, checklists, swipe files, mini-courses, free tools, ebooks. The discipline of building gated content that delivers genuine standalone value while qualifying the lead and warming them for the next conversation.
@@ -71,6 +72,3 @@ Before applying a method below, read its linked section. For a narrow task selec
 - Common failure modes: [method](references/domain-guide.md#common-failure-modes).
 - The framework: 12 considerations for lead magnet design: [method](references/domain-guide.md#the-framework-12-considerations-for-lead-magnet-design).
 - Closing: magnets earn the email when they earn the reader's afternoon: [method](references/domain-guide.md#closing-magnets-earn-the-email-when-they-earn-the-readers-afternoon).
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

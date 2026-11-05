@@ -90,7 +90,7 @@ The biggest risk in approved decisions is forgetting why someone disagreed. When
 
 ## Related
 
-- Skill: [`decision-logger`](${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/decision-logger/SKILL.md)
+- Skill: [`decision-logger`](../decision-logger/SKILL.md)
 - Agent: [`cs-chief-of-staff`](../../skill-resources/local-import-2026-10-28/claude-skills-main/c-level-agents/agents/cs-chief-of-staff.md)
 - Bridge: [`../../skill-resources/local-import-2026-10-28/claude-skills-main/c-level-agents/references/llm-wiki-bridge.md`](../../skill-resources/local-import-2026-10-28/claude-skills-main/c-level-agents/references/llm-wiki-bridge.md)
 

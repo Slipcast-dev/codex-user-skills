@@ -1,7 +1,8 @@
 ---
 name: "chatbot-flow-design"
-description: "Designing conversational flows for website chatbots and AI agents. Intent recognition architecture, branching logic, fallback handling, escalation to human, conversation analytics."
+description: "Designing conversational flows for website chatbots and AI agents. Intent recognition architecture, branching logic, fallback handling, escalation to human, conversation analytics. Honest about scripted-bot (rigid trees, fail edge cases), hallucinating-bot (LLM without structure, makes things up), and structured-guided-conversation (LLM-powered with intent architecture and fallback discipline) patterns. Distinguishes chatbot DESIGN (this skill) from chatbot IMPLEMENTATION (engineering and platform work). Triggers on chatbot, conversational AI, AI agent, chat widget, intent design, conversational flow, bot escalation, LLM grounding. Also triggers when a chatbot is hallucinating, when a scripted bot is failing edge cases, or when a chatbot is being scoped for the first time."
 ---
+
 # Chatbot Flow Design
 
 A senior growth practitioner's playbook for designing conversational flows for website chatbots and AI agents. Intent recognition architecture, branching logic, fallback handling, escalation to human, conversation analytics. The discipline of building a bot that knows what it knows and routes appropriately when it does not.
@@ -261,6 +262,3 @@ That is the bar. Below the bar are scripted-bots (rigid trees that fail edge cas
 
 The discipline is in the design choices. The intents that define what the bot can do. The knowledge-base grounding that prevents hallucination. The fallback patterns that handle the unknown gracefully. The escalation logic that knows when to step aside. The analytics that surface what is working and what is not. The maintenance discipline that keeps the bot in sync with the brand it represents.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

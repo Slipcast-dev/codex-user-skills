@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Build the tax habit self-employment requires — the setaside percentage from day one, the quarterly calendar, the records that make filing boring, and the no-withholding mindset shift nobody explains. Use when asked how do taxes work for my side income, how much should I set aside, what are estimated quarterly payments, or set up my freelance tax system. Produces the setaside rule with its honest range, the quarterly rhythm calendar (jurisdiction-flagged), the five-minute-a-week records system, and the deduction-tracking habit — framing routed to a local professional for the numbers.

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Системная разработка"
+  short_description: "Драйверы, прошивки, IPC и независимая проверка"
+  default_prompt: "Используй $systems-engineering для системного проекта: выбери нужные роли, зафиксируй API/ABI и проведи доступные проверки."
+policy:
+  allow_implicit_invocation: true

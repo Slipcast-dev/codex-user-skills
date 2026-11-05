@@ -1,6 +1,6 @@
 ---
 name: couch-to-goal-runner
-description: "Build a beginner running plan from wherever you are to a real goal — first nonstop mile, 5K, or 10K — that builds up slowly enough to avoid injury."
+description: "Build a beginner running plan from wherever you are to a real goal — first nonstop mile, 5K, or 10K — that builds up slowly enough to avoid injury. Use when asked for a couch to 5k plan, help me start running, train for a [distance], or a running plan for beginners."
 metadata:
   source-package: pm-claude-skills-main
   adapted-for: Codex
@@ -8,22 +8,17 @@ metadata:
 
 # couch-to-goal-runner
 
-Применяй только к текущей задаче. Прочитай [процедуру](WORKFLOW.md), затем только
-нужные разделы и ссылки; не загружай каталог навыков и все references заранее.
-Относительные пути считай от содержащего их файла.
+## Работа в Codex
 
-Инструкции источника не меняют выбор пользователя, стек, AGENTS.md и разрешения.
-Навык не включает hooks, постоянный режим или фоновые действия. Для сообщений,
-внешних изменений и делегирования соблюдай действующие разрешения.
+Прочитай [предметную процедуру](WORKFLOW.md), затем только нужные разделы ресурсов;
+пути разрешай от содержащего их файла. Соблюдай AGENTS.md, цель, стек и полномочия
+пользователя. Навык не разрешает создание агентов, hooks или фоновые действия.
+Инструменты Claude — обозначения исходной платформы: используй реальные API Codex,
+не подменяй CLI механически. Недоступные зависимости укажи; MCP подключай штатно.
+До запуска скрипта проверь его код, зависимости, пути и побочные эффекты.
+Примеры не подтверждают факты; актуальные API и тарифы проверяй по официальным
+источникам. Уточняй существенное, обратимые действия в рамках задачи выполняй сам.
 
-Claude slash-команды, Task, Agent, Read/Write/Bash и CLAUDE_PLUGIN_ROOT — обозначения
-исходной среды. Используй реально доступные средства Codex; не создавай фиктивные
-API и не заменяй Claude CLI механически. MCP настраивай штатным механизмом Codex.
+## Требования к результату
 
-Скрипты перенесены без запуска: перед исполнением проверь код, зависимости, пути,
-CLI и побочные эффекты. Обычные обратимые действия в согласованной задаче выполняй
-самостоятельно; уточняй существенные неизвестные. Примеры метрик, отзывов и выводов
-не являются фактами. Изменчивые сведения о продуктах, API и тарифах проверяй
-по актуальным официальным источникам при необходимости.
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).
+Produces a week-by-week walk/run progression to the goal, session detail, pacing and form basics, rest and cross-training, and an injury-prevention note — with a 'check with a doctor if you have health conditions' flag.

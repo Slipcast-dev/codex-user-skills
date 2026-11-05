@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Survive (and even enjoy) small talk — how to start it, keep it going past the weather, and exit gracefully — for people who find it painful. Use when asked I'm bad at small talk, help me with small talk, what do I say at [event], or how do I make conversation. Produces conversation openers that fit the setting, the technique for keeping it flowing (curiosity, follow-up questions, the little disclosures that deepen it), how to get past surface topics toward something real, graceful exit lines, and the reframe that small talk is a bridge, not the destination — tuned to the specific situation you're dreading.

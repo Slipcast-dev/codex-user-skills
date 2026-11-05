@@ -1,7 +1,8 @@
 ---
 name: "dependency-management"
-description: "Manage third-party libraries, runtimes, and SaaS dependencies. Use this skill when setting an update cadence, responding to security advisories, dealing with deprecated dependencies, evaluating new dependencies, auditing what's installed, or unblocking a dependency upgrade."
+description: "Manage third-party libraries, runtimes, and SaaS dependencies. Use this skill when setting an update cadence, responding to security advisories, dealing with deprecated dependencies, evaluating new dependencies, auditing what's installed, or unblocking a dependency upgrade. Triggers on dependency, package update, security patch, lockfile, deprecated, breaking change, supply chain, dependency audit, npm audit, dependabot, renovate. Also triggers when a build breaks after an update or when an advisory is published for a used package."
 ---
+
 # Dependency Management
 
 Decide what to depend on, keep dependencies current, respond to advisories, and reduce supply chain risk. Stack-agnostic principles; specifics vary by package manager.
@@ -321,6 +322,3 @@ A dependency policy document includes:
 
 - [`references/upgrade-checklist.md`](references/upgrade-checklist.md): Step-by-step checklist for performing a major version upgrade of a critical dependency, from changelog reading to staged rollout.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

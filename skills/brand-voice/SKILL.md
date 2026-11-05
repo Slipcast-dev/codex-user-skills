@@ -1,7 +1,8 @@
 ---
 name: "brand-voice"
-description: "Develop or document a complete brand voice and tone system covering voice attributes, tone shifts by context, vocabulary preferences, grammar rules, and copy examples."
+description: "Develop or document a complete brand voice and tone system covering voice attributes, tone shifts by context, vocabulary preferences, grammar rules, and copy examples. Use this skill whenever the user wants to define how a brand sounds, write a voice and tone document, audit existing copy for voice consistency, train a team or AI assistant on brand voice, or refine the personality of brand writing. Triggers on brand voice, voice and tone, tone of voice, writing voice, brand personality, copy voice, voice document, voice guidelines, how should we write, voice training, voice audit. Also triggers when the user has copy that 'feels off' and the underlying issue is voice, even if not stated explicitly. On a voice consistency check, this skill owns defining and documenting the voice system; use `editorial-qa` when a specific draft needs checking against an existing system before it publishes."
 ---
+
 # Brand Voice
 
 Define how a brand sounds in writing. Document it in a way that anyone (writer, designer, founder, AI assistant) can apply it consistently.
@@ -175,6 +176,3 @@ This doc can stand alone or feed into `brand-style-guide`.
 - [`references/voice-document-template.md`](references/voice-document-template.md) - Fillable template.
 - [`references/voice-frameworks.md`](references/voice-frameworks.md) - Detailed walkthrough of the Nielsen Norman 4 dimensions, Jung archetypes, and the "we are X not Y" approach.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

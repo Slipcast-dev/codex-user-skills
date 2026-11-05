@@ -1,7 +1,8 @@
 ---
 name: "frontend-component-build"
-description: "Build production-ready frontend components with accessible markup, sensible props, defined states, and tested behavior."
+description: "Build production-ready frontend components with accessible markup, sensible props, defined states, and tested behavior. Use this skill whenever the user wants to build a component from scratch, refactor an existing one, design a component API, or implement a UI element with proper states and accessibility. Triggers on build a component, create a button, create a modal, create a form input, component API, props design, component states, refactor component, accessible component. Also triggers when implementing UI from a design that needs to be reusable."
 ---
+
 # Frontend Component Build
 
 Build production-ready components. Stack-agnostic principles. Most patterns translate to React, Vue, Svelte, or vanilla web components.
@@ -179,6 +180,3 @@ A complete component delivery includes:
 - [`references/component-api-patterns.md`](references/component-api-patterns.md) - Common patterns for designing flexible component APIs (compound components, controlled vs uncontrolled, polymorphic `as` prop, render props, slots).
 - [`references/accessibility-patterns.md`](references/accessibility-patterns.md) - ARIA patterns for common interactive components.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

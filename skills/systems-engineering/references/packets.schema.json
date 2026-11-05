@@ -1,0 +1,216 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:codex:systems-engineering:packets",
+  "oneOf": [
+    {
+      "$ref": "#/$defs/task"
+    },
+    {
+      "$ref": "#/$defs/result"
+    }
+  ],
+  "$defs": {
+    "task": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "kind",
+        "id",
+        "agent",
+        "goal",
+        "snapshot",
+        "gate",
+        "depends_on",
+        "write_paths"
+      ],
+      "properties": {
+        "kind": {
+          "const": "task"
+        },
+        "id": {
+          "type": "string",
+          "pattern": "^[a-zA-Z0-9][a-zA-Z0-9_.-]{0,63}$"
+        },
+        "agent": {
+          "enum": [
+            "systems-architect",
+            "hardware-os-researcher",
+            "kernel-driver",
+            "firmware-rtos",
+            "ipc-daemon",
+            "application-ui",
+            "systems-bug-fixer",
+            "build-toolchain",
+            "static-analysis-critic",
+            "code-reviewer",
+            "memory-security-critic",
+            "sandbox-hil-verifier",
+            "test-engineer",
+            "supervisor"
+          ]
+        },
+        "goal": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2048
+        },
+        "snapshot": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200
+        },
+        "gate": {
+          "enum": [
+            "design",
+            "research",
+            "implementation",
+            "repair",
+            "build",
+            "static",
+            "security",
+            "runtime",
+            "tests",
+            "monitor"
+          ]
+        },
+        "depends_on": {
+          "type": "array",
+          "uniqueItems": true,
+          "maxItems": 30,
+          "items": {
+            "type": "string",
+            "pattern": "^[a-zA-Z0-9][a-zA-Z0-9_.-]{0,63}$"
+          }
+        },
+        "write_paths": {
+          "type": "array",
+          "uniqueItems": true,
+          "maxItems": 32,
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 512
+          }
+        },
+        "inputs": {
+          "type": "array",
+          "maxItems": 32,
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 2048
+          }
+        },
+        "criteria": {
+          "type": "array",
+          "maxItems": 16,
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 2048
+          }
+        }
+      }
+    },
+    "result": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "kind",
+        "id",
+        "agent",
+        "attempt",
+        "snapshot",
+        "status",
+        "summary",
+        "evidence",
+        "limitations",
+        "safety_block"
+      ],
+      "properties": {
+        "kind": {
+          "const": "result"
+        },
+        "id": {
+          "type": "string",
+          "pattern": "^[a-zA-Z0-9][a-zA-Z0-9_.-]{0,63}$"
+        },
+        "agent": {
+          "enum": [
+            "systems-architect",
+            "hardware-os-researcher",
+            "kernel-driver",
+            "firmware-rtos",
+            "ipc-daemon",
+            "application-ui",
+            "systems-bug-fixer",
+            "build-toolchain",
+            "static-analysis-critic",
+            "code-reviewer",
+            "memory-security-critic",
+            "sandbox-hil-verifier",
+            "test-engineer",
+            "supervisor"
+          ]
+        },
+        "attempt": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 5
+        },
+        "snapshot": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200
+        },
+        "status": {
+          "enum": [
+            "pass",
+            "fail",
+            "blocked"
+          ]
+        },
+        "summary": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2048
+        },
+        "evidence": {
+          "type": "array",
+          "maxItems": 32,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "path",
+              "sha256"
+            ],
+            "properties": {
+              "path": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 512
+              },
+              "sha256": {
+                "type": "string",
+                "pattern": "^[0-9a-f]{64}$"
+              }
+            }
+          }
+        },
+        "limitations": {
+          "type": "array",
+          "maxItems": 16,
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 2048
+          }
+        },
+        "safety_block": {
+          "type": "boolean"
+        }
+      }
+    }
+  }
+}

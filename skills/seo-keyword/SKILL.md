@@ -1,7 +1,8 @@
 ---
 name: "seo-keyword"
-description: "Run keyword research, classify by search intent, cluster into topical groups, and prioritize for content production."
+description: "Run keyword research, classify by search intent, cluster into topical groups, and prioritize for content production. Use this skill whenever the user asks to do keyword research, find target keywords, identify ranking opportunities, classify search intent, build a topical map, or plan a content strategy around what people search for. Triggers on keyword research, keyword strategy, search intent, keyword clustering, topic clusters, keyword difficulty, search volume, ranking opportunity, content gap, what should I write about, target keyword, primary keyword, secondary keyword, long-tail. Also triggers when planning a content calendar or new site without keywords yet defined."
 ---
+
 # Keyword Research
 
 Find the queries worth ranking for, classify them by intent, cluster them into topics, and prioritize what to produce. Stack-agnostic. Tool-agnostic (works with any keyword tool).
@@ -164,6 +165,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 - [`references/keyword-research-template.md`](references/keyword-research-template.md) - Spreadsheet column definitions and a markdown summary template.
 - [`references/intent-classification-guide.md`](references/intent-classification-guide.md) - Detailed examples of each of the four intent categories.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

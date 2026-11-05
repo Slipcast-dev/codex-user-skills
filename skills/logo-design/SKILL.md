@@ -1,7 +1,8 @@
 ---
 name: "logo-design"
-description: "Generate logo variants for a brand, producing multiple production-grade marks across different architectures (wordmark, lockup, symbol-only, letterform-as-symbol, monogram) with rationale, application specs, and decision-ready presentation."
+description: "Generate logo variants for a brand, producing multiple production-grade marks across different architectures (wordmark, lockup, symbol-only, letterform-as-symbol, monogram) with rationale, application specs, and decision-ready presentation. Distinct from `brand-identity`, which produces the complete system (logo plus color, type, voice, applications). Goes deep on the logo specifically: typographic register, symbol approach, application-context discipline (16px favicon, embroidery, signage, motion), and production specs (SVG-ready, single-color, reverse). Triggers on logo design, design a logo, wordmark, monogram, lockup, mark variants, logo iterations, redesign or refine the logo, logo refresh, letterform-as-symbol, and exploring mark variants for an established brand. Does NOT fire for full brand identity (use `brand-identity`), positioning or strategy (use `brand-discovery`), project-wide creative direction (use `creative-direction`), or one-off illustration."
 ---
+
 # Logo Design
 
 A logo is a system of marks, not a single drawing. This skill produces multiple production-grade variants exploring different architectural approaches, each with rationale, application specs, and a clear position on what it signals and rejects.
@@ -106,6 +107,3 @@ Before applying a method below, read its linked section. For a narrow task selec
 
 - The framework: 5 considerations for logo design: [method](references/domain-guide.md#the-framework-5-considerations-for-logo-design).
 - Failure patterns: [method](references/domain-guide.md#failure-patterns).
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

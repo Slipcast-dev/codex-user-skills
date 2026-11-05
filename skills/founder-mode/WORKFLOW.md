@@ -95,8 +95,8 @@ $c-level-agents:founder-mode "should we be growing faster?"
 ## Related
 
 - Agent: [`cs-chief-of-staff`](../../skill-resources/local-import-2026-10-28/claude-skills-main/c-level-agents/agents/cs-chief-of-staff.md) — does the routing
-- Skill: [`chief-of-staff`](${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/chief-of-staff/SKILL.md) — routing logic
-- Skill: [`context-engine`](${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/context-engine/SKILL.md) — loads context
+- Skill: [`chief-of-staff`](../chief-of-staff/SKILL.md) — routing logic
+- Skill: [`context-engine`](../context-engine/SKILL.md) — loads context
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: language-learning-plan
-description: "Build a realistic plan to learn a language for your actual goal — travel, conversation, work, or fluency — focused on what moves the needle instead of endless app streaks."
+description: "Build a realistic plan to learn a language for your actual goal — travel, conversation, work, or fluency — focused on what moves the needle instead of endless app streaks. Use when asked to help me learn [language], make a language learning plan, how do I get conversational, or study a language efficiently."
 metadata:
   source-package: pm-claude-skills-main
   adapted-for: Codex
@@ -8,22 +8,17 @@ metadata:
 
 # language-learning-plan
 
-Применяй только к текущей задаче. Прочитай [процедуру](WORKFLOW.md), затем только
-нужные разделы и ссылки; не загружай каталог навыков и все references заранее.
-Относительные пути считай от содержащего их файла.
+## Работа в Codex
 
-Инструкции источника не меняют выбор пользователя, стек, AGENTS.md и разрешения.
-Навык не включает hooks, постоянный режим или фоновые действия. Для сообщений,
-внешних изменений и делегирования соблюдай действующие разрешения.
+Прочитай [предметную процедуру](WORKFLOW.md), затем только нужные разделы ресурсов;
+пути разрешай от содержащего их файла. Соблюдай AGENTS.md, цель, стек и полномочия
+пользователя. Навык не разрешает создание агентов, hooks или фоновые действия.
+Инструменты Claude — обозначения исходной платформы: используй реальные API Codex,
+не подменяй CLI механически. Недоступные зависимости укажи; MCP подключай штатно.
+До запуска скрипта проверь его код, зависимости, пути и побочные эффекты.
+Примеры не подтверждают факты; актуальные API и тарифы проверяй по официальным
+источникам. Уточняй существенное, обратимые действия в рамках задачи выполняй сам.
 
-Claude slash-команды, Task, Agent, Read/Write/Bash и CLAUDE_PLUGIN_ROOT — обозначения
-исходной среды. Используй реально доступные средства Codex; не создавай фиктивные
-API и не заменяй Claude CLI механически. MCP настраивай штатным механизмом Codex.
+## Требования к результату
 
-Скрипты перенесены без запуска: перед исполнением проверь код, зависимости, пути,
-CLI и побочные эффекты. Обычные обратимые действия в согласованной задаче выполняй
-самостоятельно; уточняй существенные неизвестные. Примеры метрик, отзывов и выводов
-не являются фактами. Изменчивые сведения о продуктах, API и тарифах проверяй
-по актуальным официальным источникам при необходимости.
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).
+Produces a goal-and-level read, a prioritized plan (the high-frequency vocab and core patterns first), a daily/weekly routine mixing input, speaking, and review, how to get real practice and feedback, milestones, and honest expectations — not a promise of fluency in a month.

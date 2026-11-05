@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Read a venue contract for the clauses that actually cost money — the minimum spend, the cancellation ladder, the attrition clause, and everything the hire fee does not include. Use when asked to review a venue contract, check a venue agreement before signing, negotiate venue terms, or understand a cancellation or minimum-spend clause. Produces the commercial summary, the flagged clauses ranked by exposure, the what-is-not-included list, the negotiation asks in priority order, and the questions to put in writing. Not legal advice; have a lawyer review before signing.

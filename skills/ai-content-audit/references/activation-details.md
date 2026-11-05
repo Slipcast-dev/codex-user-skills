@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Audit a content library, docs site, or blog for AI-generated filler that's eroding trust and search performance — and triage what to fix, rewrite, or delete. Use when asked to find slop in a content library, audit AI-written content quality, explain why content engagement or rankings dropped after scaling with AI, or set a quality bar for AI-assisted publishing. Produces an audited inventory with per-piece verdicts, the detection signals used, a triage plan, and a publishing quality gate that prevents recurrence. For a single article's AI-citability use aeo-optimizer; for the strategy itself use content-calendar or seo-content-brief.

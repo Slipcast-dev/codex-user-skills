@@ -1,7 +1,8 @@
 ---
 name: "product-configurator-design"
-description: "Designing build-your-own product configurators (Tesla-style, custom-pricing, plan-builders) with constraint logic, real-time pricing, validation, and save-and-share mechanics."
+description: "Designing build-your-own product configurators (Tesla-style, custom-pricing, plan-builders) with constraint logic, real-time pricing, validation, and save-and-share mechanics. Honest about infinite-options (decision paralysis), canned-bundles-only (no real customization), and guided-configuration (smart defaults plus meaningful constraints plus escape hatches) patterns. Triggers on configurator design, build-your-own, custom configuration, plan builder, product customizer, configuration tool. Also triggers when users abandon mid-configuration, when configurator conversion is poor, or when a configurator is being scoped for the first time."
 ---
+
 # Product Configurator Design
 
 A senior product marketing director's playbook for designing build-your-own product configurators. Tesla-style vehicle configurators, custom-pricing builders, plan-builders, product customizers. Constraint logic, real-time pricing, validation, save-and-share mechanics. The discipline of building a configurator that produces configurations users actually commit to.
@@ -284,6 +285,3 @@ That is the bar. Below the bar are infinite-options (decision paralysis; users a
 
 The discipline is in the design choices. The decision to build a configurator at all. The default configuration that opens the experience. The constraint logic that protects users from invalid combinations. The pricing that updates with choices. The validation that helps without punishing. The save-and-share that supports multi-decision purchases. The cart handoff that preserves the configuration. The maintenance that keeps the configurator in sync with the product it represents.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

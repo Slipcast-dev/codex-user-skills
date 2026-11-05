@@ -1,7 +1,8 @@
 ---
 name: "vendor-evaluation"
-description: "Evaluate, select, and contract with vendors and SaaS tools. Use this skill when comparing alternatives, running an RFP, scoring vendors against criteria, negotiating contracts, planning a switch, or assessing a vendor's risk."
+description: "Evaluate, select, and contract with vendors and SaaS tools. Use this skill when comparing alternatives, running an RFP, scoring vendors against criteria, negotiating contracts, planning a switch, or assessing a vendor's risk. Triggers on vendor evaluation, RFP, vendor selection, build vs buy, SaaS evaluation, vendor scorecard, vendor comparison, contract negotiation, vendor switch, procurement. Also triggers when a renewal is coming up or when a tool isn't meeting expectations."
 ---
+
 # Vendor Evaluation
 
 Pick the right tool or service, negotiate fair terms, and avoid the lock-in traps. Stack-agnostic. Applies to SaaS, infrastructure providers, agencies, and any external dependency.
@@ -281,6 +282,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 
 - [`references/evaluation-rubric.md`](references/evaluation-rubric.md) - Scoring template with weighted dimensions, 1-5 scale criteria for each dimension, and a worked vendor-comparison example.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

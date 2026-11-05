@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Reconcile controlled-substance records and prepare for an inspection — the count against the register, the discrepancy investigation, the documentation an inspector asks for, and the reporting obligations a shortfall triggers. Use when asked to reconcile controlled drugs, prepare for a DEA or controlled-drug inspection, investigate a discrepancy or suspected diversion, or audit the CD register. Produces the reconciliation, the discrepancy investigation record, the inspection-readiness checklist, and the escalation and reporting decision tree. A process framework only; reporting thresholds, timelines and obligations are set by law in your jurisdiction and must be verified there.

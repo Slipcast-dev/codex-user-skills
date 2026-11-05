@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Find out whether something you own — a car, appliance, car seat, food item, or gadget — is under a safety recall, and what to do about it. Use when asked to check for a recall, is my [product] recalled, I heard about a recall on, or how do I find out if my car/appliance is affected. Produces a structured way to check by make/model/batch against the official sources, how to read whether your specific unit is affected, the free remedy you're owed, urgency triage for safety risks, and how to register for future recall alerts — flagging that you must confirm against the current official database.

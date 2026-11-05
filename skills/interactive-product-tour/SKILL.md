@@ -1,7 +1,8 @@
 ---
 name: "interactive-product-tour"
-description: "Designing in-product tours, tooltips, and contextual help that teach product capabilities without becoming friction."
+description: "Designing in-product tours, tooltips, and contextual help that teach product capabilities without becoming friction. Trigger logic, tour architecture, contextual placement, completion tracking. Honest about tooltip-spam (visual noise that users develop blindness to), one-and-done (help invisible at the moment of need), and contextual-when-needed (surfaces help at the moment friction occurs) patterns. Triggers on product tour, in-product tooltip, contextual help, walkthrough, feature tour, hint system, in-app guidance, tour platform. Also triggers when feature adoption is low, when users miss key product capabilities, or when an in-product help system is being scoped for the first time."
 ---
+
 # Interactive Product Tour
 
 A senior product marketing director's playbook for designing in-product tours, tooltips, and contextual help that teach product capabilities without becoming friction. Trigger logic, tour architecture, contextual placement, completion tracking. The discipline of building help systems that surface at moments of need and disappear when not needed.
@@ -246,6 +247,3 @@ That is the bar. Below the bar are tooltip-spam (visual noise that users develop
 
 The discipline is in the design choices. The decision to build a tour system at all, or rely on documentation. The trigger logic that decides when help surfaces. The architecture that organizes micro-tours by feature and workflow. The placement and dismissal that make help non-intrusive. The completion tracking that prevents re-showing what users already know. The power-user differentiation that respects expertise. The maintenance cadence that keeps tours in sync with the product.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

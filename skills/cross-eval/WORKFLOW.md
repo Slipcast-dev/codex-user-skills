@@ -102,7 +102,7 @@ This is weaker than true multi-model. Treat the result as suggestive, not conclu
 
 ## Related
 
-- Skills: [`board-meeting`](${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/board-meeting/SKILL.md), [`executive-mentor`](../executive-mentor/SKILL.md)
+- Skills: [`board-meeting`](../board-meeting/SKILL.md), [`executive-mentor`](../executive-mentor/SKILL.md)
 - Inspiration: gstack's `/codex` cross-review pattern (adapted to business memos)
 
 ---

@@ -15,6 +15,7 @@ Usage:
 
 import argparse
 import json
+import math
 import os
 import re
 import subprocess
@@ -92,27 +93,36 @@ def run_eval_in_worktree(worktree_path, eval_cmd):
         return str(e), 1
 
 
-def extract_metric(output, metric_name):
-    """Extract a numeric metric from command output.
+def extract_metric(output: str, metric_name: str) -> float | None:
+    """Извлекает конечное число по точному имени из JSON или текстового поля.
 
-    Looks for patterns like:
-    - metric_name: 42.5
-    - metric_name=42.5
-    - "metric_name": 42.5
+    Для текста учитываются знак и экспонента; границы поля исключают совпадение
+    score с other_score. Неполные и нечисловые значения не принимаются.
     """
-    patterns = [
-        rf'{metric_name}\s*[:=]\s*([\d.]+)',
-        rf'"{metric_name}"\s*[:=]\s*([\d.]+)',
-        rf"'{metric_name}'\s*[:=]\s*([\d.]+)",
-    ]
-    for pattern in patterns:
-        match = re.search(pattern, output, re.IGNORECASE)
-        if match:
-            try:
-                return float(match.group(1))
-            except ValueError:
-                continue
-    return None
+    try:
+        payload = json.loads(output)
+    except (ValueError, TypeError):
+        payload = None
+    if isinstance(payload, dict):
+        value = payload.get(metric_name)
+        if isinstance(value, bool) or not isinstance(value, (int, float)):
+            return None
+        try:
+            value = float(value)
+        except OverflowError:
+            return None
+        return value if math.isfinite(value) else None
+
+    name = re.escape(metric_name)
+    number = r"[+-]?(?:\d+(?:\.\d*)?|\.\d+)(?:[eE][+-]?\d+)?"
+    # Разделители ограничивают всё поле, а не только начало числового префикса.
+    pattern = (rf"""(?:^|[\s{{,;])(?:{name}|"{name}"|'{name}')\s*[:=]\s*"""
+               rf"({number})(?=$|[\s,;}}\]])")
+    match = re.search(pattern, output)
+    if match is None:
+        return None
+    value = float(match.group(1))
+    return value if math.isfinite(value) else None
 
 
 def get_diff_stats(branch, base_branch="main"):

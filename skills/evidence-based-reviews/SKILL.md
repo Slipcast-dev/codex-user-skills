@@ -1,7 +1,8 @@
 ---
 name: "evidence-based-reviews"
-description: "Produce honest product reviews and buying guides without fabricated first-hand experience, using disclosed evidence tiers: verified specs, owner-experience synthesis at scale, expert triangulation, and hands-on only when true."
+description: "Produce honest product reviews and buying guides without fabricated first-hand experience, using disclosed evidence tiers: verified specs, owner-experience synthesis at scale, expert triangulation, and hands-on only when true. Use this skill whenever the user wants to write product reviews or buying guides without hands-on access, set up a review methodology, add evidence disclosure to review content, align reviews with Google's reviews system or FTC affiliate disclosure expectations, or decide when Review and Product schema are honest to use. Triggers on product review, buying guide, best-of list, review methodology, evidence basis, hands-on testing, we tested, affiliate review site, review disclosure, methodology block, original research, reviews system. Also triggers when review content claims testing that did not happen, or when an affiliate site needs a trust mechanism that survives scrutiny."
 ---
+
 # Evidence-Based Reviews
 
 Produce product reviews and buying guides whose claims match their evidence. The method is evidence synthesis with a disclosed basis, and one rule anchors everything: never claim hands-on time that did not happen.
@@ -162,6 +163,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 - [`references/evidence-tiers.md`](references/evidence-tiers.md) - The four tiers in depth: verification steps, synthesis honesty, triangulation practice, and the upgrade-and-mark pattern.
 - [`references/methodology-block-template.md`](references/methodology-block-template.md) - The fillable per-piece disclosure block, a worked example, and placement rules.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

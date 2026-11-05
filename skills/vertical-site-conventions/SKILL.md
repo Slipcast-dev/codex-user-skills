@@ -1,7 +1,8 @@
 ---
 name: "vertical-site-conventions"
-description: "Compose pages and sites that read as their vertical: ecommerce-catalog storefronts that look like storefronts, hospitality-food sites that look like restaurants, b2b-manufacturer sites that look industrial."
+description: "Compose pages and sites that read as their vertical: ecommerce-catalog storefronts that look like storefronts, hospitality-food sites that look like restaurants, b2b-manufacturer sites that look industrial. Use this skill whenever the user wants to build a site that looks like the vertical it serves, fix a build that reads as generic or off-vertical, build to an experience bar produced by competitor-experience-audit, or compose pages with the merchandising, density, and layout conventions a credible site in the category is expected to carry. Triggers on vertical conventions, storefront layout, ecommerce layout, retail conventions, merchandising layout, category page composition, site composition, build to the experience bar, make it look like the vertical, off-vertical, looks generic, build conventions for a vertical, site grammar. Also triggers when a build that is technically clean reads wrong for its category, and the cause is composition, not visual taste."
 ---
+
 # Vertical Site Conventions
 
 Compose pages and whole sites to the layout, density, and merchandising conventions that make a build read as a credible member of its vertical. Stack-agnostic. Works on any framework that can express server-rendered pages and component composition.
@@ -208,6 +209,3 @@ Keep notes under 1500 words. The notes are a spec for the implementation skills;
 - [`references/shape-ecommerce-standout.md`](references/shape-ecommerce-standout.md) - Stub.
 - [`references/shape-hospitality-experience.md`](references/shape-hospitality-experience.md) - Stub.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

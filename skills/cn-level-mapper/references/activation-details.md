@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Compare job levels (职级) across Chinese technology companies and against international ladders, to judge an offer, a job move or a promotion target: what a level usually means in scope and expectations, how levels roughly line up, and what to ask the recruiter. Use when asked P7 相当于什么级别, 跳槽职级怎么对标, 字节 2-2 对应阿里什么, 这个 offer 的职级合理吗, compare Chinese tech levels, or how does Alibaba P-level map to Google levels. Produces a level comparison built from the person's own ladders and offer details, a scope-and-expectation profile for each level, the negotiation questions to ask, and a clear note on what is approximate.

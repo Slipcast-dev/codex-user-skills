@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Redesign a job role that AI now does a large part of — deliberately, instead of quietly expecting the same headcount to absorb 140% output. Use when AI has changed what a role spends time on, when writing a revised role charter or job description post-AI, when a team asks 'what is my job now', or when planning capacity after AI adoption. Produces a role redesign: the task inventory before/after, the redefined core of the role, new expectations and metrics, and the growth-path implications. For hiring rubrics use hiring-rubric; for org-wide skills planning use ai-upskilling or career-ladder-map.

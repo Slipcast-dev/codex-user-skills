@@ -1,7 +1,8 @@
 ---
 name: "scheduler-and-booking-design"
-description: "Designing meeting schedulers and booking experiences that qualify leads, set up calls well, and convert at higher rates than a generic Calendly link."
+description: "Designing meeting schedulers and booking experiences that qualify leads, set up calls well, and convert at higher rates than a generic Calendly link. Availability logic, qualification gating, prep automation, follow-up sequencing. Honest about any-time-friction (no qualification, just a booking link), interrogation-gate (so much qualification it scares users off), and qualified-fast-path (just enough qualification to set up the call well) patterns. Triggers on scheduler design, meeting booking, demo scheduling, sales call scheduling, calendar tool, booking page, qualification flow. Also triggers when sales team complains about cold demos, when booking conversion is poor, or when scheduler is being scoped for the first time."
 ---
+
 # Scheduler and Booking Design
 
 A senior growth practitioner's playbook for designing meeting schedulers and booking experiences that qualify leads, set up calls well, and convert at higher rates than a generic booking link. Availability logic, qualification gating, prep automation, follow-up sequencing. The discipline of building a scheduler that earns the booking by earning a better call.
@@ -268,6 +269,3 @@ That is the bar. Below the bar are any-time-friction (cold demos, conversion suf
 
 The discipline is in the design choices. The decision to use a scheduler at all. The qualification fields that earn their place. The availability logic that matches lead to rep. The routing that respects rep tier and capacity. The prep automation that delivers context to reps before the call. The reminder cadence that reduces no-shows without becoming spam. The reschedule and no-show handling that respects the prospect.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

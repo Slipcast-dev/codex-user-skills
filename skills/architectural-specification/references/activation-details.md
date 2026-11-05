@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Write a specification section that a contractor can price accurately and a site can build from — performance stated, products defined, workmanship and tolerances given, and the coordination with the drawings made explicit. Use when asked to write a specification, spec a material or system, prepare an NBS-style section, or when a specification produced wildly different tender prices. Produces the scope and interface definition, the performance requirements, the product or system definition, execution and tolerance requirements, and the submittals and testing schedule.

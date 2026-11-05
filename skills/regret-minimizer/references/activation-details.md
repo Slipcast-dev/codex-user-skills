@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Reframe a hard choice through the lens of future regret — which option will you regret less at 80? — to cut through short-term noise. Use when asked which will I regret less, help me decide with the long view, I don't want to look back and wish, or use the regret test on this. Produces each option projected forward to old age (the regret of doing it vs not), a distinction between action-regret and inaction-regret (people regret inactions more), the fear that's really driving the hesitation, and the choice that best minimizes lifelong regret — for the decisions that echo.

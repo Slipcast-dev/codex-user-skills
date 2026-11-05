@@ -6,10 +6,10 @@
 
 # Codex User Skills
 
-**User skills for OpenAI Codex, organized by topic.** The collection contains 1809 skills across 22 categories, covering software development, AI, documents, business, and everyday tasks. Each skill has its own `SKILL.md`; each category has a complete list of its skills and descriptions.
+**User skills for OpenAI Codex, organized by topic.** The collection contains 1810 skills across 22 categories, covering software development, AI, documents, business, and everyday tasks. Each skill has its own `SKILL.md`; each category has a complete list of its skills and descriptions.
 
 [![Catalog validation](https://github.com/Slipcast-dev/codex-user-skills/actions/workflows/validate.yml/badge.svg)](https://github.com/Slipcast-dev/codex-user-skills/actions/workflows/validate.yml)
-[![Skills](https://img.shields.io/badge/skills-1809-0f766e)](CATALOG.en.md)
+[![Skills](https://img.shields.io/badge/skills-1810-0f766e)](CATALOG.en.md)
 [![Categories](https://img.shields.io/badge/categories-22-2563eb)](CATALOG.en.md)
 [![Release](https://img.shields.io/github/v/release/Slipcast-dev/codex-user-skills)](https://github.com/Slipcast-dev/codex-user-skills/releases/latest)
 [![Release downloads](https://img.shields.io/github/downloads/Slipcast-dev/codex-user-skills/total?label=release%20downloads)](https://github.com/Slipcast-dev/codex-user-skills/releases)
@@ -112,7 +112,7 @@ Folders in `skills/` remain side by side because some original instructions refe
 
 The collection includes materials from different authors. **A single license does not automatically apply to every skill.** Each skill is governed by its original `LICENSE`, `NOTICE`, and other notices. These files are preserved alongside the skill.
 
-See [THIRD_PARTY_NOTICES.en.md](THIRD_PARTY_NOTICES.en.md) for a summary and materials whose license is unspecified; [LICENSE](LICENSE) defines the scope of the repository's license. There is no separate license file for 134 skills. The collection owner has confirmed the right to distribute those materials publicly; this does not automatically assign them an MIT license or establish terms for downstream use. A catalog entry does not itself grant new rights to third-party materials. The original legal license text is preserved without translation.
+See [THIRD_PARTY_NOTICES.en.md](THIRD_PARTY_NOTICES.en.md) for a summary and materials whose license is unspecified; [LICENSE](LICENSE) defines the scope of the repository's license. There is no separate license file for 135 skills. The source package and license for the added `systems-engineering` skill are unspecified. A missing license file does not automatically assign an MIT license or establish terms for downstream use. A catalog entry does not itself grant new rights to third-party materials. The original legal license text is preserved without translation.
 
 ## Contributing and support
 

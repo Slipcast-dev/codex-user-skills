@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Respond fast and safely if your personal information has been exposed or you're being doxxed — contain the spread, protect your safety and accounts, and report it. Use when asked what to do if I've been doxxed, someone posted my personal info, my address is being shared online, or I'm being targeted online. Produces an immediate safety-and-containment checklist, takedown/report steps for the platforms hosting the info, account and physical-safety hardening, an evidence-preservation step for authorities, and escalation to police/support when there are threats. Not legal advice.

@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Organize the people and information involved in caring for someone — family, doctors, helpers — so care doesn't fall through the cracks or all land on one person. Use when asked help me coordinate care for, organize caregiving for my parent, set up a care system, or I'm drowning coordinating everyone. Produces a map of who does what (medical, daily, financial, emotional), a shared-information system so everyone's on the same page, a way to divide tasks fairly among family, a communication rhythm, and how to keep the key information (meds, contacts, wishes) in one accessible place — turning caregiving chaos into a coordinated effort.

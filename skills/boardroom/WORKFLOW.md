@@ -122,7 +122,7 @@ If advisors see each other's positions before forming their own, they anchor. Ph
 ## Related
 
 - Agent: [`cs-chief-of-staff`](../../skill-resources/local-import-2026-10-28/claude-skills-main/c-level-agents/agents/cs-chief-of-staff.md)
-- Skills: [`board-meeting`](${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/board-meeting/SKILL.md), [`executive-mentor`](../executive-mentor/SKILL.md)
+- Skills: [`board-meeting`](../board-meeting/SKILL.md), [`executive-mentor`](../executive-mentor/SKILL.md)
 
 ---
 

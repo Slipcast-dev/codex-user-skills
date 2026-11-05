@@ -57,8 +57,7 @@ TEXT = {
         'license': 'Указанная лицензия',
         'unknown': (
             '`NOASSERTION` означает отсутствие отдельного файла лицензии. '
-            'Владелец коллекции подтвердил право публичного распространения '
-            'этих материалов. Это не задаёт условия дальнейшего использования: '
+            'Отсутствие лицензии не задаёт условия дальнейшего использования: '
             'уточняйте их у правообладателя. Не считайте такие материалы '
             'автоматически MIT или public domain. `LicenseRef-Multiple` '
             'означает несколько сохранённых файлов лицензий; изучите каждый.'
@@ -114,8 +113,7 @@ TEXT = {
         'license': 'Recorded license',
         'unknown': (
             '`NOASSERTION` means that a separate license file is missing. '
-            'The collection owner confirmed the right to publish these '
-            'materials. This does not specify downstream usage terms: '
+            'Missing license files do not specify downstream usage terms: '
             'contact the rights holder to clarify them. Do not assume '
             'MIT or public-domain status. `LicenseRef-Multiple` indicates '
             'multiple preserved license files; review each one.'

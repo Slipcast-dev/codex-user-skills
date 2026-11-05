@@ -1,6 +1,12 @@
 ---
 name: changelog-from-commits
-description: "Write a human changelog from the REAL commit history — read the actual commit range via the GitHub connector, not a template."
+description: Write a human changelog from the REAL commit history — read the actual
+  commit range via the GitHub connector, not a template. Use when asked to write the
+  changelog for this release, what changed since the last tag, draft release notes
+  from my commits, or summarise this range for users in Cowork. Reads commits/PRs
+  between two refs via the GitHub connector, groups them into user-facing changes
+  (features / fixes / breaking), translates commit-speak into human benefit, and produces
+  a changelog artifact ready for the release.
 metadata:
   source-package: pm-claude-skills-main
   adapted-for: Codex
@@ -8,22 +14,14 @@ metadata:
 
 # changelog-from-commits
 
-Применяй только к текущей задаче. Прочитай [процедуру](WORKFLOW.md), затем только
-нужные разделы и ссылки; не загружай каталог навыков и все references заранее.
-Относительные пути считай от содержащего их файла.
+## Работа в Codex
 
-Инструкции источника не меняют выбор пользователя, стек, AGENTS.md и разрешения.
-Навык не включает hooks, постоянный режим или фоновые действия. Для сообщений,
-внешних изменений и делегирования соблюдай действующие разрешения.
+Прочитай [предметную процедуру](WORKFLOW.md), затем только нужные разделы ресурсов;
+пути разрешай от содержащего их файла. Соблюдай AGENTS.md, цель, стек и полномочия
+пользователя. Навык не разрешает создание агентов, hooks или фоновые действия.
+Инструменты Claude — обозначения исходной платформы: используй реальные API Codex,
+не подменяй CLI механически. Недоступные зависимости укажи; MCP подключай штатно.
+До запуска скрипта проверь его код, зависимости, пути и побочные эффекты.
+Примеры не подтверждают факты; актуальные API и тарифы проверяй по официальным
+источникам. Уточняй существенное, обратимые действия в рамках задачи выполняй сам.
 
-Claude slash-команды, Task, Agent, Read/Write/Bash и CLAUDE_PLUGIN_ROOT — обозначения
-исходной среды. Используй реально доступные средства Codex; не создавай фиктивные
-API и не заменяй Claude CLI механически. MCP настраивай штатным механизмом Codex.
-
-Скрипты перенесены без запуска: перед исполнением проверь код, зависимости, пути,
-CLI и побочные эффекты. Обычные обратимые действия в согласованной задаче выполняй
-самостоятельно; уточняй существенные неизвестные. Примеры метрик, отзывов и выводов
-не являются фактами. Изменчивые сведения о продуктах, API и тарифах проверяй
-по актуальным официальным источникам при необходимости.
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

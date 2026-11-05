@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Understand the basics of investing enough to start sensibly — the core concepts, the simple default that works for most people, and the traps that separate beginners from their money. Use when asked how do I start investing, explain investing for beginners, I have money to invest but don't know how, or is investing worth it for me. Produces the essential concepts in plain language (risk, diversification, time, fees, compounding), the boring-but-effective default approach, the order of operations before you invest, and the beginner traps to avoid — educational only, not financial advice, and jurisdiction-neutral.

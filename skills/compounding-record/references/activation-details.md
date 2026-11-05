@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Write a compounding worksheet and record that reproduces the preparation exactly and survives inspection — formula, calculations shown, components with lot numbers, in-process checks, and the beyond-use date with its basis. Use when asked to document a compounded preparation, write a master formulation record, create a compounding worksheet, or prepare compounding documentation for inspection. Produces the master formula, the batch record, the component and lot table, in-process checks, labelling, and the beyond-use-date rationale. Documentation only; standards and stability data must come from current official references.

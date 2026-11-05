@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Run an annual (or anytime) financial health check across the key areas — so you catch problems and opportunities instead of drifting. Use when asked do a financial checkup, am I doing okay financially, review my finances, or financial health check. Produces a structured review across the core areas (safety net, debt, spending, saving/investing, protection, and goals), a clear read on what's healthy vs needs attention, the highest-priority fixes, and a couple of easy wins — a financial physical that turns 'I think I'm fine?' into an honest, actionable picture. Educational, not financial advice.

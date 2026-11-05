@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Track a team's budget so surprises die young — the commitment-based view (spent + committed + planned, not just invoiced), the category grain that matches how the team actually spends, the monthly close with its one-sentence read, and the forecast honesty for the year-end question. Use when asked track my team's budget, are we going to blow the budget, why did finance's number surprise us, or set up budget visibility for the team. Produces the three-lane tracker (spent/committed/planned), the monthly close ritual, the variance signals, and the year-end forecast method.

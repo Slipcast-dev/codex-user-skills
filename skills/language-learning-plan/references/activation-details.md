@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Build a realistic plan to learn a language for your actual goal — travel, conversation, work, or fluency — focused on what moves the needle instead of endless app streaks. Use when asked to help me learn [language], make a language learning plan, how do I get conversational, or study a language efficiently. Produces a goal-and-level read, a prioritized plan (the high-frequency vocab and core patterns first), a daily/weekly routine mixing input, speaking, and review, how to get real practice and feedback, milestones, and honest expectations — not a promise of fluency in a month.

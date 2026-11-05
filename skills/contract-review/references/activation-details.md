@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Review and summarise any contract or legal agreement. Use when asked to review a contract, check an agreement, flag legal risks, or summarise key clauses. Produces a structured review with key terms, flagged clauses, risk rating, and plain English summary. Not a substitute for qualified legal advice.

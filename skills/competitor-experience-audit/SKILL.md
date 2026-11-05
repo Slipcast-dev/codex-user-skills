@@ -1,7 +1,8 @@
 ---
 name: "competitor-experience-audit"
-description: "Audit the brand, UX, and site design of the leading sites in a vertical as a set of observable cross-site patterns, producing the experience bar a new build must meet or beat."
+description: "Audit the brand, UX, and site design of the leading sites in a vertical as a set of observable cross-site patterns, producing the experience bar a new build must meet or beat. Use this skill whenever the user wants to assess the competitive design field, capture vertical conventions, identify the design and UX bar of a category, or set the experience standard before a build. Triggers on competitor experience audit, UX audit, site design audit, brand audit, design conventions, what makes these sites good, vertical conventions, storefront patterns, merchandising patterns, layout density, primary task, design bar, category conventions, retail vs marketing register, what does the field do. Also triggers when an audit of the competitive field has captured technical signals (SEO, accessibility) but never named the brand, UX, or design conventions, and the build downstream will read as off-vertical without that bar."
 ---
+
 # Competitor Experience Audit
 
 Capture the brand, UX, and site design that the leading sites in a vertical observably share, and where they fall short. The output is the experience bar a new build must meet or beat, grounded in cross-site patterns rather than aesthetic opinion.
@@ -186,6 +187,3 @@ If the audit will feed a public showcase workup, scrub for named competitors bef
 - [`references/audit-template.md`](references/audit-template.md) - Fillable experience-audit template, copy and use. Generalized and named variants both present.
 - [`references/experience-dimensions-checklist.md`](references/experience-dimensions-checklist.md) - The observable questions per dimension, in scoring order.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

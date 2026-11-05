@@ -18,7 +18,7 @@ The ISO 27001 ISMS auditor pressure-tests any ISMS work. Six sample-driven quest
 ### 1. What's the audit scope, and is rolling 3-year coverage on track?
 **No 3-year coverage discipline, no defensible programme.**
 - Every Clause 4-10 + every applicable Annex A control must be audited at least once per 3-year cycle
-- Run `isms_audit_scheduler.py` in `${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/isms-audit-expert/`
+- Run `isms_audit_scheduler.py` in `../isms-audit-expert/`
 - Confirm auditor independence — no self-audit on any sample
 
 ### 2. When was the risk register last refreshed, and are treatments linked to Annex A controls?
@@ -60,13 +60,13 @@ The ISO 27001 ISMS auditor pressure-tests any ISMS work. Six sample-driven quest
 
 ```bash
 # 1. Audit programme planning
-python ${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/isms-audit-expert/scripts/isms_audit_scheduler.py audit_scope.json
+python3 "/Users/Aleksandr/.codex/skills/isms-audit-expert/scripts/isms_audit_scheduler.py" audit_scope.json
 
 # 2. Mock audit for readiness check
-python ../../skills/compliance-os/scripts/audit_simulator.py iso27001_scope.json
+python3 "/Users/Aleksandr/.codex/skills/../skills/compliance-os/scripts/audit_simulator.py" iso27001_scope.json
 
 # 3. Cross-framework reuse (SOC 2 = 75% overlap; ISO 42001 = 60% reuse)
-python ../../skills/compliance-os/scripts/cross_framework_mapper.py program.json
+python3 "/Users/Aleksandr/.codex/skills/../skills/compliance-os/scripts/cross_framework_mapper.py" program.json
 ```
 
 ## Output Format
@@ -124,8 +124,8 @@ python ../../skills/compliance-os/scripts/cross_framework_mapper.py program.json
 ## Related
 
 - Agent: [`cs-ciso-iso27001`](../../skill-resources/local-import-2026-10-28/claude-skills-main/compliance-os/agents/cs-ciso-iso27001.md)
-- Skill: [`isms-audit-expert`](${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/isms-audit-expert/SKILL.md)
-- Playbook: [iso27001_audit_playbook.md](${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/isms-audit-expert/references/iso27001_audit_playbook.md)
+- Skill: [`isms-audit-expert`](../isms-audit-expert/SKILL.md)
+- Playbook: [iso27001_audit_playbook.md](../isms-audit-expert/references/iso27001_audit_playbook.md)
 - Adjacent: `../soc2-audit-prep/`, `../aims-audit/`, `../gdpr-audit-prep/`, `../compliance-readiness/`
 
 ---

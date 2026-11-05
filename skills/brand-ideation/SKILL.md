@@ -1,7 +1,8 @@
 ---
 name: "brand-ideation"
-description: "Generate, evaluate, and narrow brand concepts during early ideation including positioning territories, naming candidates, mood directions, and narrative angles."
+description: "Generate, evaluate, and narrow brand concepts during early ideation including positioning territories, naming candidates, mood directions, and narrative angles. Use this skill whenever the user is in the early phase of brand creation, exploring brand directions, brainstorming names, building moodboards, generating positioning options, or trying to choose between multiple brand directions. Triggers on brand ideation, brand concept, naming, brand name, name candidates, positioning, brand positioning, mood board, brand directions, exploring brands, early brand work, brand exploration, brand brainstorm, brand options. Also triggers when the user has multiple half-formed brand ideas and needs help converging on one, even if they do not say 'ideation' explicitly."
 ---
+
 # Brand Ideation
 
 Generate and converge on brand directions before committing to identity work. This is upstream of `brand-identity` (the visual system) and `brand-style-guide` (the documentation). It is the divergent-then-convergent thinking phase where ideas are cheap and direction matters more than polish.
@@ -176,6 +177,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 - [`references/ideation-output-template.md`](references/ideation-output-template.md) - Fillable template for the ideation deliverable.
 - [`references/naming-evaluation-rubric.md`](references/naming-evaluation-rubric.md) - The 6-criteria filter applied with examples.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

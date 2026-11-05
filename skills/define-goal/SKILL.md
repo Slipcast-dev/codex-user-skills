@@ -1,7 +1,8 @@
 ---
 name: define-goal
-description: "Help the user define a concrete, measurable goal before starting work, especially when they ask to use the goal tool, create a goal, set an objective, clarify success criteria, or turn a fuzzy intention into a quantitative outcome."
+description: Help the user define a concrete, measurable goal before starting work, especially when they ask to use the goal tool, create a goal, set an objective, clarify success criteria, or turn a fuzzy intention into a quantitative outcome. Use this skill for goal creation and goal refinement only; it does not manage durable snapshots, decision logs, or long-running execution artifacts.
 ---
+
 # Define Goal
 
 ## Overview
@@ -96,6 +97,3 @@ Useful question shapes:
 - "What is the minimum evidence you want before I mark this goal complete?"
 
 If the user cannot provide a metric, propose the most honest binary validator available and ask for confirmation.
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

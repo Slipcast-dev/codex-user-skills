@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Turn the household unwritten rules into a short charter everyone actually agreed to — screens, chores, money, guests, quiet — drafted together, with consequences decided in advance and an amendment process so it bends instead of breaking. Use when asked to make family rules that stick, a screen-time agreement, a flatmate agreement, or stop having the same argument about chores. Produces the negotiation session plan, the drafted constitution, the consequence menu agreed before anyone breaks anything, and the review procedure. Works for families and shared houses; slightly funny on purpose, binding on purpose too.

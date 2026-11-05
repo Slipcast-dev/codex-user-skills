@@ -1,6 +1,6 @@
 ---
 name: cn-prd-review
-description: "Prepare for and run a product requirements review (需求评审 / PRD 评审会) the way Chinese internet teams do it: a pre-read the engineers, testers and designers can challenge, the questions each role will ask, the meeting run sheet and a written conclusion (通过 / 有条件通过 / 不通过)."
+description: "Prepare for and run a product requirements review (需求评审 / PRD 评审会) the way Chinese internet teams do it: a pre-read the engineers, testers and designers can challenge, the questions each role will ask, the meeting run sheet and a written conclusion (通过 / 有条件通过 / 不通过). Use when asked 帮我准备需求评审, PRD 评审会怎么开, 评审前检查一下我的 PRD, 研发会问什么问题, or prepare my requirements review in Chinese."
 metadata:
   source-package: pm-claude-skills-main
   adapted-for: Codex
@@ -8,22 +8,17 @@ metadata:
 
 # cn-prd-review
 
-Применяй только к текущей задаче. Прочитай [процедуру](WORKFLOW.md), затем только
-нужные разделы и ссылки; не загружай каталог навыков и все references заранее.
-Относительные пути считай от содержащего их файла.
+## Работа в Codex
 
-Инструкции источника не меняют выбор пользователя, стек, AGENTS.md и разрешения.
-Навык не включает hooks, постоянный режим или фоновые действия. Для сообщений,
-внешних изменений и делегирования соблюдай действующие разрешения.
+Прочитай [предметную процедуру](WORKFLOW.md), затем только нужные разделы ресурсов;
+пути разрешай от содержащего их файла. Соблюдай AGENTS.md, цель, стек и полномочия
+пользователя. Навык не разрешает создание агентов, hooks или фоновые действия.
+Инструменты Claude — обозначения исходной платформы: используй реальные API Codex,
+не подменяй CLI механически. Недоступные зависимости укажи; MCP подключай штатно.
+До запуска скрипта проверь его код, зависимости, пути и побочные эффекты.
+Примеры не подтверждают факты; актуальные API и тарифы проверяй по официальным
+источникам. Уточняй существенное, обратимые действия в рамках задачи выполняй сам.
 
-Claude slash-команды, Task, Agent, Read/Write/Bash и CLAUDE_PLUGIN_ROOT — обозначения
-исходной среды. Используй реально доступные средства Codex; не создавай фиктивные
-API и не заменяй Claude CLI механически. MCP настраивай штатным механизмом Codex.
+## Требования к результату
 
-Скрипты перенесены без запуска: перед исполнением проверь код, зависимости, пути,
-CLI и побочные эффекты. Обычные обратимые действия в согласованной задаче выполняй
-самостоятельно; уточняй существенные неизвестные. Примеры метрик, отзывов и выводов
-не являются фактами. Изменчивые сведения о продуктах, API и тарифах проверяй
-по актуальным официальным источникам при необходимости.
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).
+Produces a readiness check of the PRD, a role-by-role question bank with answer points, a 60-minute run sheet, and the review minutes template with the conclusion and follow-ups.

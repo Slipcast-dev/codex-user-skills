@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Respond to false, damaging statements about you or your business — decide what actually counts as defamation, preserve evidence, and choose the right response from correction to takedown to legal action. Use when asked someone posted lies about me, respond to a false review/statement, is this defamation, or protect my reputation online. Produces a read on whether it likely crosses from opinion into actionable falsehood, evidence-preservation steps, a tiered response (platform report, correction/retraction request, cease-and-desist, legal), and a caution against reactions that make it worse. Not legal advice.

@@ -1,7 +1,8 @@
 ---
 name: "content-brief-authoring"
-description: "How to author a content brief that actually guides a writer (human or AI) to produce a piece that ranks, converts, or both."
+description: "How to author a content brief that actually guides a writer (human or AI) to produce a piece that ranks, converts, or both. Per-piece editorial brief: target keyword and cluster, search intent, audience and JTBD, heading structure, entity coverage for AEO/GEO, internal linking strategy, success criteria. The middle path between thin briefs (a keyword and a deadline) and thick briefs (a 4-page document nobody reads). Triggers on content brief, brief the writer, brief the article, brief authoring, content brief template, brief audit, per-piece brief, editorial brief, target keyword brief, search intent brief. Also triggers when briefing a human writer or an AI agent on a single content piece."
 ---
+
 # Content Brief Authoring
 
 A senior content strategist's playbook for authoring per-piece content briefs that actually guide writers to produce content worth publishing.
@@ -65,6 +66,3 @@ Before applying a method below, read its linked section. For a narrow task selec
 - Common failure modes: [method](references/domain-guide.md#common-failure-modes).
 - The framework: 12 considerations for brief authoring: [method](references/domain-guide.md#the-framework-12-considerations-for-brief-authoring).
 - Closing: the brief is the contract: [method](references/domain-guide.md#closing-the-brief-is-the-contract).
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

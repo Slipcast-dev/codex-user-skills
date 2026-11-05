@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Design an AI-assisted workflow for a recurring task — which steps to hand to AI, which to keep human, and how they connect — so you get leverage without losing quality or control. Use when asked how do I use AI for [process], automate this with AI, design an AI workflow, or where does AI fit in my process. Produces a map of the task's steps split into AI-does / human-does / human-checks, the right tool/prompt for each AI step, the hand-offs and review points, the failure modes to guard against, and a start-small rollout — turning a manual process into a reliable AI-assisted one that keeps you in control.

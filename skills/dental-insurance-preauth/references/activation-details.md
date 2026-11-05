@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Write a dental pre-authorisation request or claim narrative that gets approved the first time — the diagnosis, the documented failure of lesser treatment, and the attachments a reviewer needs, assembled in the order they assess them. Use when asked to write a pre-auth, submit a predetermination, appeal a denied dental claim, or write a narrative for a crown, implant, or perio case. Produces the narrative, the supporting-evidence checklist, the attachment list, and an appeal letter if the claim was already denied. Administrative support only; clinical justification must come from the treating clinician's own findings.

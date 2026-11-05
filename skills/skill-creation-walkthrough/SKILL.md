@@ -1,7 +1,8 @@
 ---
 name: "skill-creation-walkthrough"
-description: "Step-by-step guide for creating your own Codex skills, from deciding whether a skill is the right tool to writing the SKILL.md file, structuring reference material, and making it trigger reliably."
+description: "Step-by-step guide for creating your own Codex skills, from deciding whether a skill is the right tool to writing the SKILL.md file, structuring reference material, and making it trigger reliably. Use when you want to package a workflow, framework, or repeated task into a reusable Skill, when an existing skill is not triggering or not loading the right context, when you are auditing a skill that is underperforming, or when you want to publish a skill for others. Also triggers when someone asks \"how do I make a skill\" or \"what makes a good skill\". Useful for individuals, teams, and anyone publishing skills publicly."
 ---
+
 A walkthrough for designing, writing, and maintaining your own Codex skills. Covers when a skill is the right shape for your problem, how to write a description that actually triggers, how to structure SKILL.md and references, and how to test and iterate.
 
 ## When to use
@@ -260,6 +261,3 @@ When using this skill to create another skill, deliver:
 ## Reusable contract and evaluations
 
 For new or revised skills use [the compact contract](references/operational-contract.md). Apply only the fields that materially change decisions. Run behavioral checks with `skill-evaluation` when available; its absence is not a blocker to manual evaluation. Preserve actual outcomes and distinguish structural validation from behavioral evidence.
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

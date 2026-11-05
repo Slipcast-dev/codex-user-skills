@@ -1,7 +1,8 @@
 ---
 name: "ai-content-collaboration"
-description: "How humans and AI compose in content workflows. Where AI legitimately participates, where humans must own, hybrid workflow patterns, voice ownership preservation, the AI slop problem, disclosure and transparency, team calibration, and the ethics of intellectually honest AI-assisted content production."
+description: "How humans and AI compose in content workflows. Where AI legitimately participates, where humans must own, hybrid workflow patterns, voice ownership preservation, the AI slop problem, disclosure and transparency, team calibration, and the ethics of intellectually honest AI-assisted content production. Triggers on AI content workflow, AI-assisted writing, hybrid content production, AI in editorial, AI slop, AI disclosure, AI usage policy, AI content ethics, voice preservation with AI, team AI calibration. Also triggers when content feels generic despite quality tools, when team AI usage has drifted into inconsistency, or when a regulated or trust-sensitive context requires explicit AI policy."
 ---
+
 # AI Content Collaboration
 
 A senior editorial leader's playbook for how humans and AI compose in content workflows. Pragmatic, tool-agnostic, honest about both what AI in the loop enables and what it threatens.
@@ -65,6 +66,3 @@ Before applying a method below, read its linked section. For a narrow task selec
 - Common failure modes: [method](references/domain-guide.md#common-failure-modes).
 - The framework: 12 considerations for AI content collaboration: [method](references/domain-guide.md#the-framework-12-considerations-for-ai-content-collaboration).
 - Closing: collaboration, not replacement: [method](references/domain-guide.md#closing-collaboration-not-replacement).
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

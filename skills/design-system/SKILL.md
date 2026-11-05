@@ -1,7 +1,8 @@
 ---
 name: "design-system"
-description: "Build or audit a design system including component library, design tokens, naming conventions, contribution model, and documentation."
+description: "Build or audit a design system including component library, design tokens, naming conventions, contribution model, and documentation. Use this skill whenever the user wants to build a design system, audit an existing system, define design tokens at the system level, structure a component library, or set up design system governance. Triggers on design system, component library, design tokens, atomic design, atoms, molecules, organisms, design system documentation, Storybook, Figma library, system governance, design contribution model. Also triggers when teams are inconsistent across products and a system is the answer."
 ---
+
 # Design System
 
 Build, evolve, or audit a design system. Stack-agnostic in principle. Implementation is stack-specific (Figma, Storybook, code library, etc.) but the structure and governance principles transfer.
@@ -203,6 +204,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 - [`references/system-audit-template.md`](references/system-audit-template.md) - Template for auditing an existing design system.
 - [`references/governance-playbook.md`](references/governance-playbook.md) - Contribution model, ownership, and decision process for an active system.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

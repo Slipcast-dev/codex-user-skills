@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Figure out which AI tool actually fits the task in front of you — chatbot, coding assistant, image model, agent, or none — instead of forcing one tool onto everything. Use when asked which AI tool should I use for, what's the best AI for, do I even need AI for this, or should I use ChatGPT or something else. Produces a match between your task and the right kind of AI tool (with why), the trade-offs that matter for your case, when the answer is a non-AI tool or plain human effort, and how to try it cheaply before committing — so you pick by fit, not by hype or habit.

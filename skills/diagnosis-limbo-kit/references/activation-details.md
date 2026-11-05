@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Run the multi-year campaign of being chronically ill with no diagnosis — track patterns across specialists so nothing resets, avoid the 'it's just anxiety' dead-end, chase referrals that stall, and arrive at each new doctor with the longitudinal case instead of starting from zero again. Use when someone says 'I've been sick for years and no one can tell me why', 'every specialist starts over', 'they keep saying it's stress', or is stuck in diagnostic limbo. Produces a longitudinal symptom dossier, a specialist-handoff brief, and a next-move plan. Not medical advice — it organizes YOUR information so clinicians can use it.

@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Build a real plan to make friends as an adult — where to meet people you'd actually click with, how to turn acquaintances into friends, and past the awkwardness. Use when asked how do I make friends as an adult, I'm lonely and want more friends, help me build a social life, or I have no friends here. Produces a read on where to meet the right people for you (shared interests + repeated exposure), the specific move that converts acquaintances to friends (initiate + consistency + vulnerability), a low-pressure action plan, and reassurance that the awkwardness is normal — because adult friendship doesn't happen by accident, it's built.

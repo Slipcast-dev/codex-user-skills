@@ -1,7 +1,8 @@
 ---
 name: "stakeholder-communication"
-description: "Communicate effectively with stakeholders across functions and seniority levels."
+description: "Communicate effectively with stakeholders across functions and seniority levels. Use this skill when writing status updates, preparing executive reviews, sharing technical decisions with non-technical audiences, managing up, communicating bad news, or designing the communication cadence for a project. Triggers on stakeholder update, status report, executive summary, exec review, manage up, communicate bad news, project comms, status meeting, weekly update. Also triggers when a project is going off track and the team needs to communicate it."
 ---
+
 # Stakeholder Communication
 
 Get the right information to the right people at the right time, in a form they can act on. Stack-agnostic. Applies to any team operating with cross-functional stakeholders.
@@ -355,6 +356,3 @@ For individual communications:
 
 - [`references/update-templates.md`](references/update-templates.md): Ready-to-use templates for the most common stakeholder communications, with annotated examples.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

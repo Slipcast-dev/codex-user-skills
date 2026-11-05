@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-11-03",
+  "snapshot_date": "2026-11-05",
   "scope": "Installed user skills only; bundled system and plugin skills excluded.",
   "classification": "Editorial categories assigned from skill names and descriptions; one primary category per skill.",
   "skills": [
@@ -16075,6 +16075,14 @@
       "license_paths": [
         "skills/system-design-interview/LICENSE"
       ]
+    },
+    {
+      "name": "systems-engineering",
+      "source_scope": "codex",
+      "source_package": "unknown",
+      "license": "NOASSERTION",
+      "license_path": null,
+      "license_paths": []
     },
     {
       "name": "tabletop-negotiator",

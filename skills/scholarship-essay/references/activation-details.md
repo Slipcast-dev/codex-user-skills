@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Write a scholarship essay that stands out — a genuine, specific story that answers the prompt and shows why you deserve the award, without clichés. Use when asked to help with a scholarship essay, write my scholarship application, essay about why I deserve this scholarship, or make my application essay stronger. Produces a read of the prompt and what the committee is really looking for, a strong angle drawn from your real story, a structure that hooks and builds, specifics over platitudes, and a voice that's authentically yours — guiding you to write it, not fabricating experiences you didn't have.

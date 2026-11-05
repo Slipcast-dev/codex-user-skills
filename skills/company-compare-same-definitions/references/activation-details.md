@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Use when asked to compare two annual reports, put two companies from the same sector side by side, or check whether two companies' adjusted numbers mean the same thing. Takes two uploaded annual reports from one sector and compares them on five ratios computed with identical definitions from audited figures, flagging every place the companies define a metric differently. Produces a page-referenced comparison table, a definitions-differ section (adjusted vs statutory, inside vs outside the audited statements), and three questions to ask before believing either company's highlights. Educational, not financial advice.

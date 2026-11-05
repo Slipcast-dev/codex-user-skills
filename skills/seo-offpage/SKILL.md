@@ -1,7 +1,8 @@
 ---
 name: "seo-offpage"
-description: "Plan and execute off-page SEO including link building, digital PR, brand mentions, citation building, and external authority signals."
+description: "Plan and execute off-page SEO including link building, digital PR, brand mentions, citation building, and external authority signals. Use this skill whenever the user wants to build backlinks, plan a digital PR campaign, list local citations, run guest post outreach, develop linkable assets, recover lost links, or audit a backlink profile for risk. Triggers on link building, backlinks, digital PR, brand mentions, citation building, guest post, outreach, linkable asset, broken link building, HARO, podcast outreach, off-page SEO, anchor text, link velocity, toxic backlinks, disavow. Also triggers when the user is trying to grow domain authority or earn coverage."
 ---
+
 # Off-Page SEO
 
 Build the external signals that earn rankings: backlinks, brand mentions, citations, and trusted sources pointing back to the site. Stack-agnostic.
@@ -169,6 +170,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 - [`references/outreach-templates.md`](references/outreach-templates.md) - Templates for guest posting, expert quotes, broken-link outreach, podcast pitches.
 - [`references/linkable-assets-guide.md`](references/linkable-assets-guide.md) - Categories of linkable assets with examples and effort estimates.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

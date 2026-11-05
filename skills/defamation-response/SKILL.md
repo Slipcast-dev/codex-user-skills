@@ -1,6 +1,6 @@
 ---
 name: defamation-response
-description: "Respond to false, damaging statements about you or your business — decide what actually counts as defamation, preserve evidence, and choose the right response from correction to takedown to legal action."
+description: "Respond to false, damaging statements about you or your business — decide what actually counts as defamation, preserve evidence, and choose the right response from correction to takedown to legal action. Use when asked someone posted lies about me, respond to a false review/statement, is this defamation, or protect my reputation online. Not legal advice."
 metadata:
   source-package: pm-claude-skills-main
   adapted-for: Codex
@@ -8,22 +8,17 @@ metadata:
 
 # defamation-response
 
-Применяй только к текущей задаче. Прочитай [процедуру](WORKFLOW.md), затем только
-нужные разделы и ссылки; не загружай каталог навыков и все references заранее.
-Относительные пути считай от содержащего их файла.
+## Работа в Codex
 
-Инструкции источника не меняют выбор пользователя, стек, AGENTS.md и разрешения.
-Навык не включает hooks, постоянный режим или фоновые действия. Для сообщений,
-внешних изменений и делегирования соблюдай действующие разрешения.
+Прочитай [предметную процедуру](WORKFLOW.md), затем только нужные разделы ресурсов;
+пути разрешай от содержащего их файла. Соблюдай AGENTS.md, цель, стек и полномочия
+пользователя. Навык не разрешает создание агентов, hooks или фоновые действия.
+Инструменты Claude — обозначения исходной платформы: используй реальные API Codex,
+не подменяй CLI механически. Недоступные зависимости укажи; MCP подключай штатно.
+До запуска скрипта проверь его код, зависимости, пути и побочные эффекты.
+Примеры не подтверждают факты; актуальные API и тарифы проверяй по официальным
+источникам. Уточняй существенное, обратимые действия в рамках задачи выполняй сам.
 
-Claude slash-команды, Task, Agent, Read/Write/Bash и CLAUDE_PLUGIN_ROOT — обозначения
-исходной среды. Используй реально доступные средства Codex; не создавай фиктивные
-API и не заменяй Claude CLI механически. MCP настраивай штатным механизмом Codex.
+## Требования к результату
 
-Скрипты перенесены без запуска: перед исполнением проверь код, зависимости, пути,
-CLI и побочные эффекты. Обычные обратимые действия в согласованной задаче выполняй
-самостоятельно; уточняй существенные неизвестные. Примеры метрик, отзывов и выводов
-не являются фактами. Изменчивые сведения о продуктах, API и тарифах проверяй
-по актуальным официальным источникам при необходимости.
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).
+Produces a read on whether it likely crosses from opinion into actionable falsehood, evidence-preservation steps, a tiered response (platform report, correction/retraction request, cease-and-desist, legal), and a caution against reactions that make it worse.

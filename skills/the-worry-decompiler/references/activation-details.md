@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Turn an anxious spiral into a concrete list — separate the specific worries from the vague dread, sort what you can act on from what you can't, and get one action. Use when asked help me with my anxiety spiral, I can't stop worrying about, my mind won't stop racing, or break down what I'm anxious about. Produces the swirling worry pulled apart into named, specific concerns, each sorted into can-act-on vs can't-control vs not-actually-likely, a single action for the actionable ones, and a way to set down the rest — because a spiral is fog, and a list is manageable. Not therapy.

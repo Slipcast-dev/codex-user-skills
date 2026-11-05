@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Prepare to get the most out of a medical appointment — for yourself or someone you care for — with the right questions, the information to bring, and how to make sure you're heard. Use when asked help me prepare for a doctor's appointment, questions to ask the doctor, advocate for my parent at the doctor, or how do I get the most from this appointment. Produces a focused list of what to raise and ask (prioritized, since time is short), the history and info to bring, note-taking and 'teach-back' tactics so you actually understand, how to speak up if dismissed, and what to confirm before leaving — not medical advice, but better navigation of care.

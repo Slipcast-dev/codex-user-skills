@@ -2,7 +2,7 @@
 
 # Provenance and Third-Party Notices
 
-An independent collection of user skills for OpenAI Codex. Snapshot: 2026-11-03. Bundled system and plugin skills are excluded.
+An independent collection of user skills for OpenAI Codex. Snapshot: 2026-11-05. Bundled system and plugin skills are excluded.
 
 Original LICENSE and NOTICE files, links and attribution are preserved inside skill folders. The `source-package` field was copied from source metadata and does not establish a complete provenance chain. Package names do not replace upstream repository URLs; unknown URLs have not been invented.
 
@@ -13,9 +13,9 @@ The root LICENSE applies only to new catalog maintenance tools and repository pr
 | Apache-2.0 | 4 |
 | LicenseRef-Multiple | 1 |
 | MIT | 1670 |
-| NOASSERTION | 134 |
+| NOASSERTION | 135 |
 
-`NOASSERTION` means that a separate license file is missing. The collection owner confirmed the right to publish these materials. This does not specify downstream usage terms: contact the rights holder to clarify them. Do not assume MIT or public-domain status. `LicenseRef-Multiple` indicates multiple preserved license files; review each one.
+`NOASSERTION` means that a separate license file is missing. Missing license files do not specify downstream usage terms: contact the rights holder to clarify them. Do not assume MIT or public-domain status. `LicenseRef-Multiple` indicates multiple preserved license files; review each one.
 
 Every skill and its known license files are listed below. Sources and paths are also recorded in [catalog/provenance.json](catalog/provenance.json).
 
@@ -1653,6 +1653,7 @@ Every skill and its known license files are listed below. Sources and paths are 
 | [syllabus](skills/syllabus/SKILL.md) | claude-skills-main | [LICENSE](skills/syllabus/LICENSE) |
 | [synthetic-user-research](skills/synthetic-user-research/SKILL.md) | pm-claude-skills-main | [LICENSE](skills/synthetic-user-research/LICENSE) |
 | [system-design-interview](skills/system-design-interview/SKILL.md) | pm-claude-skills-main | [LICENSE](skills/system-design-interview/LICENSE) |
+| [systems-engineering](skills/systems-engineering/SKILL.md) | unknown | Not specified (NOASSERTION) |
 | [tabletop-negotiator](skills/tabletop-negotiator/SKILL.md) | pm-claude-skills-main | [LICENSE](skills/tabletop-negotiator/LICENSE) |
 | [task-to-first-step](skills/task-to-first-step/SKILL.md) | pm-claude-skills-main | [LICENSE](skills/task-to-first-step/LICENSE) |
 | [task-triage-matrix](skills/task-triage-matrix/SKILL.md) | pm-claude-skills-main | [LICENSE](skills/task-triage-matrix/LICENSE) |

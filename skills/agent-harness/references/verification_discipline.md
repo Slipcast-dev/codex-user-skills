@@ -64,7 +64,7 @@ never evidence. The controller's design decisions trace to these sources.
 ## Anti-gaming rules the controller enforces
 
 - `verify` executes checks itself (subprocess, timeout, output tail captured to the evidence
-  log) — recorded exit codes are for the *execute* phase only.
+  log) — recorded success cannot replace executable checks; manual records require their current successful result.
 - A passing verify record without evidence text is exit 6, not a pass.
 - Failure at `max_attempts` escalates (exit 2); the loop cannot convert an exhausted task
   into a success, only a human can waive it — and `close --waive` demands a reason that is
@@ -83,3 +83,18 @@ Makefile or a CI config. **Treat `plan.json` and `state.json` as a trust boundar
 run the harness on plan/state files you (or the `goal_compiler`) produced, never on files
 sourced from untrusted input.** This matters because the harness is designed to be driven by
 an agent (`harness-runner`) that could in principle be handed a malicious plan.
+
+## Уточнение контракта проверки и лимитов
+
+Исполняемые проверки принимаются только через команду verify. Текст evidence
+не заменяет их запуск: record --phase verify --exit-code 0 разрешён лишь после
+успешного verify текущей попытки для того же набора команд либо для задачи
+без исполняемых проверок. Ручное подтверждение требует непустого evidence.
+Повторный execute и любая неудачная попытка сбрасывают сохранённый успех.
+Таймаут не считается успехом даже при expect_exit=124.
+
+record и verify проверяют лимиты до изменения состояния и запуска команд.
+Последняя разрешённая итерация может завершить проверку; если все задачи
+verified, close разрешён и при точном достижении лимита. При незавершённых
+задачах новые итерации запрещены. Явное снятие требований через close --waive
+остаётся отдельным действием пользователя, а не способом обойти проверку.

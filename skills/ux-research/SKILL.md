@@ -1,7 +1,8 @@
 ---
 name: "ux-research"
-description: "Plan and execute user research including research planning, recruiting, interview design, qualitative synthesis, and translating findings into product decisions."
+description: "Plan and execute user research including research planning, recruiting, interview design, qualitative synthesis, and translating findings into product decisions. Use this skill whenever the user wants to plan user research, design interviews, recruit participants, conduct discovery, run formative research, or synthesize qualitative findings. Triggers on user research, UX research, user interviews, discovery research, generative research, formative research, qualitative research, user insights, research synthesis, recruitment, interview guide, jobs to be done. Also triggers when product decisions are being made without user input and the user wants to fix that."
 ---
+
 # UX Research
 
 Plan and execute user research that produces decisions, not just decks. Stack-agnostic. Tool-agnostic.
@@ -253,6 +254,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 
 - [`references/interview-guide-template.md`](references/interview-guide-template.md) - Structured interview guide template with example openings, probes, and closes.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

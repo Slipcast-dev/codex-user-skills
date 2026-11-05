@@ -1,7 +1,8 @@
 ---
 name: "accessibility-audit"
-description: "Run a comprehensive WCAG accessibility audit covering perceivable, operable, understandable, and robust principles."
+description: "Run a comprehensive WCAG accessibility audit covering perceivable, operable, understandable, and robust principles. Use this skill whenever the user wants to audit accessibility, review WCAG compliance, fix accessibility issues, prepare for accessibility certification, address an accessibility lawsuit risk, or systematically improve a site's accessibility. Triggers on accessibility audit, WCAG audit, a11y audit, accessibility compliance, ADA compliance, screen reader test, keyboard navigation, accessibility report, fix accessibility, axe scan. Also triggers when accessibility issues have been reported and need systematic remediation."
 ---
+
 # Accessibility Audit
 
 Run a thorough accessibility audit and produce a remediation plan. Stack-agnostic. Anchored to WCAG 2.1 AA, with notes on AAA where relevant.
@@ -240,6 +241,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 - [`references/wcag-quick-reference.md`](references/wcag-quick-reference.md) - Condensed WCAG 2.1 AA criteria with audit checks.
 - [`references/aria-patterns.md`](references/aria-patterns.md) - Decision-grade ARIA patterns. Semantic-HTML-first principle, common interactive widgets (accordion, tabs, modal, toggle, disclosure, navigation), live regions, hiding patterns, labeling, state indicators, anti-patterns.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

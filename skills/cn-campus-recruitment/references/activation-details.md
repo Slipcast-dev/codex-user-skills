@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Plan a Chinese campus recruitment season (校招: 秋招 and 春招), including internships that convert to offers (实习转正): the timeline, a target company list, a one-page campus CV, online application answers, written tests and interview rounds, and choosing between offers and signing the tripartite agreement (三方协议). Use when asked 秋招怎么准备, 帮我做校招计划, 校招简历, 网申问题怎么写, 群面, 三方协议, 怎么选 offer, or plan my campus recruitment in China. Produces a season timeline to confirm with each company, a tiered company list, a campus CV, application answer drafts, a test and interview preparation plan, and an offer comparison.

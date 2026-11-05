@@ -1,7 +1,8 @@
 ---
 name: "brand-style-guide"
-description: "Build or audit a comprehensive brand style guide that documents the full brand system including story, logo system, color, typography, imagery, voice, applications, and dos/don'ts."
+description: "Build or audit a comprehensive brand style guide that documents the full brand system including story, logo system, color, typography, imagery, voice, applications, and dos/don'ts. Use this skill whenever the user wants to create brand guidelines, document an existing brand, build a brand book, audit an existing style guide for completeness, or produce the artifact that other teams will reference for years. Triggers on style guide, brand guidelines, brand book, brand standards, brand manual, style sheet, brand documentation, brand reference. Also triggers when the brand identity is finished and needs to be documented for handoff to designers, developers, vendors, or future team members."
 ---
+
 # Brand Style Guide
 
 Document the brand system so other people can use it without ambiguity. This is the artifact that lives longest. Designers, developers, agencies, and vendors will reference it for years. Build it like a reference manual, not a presentation.
@@ -197,6 +198,3 @@ For consumer-facing presentation, build a web page version that imports from the
 - [`references/style-guide-template.md`](references/style-guide-template.md) - Fillable section-by-section template.
 - [`references/maintenance-playbook.md`](references/maintenance-playbook.md) - How to keep the guide current after launch.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

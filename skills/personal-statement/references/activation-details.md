@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Write a personal statement for a university, grad-school, or job application that's specific, coherent, and unmistakably you — showing fit and motivation, not a résumé in prose. Use when asked to write my personal statement, help with my university/grad application essay, statement of purpose, or make my personal statement stronger. Produces a read of what this program/role wants, a clear through-line (your motivation and fit), a structure that shows rather than lists, evidence from your real experience, and an authentic voice — drawing it out of you, not inventing a story.

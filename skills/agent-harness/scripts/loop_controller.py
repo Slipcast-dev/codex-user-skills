@@ -6,8 +6,7 @@ Takes the plan from goal_compiler.py and drives a bounded loop. The agent asks
 code. The controller enforces the discipline the agent must not be trusted to
 enforce on itself:
 
-  * a task is only VERIFIED by recording a passing verify phase — never by
-    recording execution success alone (no verification theater);
+  * executable checks must pass through verify; manual evidence cannot replace them;
   * failed attempts increment a counter; at max_attempts the task ESCALATES
     to a human instead of retrying forever;
   * a global iteration cap bounds the whole loop;
@@ -23,7 +22,7 @@ Usage:
   python3 loop_controller.py init --plan plan.json --state state.json
   python3 loop_controller.py next --state state.json
   python3 loop_controller.py record --state state.json --task T1 --phase execute --exit-code 0
-  python3 loop_controller.py record --state state.json --task T1 --phase verify --exit-code 0 --evidence "error_budget_calculator exit 0; 43.2min budget"
+  python3 loop_controller.py verify --state state.json --task T1 --cwd .
   python3 loop_controller.py close --state state.json
   python3 loop_controller.py --sample   # in-memory demo of a full loop
 """
@@ -100,9 +99,41 @@ def cmd_init(args):
                  "max_loop_iterations": state["max_loop_iterations"]})
 
 
+def mutation_guard(state: dict) -> tuple[dict, int] | None:
+    """Проверяет остановку до изменения состояния или запуска проверок."""
+    if state["status"] != "open":
+        return {"error": "loop is not open"}, 6
+    if state["iteration"] >= state["max_loop_iterations"]:
+        return {"error": "global iteration cap reached"}, 5
+    if any(t["status"] == "escalated" or
+           t["attempts"] >= t["max_attempts"] for t in state["tasks"]):
+        return {"error": "task attempts exhausted; escalation required"}, 2
+    return None
+
+
+def executable_checks(task: dict) -> list[dict]:
+    """Отделяет исполняемые проверки от ручных подтверждений."""
+    return [c for c in task["verification"]
+            if c.get("kind") != "manual-evidence"]
+
+
+def executable_checks_passed(task: dict) -> bool:
+    """Принимает результат verify для текущей попытки и набора проверок.
+
+    Файл состояния доверенный: это защита переходов CLI, не защита от его
+    прямого редактирования. Повторное выполнение задачи сбрасывает результат.
+    """
+    checks = executable_checks(task)
+    return not checks or task.get("executable_verification") == {
+        "attempt": task["attempts"] + 1, "checks": checks,
+    }
+
+
 def directive(state):
     if state["status"] == "closed":
         return {"action": "done", "detail": "loop already closed"}, 0
+    if all(t["status"] == "verified" for t in state["tasks"]):
+        return {"action": "close", "detail": "all tasks verified — run close"}, 0
     if state["iteration"] >= state["max_loop_iterations"]:
         return {"action": "escalate",
                 "detail": "global iteration cap (%d) reached — hand the loop "
@@ -124,9 +155,8 @@ def directive(state):
         if t["status"] == "verifying":
             return {"action": "verify", "task": t["id"],
                     "checks": t["verification"],
-                    "rule": "run every check; ALL must meet expect_exit; then "
-                            "record --phase verify with the worst exit code "
-                            "and an --evidence line naming what you observed"}, 0
+                    "rule": "use verify to run executable checks; only then "
+                            "record manual evidence if required"}, 0
     return {"action": "close",
             "detail": "all tasks verified — run `close` to emit the handoff"}, 0
 
@@ -139,14 +169,27 @@ def cmd_next(args):
 
 def cmd_record(args):
     state = load(args.state)
-    if state["status"] == "closed":
-        return emit({"error": "loop is closed; no further records accepted"}, 6)
+    guard = mutation_guard(state)
+    if guard:
+        return emit(*guard)
     task = next((t for t in state["tasks"] if t["id"] == args.task), None)
     if task is None:
         return emit({"error": "unknown task %s" % args.task}, 6)
-    if task["status"] in ("verified", "escalated"):
-        return emit({"error": "task %s is %s; recording on it is invalid"
-                     % (task["id"], task["status"])}, 6)
+    if task["status"] not in ("pending", "in_progress", "verifying"):
+        return emit({"error": "task cannot accept records in this state"}, 6)
+
+    ok = args.exit_code == 0
+    # Все отказы проверяем до изменения счётчиков и журнала.
+    if args.phase == "verify":
+        if task["status"] != "verifying":
+            return emit({"error": "execute must succeed before verification"}, 6)
+        if ok:
+            if not args.evidence or not args.evidence.strip():
+                return emit({"error": "passing manual verification requires evidence"}, 6)
+            if not executable_checks_passed(task):
+                return emit({"error": "run verify successfully for this attempt first"}, 6)
+    elif args.phase != "execute":
+        return emit({"error": "unknown phase"}, 6)
 
     state["iteration"] += 1
     entry = {"at": now(), "phase": args.phase, "exit_code": args.exit_code,
@@ -155,31 +198,21 @@ def cmd_record(args):
         entry["evidence"] = args.evidence
     task["evidence"].append(entry)
 
-    ok = args.exit_code == 0
     if args.phase == "execute":
+        task.pop("executable_verification", None)
         if ok:
             task["status"] = "verifying"
             result = {"task": task["id"], "status": "verifying",
-                      "next": "run the verification checks, then record "
-                              "--phase verify"}
+                      "next": "run verify; record manual evidence if required"}
             code = 0
         else:
             code, result = _fail(task)
-    else:  # verify
-        if task["status"] != "verifying":
-            return emit({"error": "task %s is not awaiting verification "
-                                  "(status=%s); execute must succeed first"
-                         % (task["id"], task["status"])}, 6)
-        if ok:
-            if not args.evidence:
-                return emit({"error": "a passing verify record requires "
-                                      "--evidence naming what was observed "
-                                      "(no verification theater)"}, 6)
-            task["status"] = "verified"
-            result = {"task": task["id"], "status": "verified"}
-            code = 0
-        else:
-            code, result = _fail(task)
+    elif ok:
+        task["status"] = "verified"
+        result = {"task": task["id"], "status": "verified"}
+        code = 0
+    else:
+        code, result = _fail(task)
 
     save(state, args.state)
     d, dcode = directive(state)
@@ -188,6 +221,7 @@ def cmd_record(args):
 
 
 def _fail(task):
+    task.pop("executable_verification", None)
     task["attempts"] += 1
     if task["attempts"] >= task["max_attempts"]:
         task["status"] = "escalated"
@@ -206,6 +240,9 @@ def cmd_verify(args):
     controller adjudicates pass/fail itself instead of trusting a recorded
     exit code (reward-hacking guard)."""
     state = load(args.state)
+    guard = mutation_guard(state)
+    if guard:
+        return emit(*guard)
     task = next((t for t in state["tasks"] if t["id"] == args.task), None)
     if task is None:
         return emit({"error": "unknown task %s" % args.task}, 6)
@@ -214,11 +251,12 @@ def cmd_verify(args):
                               "(status=%s); execute must succeed first"
                      % (task["id"], task["status"])}, 6)
 
-    runnable = [c for c in task["verification"]
-                if c.get("kind") != "manual-evidence"]
+    runnable = executable_checks(task)
+    task.pop("executable_verification", None)
     results = []
     worst = 0
     for chk in runnable:
+        timed_out = False
         try:
             proc = subprocess.run(
                 chk["cmd"], shell=True, cwd=args.cwd,
@@ -226,8 +264,9 @@ def cmd_verify(args):
             rc = proc.returncode
             tail = (proc.stdout + proc.stderr).strip().splitlines()[-3:]
         except subprocess.TimeoutExpired:
+            timed_out = True
             rc, tail = 124, ["TIMEOUT after %ss" % CHECK_TIMEOUT_S]
-        passed = rc == chk.get("expect_exit", 0)
+        passed = not timed_out and rc == chk.get("expect_exit", 0)
         results.append({"cmd": chk["cmd"], "exit": rc, "passed": passed,
                         "tail": tail})
         if not passed:
@@ -236,6 +275,11 @@ def cmd_verify(args):
     state["iteration"] += 1
     task["evidence"].append({"at": now(), "phase": "verify-run",
                              "checks": results, "attempt": task["attempts"] + 1})
+
+    if worst == 0 and runnable:
+        task["executable_verification"] = {
+            "attempt": task["attempts"] + 1, "checks": runnable,
+        }
 
     manual = [c for c in task["verification"]
               if c.get("kind") == "manual-evidence"]
@@ -344,9 +388,7 @@ def run_sample():
          "--evidence", "check failed: unexpected output"],
         ["record", "--state", state_path, "--task", "T1",
          "--phase", "execute", "--exit-code", "0"],
-        ["record", "--state", state_path, "--task", "T1",
-         "--phase", "verify", "--exit-code", "0",
-         "--evidence", "smoke check exit 0, output matches objective"],
+        ["verify", "--state", state_path, "--task", "T1"],
         ["close", "--state", state_path],
     ]
     for s in steps:

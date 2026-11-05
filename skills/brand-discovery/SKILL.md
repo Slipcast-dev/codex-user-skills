@@ -1,7 +1,8 @@
 ---
 name: "brand-discovery"
-description: "Run upstream brand discovery covering audience research, competitive landscape, category dynamics, problem space, and positioning territory exploration."
+description: "Run upstream brand discovery covering audience research, competitive landscape, category dynamics, problem space, and positioning territory exploration. Use this skill at the very start of a brand or website project when the user needs to understand who they're for, who they compete with, what the audience actually needs, and where the brand could plausibly stand. Triggers on brand discovery, audience research, market research, competitive scan, category research, customer research, who is this for, who are we, positioning research, intake, kickoff. Also triggers when a creative brief is requested but the upstream inputs (audience, competitors, problem space) are not yet clear."
 ---
+
 # Brand Discovery
 
 Upstream of every brief, identity, and content plan. Discovery answers four questions: who the brand is for, what they need, who else is competing for that need, and where the brand could plausibly stand that competitors do not.
@@ -198,6 +199,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 - [`references/discovery-report-template.md`](references/discovery-report-template.md) - Full discovery report template.
 - [`references/interview-guide.md`](references/interview-guide.md) - Audience interview guide with question prompts.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

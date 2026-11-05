@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Set up a system to manage medications safely — for yourself or someone you care for — so doses aren't missed, doubled, or dangerously combined. Use when asked help me manage medications, keep track of my parent's pills, set up a medication system, or I keep forgetting my meds. Produces an organized medication list (what, dose, when, why), a routine and reminder setup that fits the person, a refill-tracking method so nothing runs out, safety checks (interactions and duplications to raise with a pharmacist), and an emergency-ready summary — because medication errors are common and dangerous, and a system prevents most of them. Not medical advice.

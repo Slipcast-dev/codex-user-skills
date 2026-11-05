@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Write the band agreement before the money or the breakup arrives — who owns the songs, how money splits (writing vs performing distinguished), who owns the name, what happens when someone quits, and the decision rules for offers — decided while everyone still shares a van. Use when a band asks 'how should we split money', 'who owns our songs', 'our drummer quit, what happens', or is about to record/release/sign anything. Produces a plain-language band agreement and the meeting script to agree it. Not legal advice — it's the conversation that makes the lawyer cheap later.

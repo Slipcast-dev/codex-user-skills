@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Divide things that cannot be divided — an inherited house, a dissolved partnership, the furniture after a breakup — using sealed-bid fair division (Knaster), computed by the bundled script so everyone ends provably above their own fair share. Use when asked to split an estate fairly, divide assets between siblings or ex-partners, who gets the house and what do they owe the others, or handle unequal shares. Produces the sealed-bid procedure, the computed allocation with exact cash transfers, the per-person fairness proof, and the presentation script. Math for the family meeting; not legal advice.

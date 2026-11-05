@@ -114,5 +114,9 @@
   "universal-software-development": {
     "source_description": "Выбрать инженерный процесс и профильные навыки для новой или межплатформенной задачи разработки, когда основной маршрут ещё не определён. Не дублировать уже выбранный профильный процесс реализации или ревью.",
     "description": "Select an engineering workflow and specialist skills for new or cross-platform development when the main route has not yet been chosen. Avoid duplicating an implementation or review workflow already selected."
+  },
+  "systems-engineering": {
+    "source_description": "Разработка и проверка драйверов, прошивок, системных служб и приложений управления оборудованием командой Codex; API/ABI, сборка, аудит памяти и VM/HIL.",
+    "description": "Develop and verify drivers, firmware, system services, and hardware management applications with a Codex team; covers API/ABI, builds, memory auditing, and VM/HIL."
   }
 }

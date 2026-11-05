@@ -57,16 +57,16 @@ The multi-framework compliance officer pressure-tests any compliance program. Si
 
 ```bash
 # 1. Framework selection
-python ../../skills/compliance-os/scripts/framework_selector.py profile.json
+python3 "/Users/Aleksandr/.codex/skills/../skills/compliance-os/scripts/framework_selector.py" profile.json
 
 # 2. Cross-framework overlap
-python ../../skills/compliance-os/scripts/cross_framework_mapper.py program.json
+python3 "/Users/Aleksandr/.codex/skills/../skills/compliance-os/scripts/cross_framework_mapper.py" program.json
 
 # 3. Evidence pool consolidation
-python ../../skills/compliance-os/scripts/evidence_pool_generator.py program.json
+python3 "/Users/Aleksandr/.codex/skills/../skills/compliance-os/scripts/evidence_pool_generator.py" program.json
 
 # 4. Mock audit (per framework)
-python ../../skills/compliance-os/scripts/audit_simulator.py scope.json
+python3 "/Users/Aleksandr/.codex/skills/../skills/compliance-os/scripts/audit_simulator.py" scope.json
 ```
 
 ## Output Format
@@ -124,7 +124,7 @@ python ../../skills/compliance-os/scripts/audit_simulator.py scope.json
 
 - Agent: [`cs-compliance-officer`](../../skill-resources/local-import-2026-10-28/claude-skills-main/compliance-os/agents/cs-compliance-officer.md)
 - Skill: [`compliance-os`](../compliance-os/WORKFLOW.md)
-- Adjacent: `${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/iso42001-specialist/`, `${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/eu-ai-act-specialist/`, `${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/information-security-manager-iso27001/`, `${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/soc2-compliance/`, `${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/gdpr-dsgvo-expert/`
+- Adjacent: `../iso42001-specialist/`, `../eu-ai-act-specialist/`, `../information-security-manager-iso27001/`, `../soc2-compliance/`, `../gdpr-dsgvo-expert/`
 
 ---
 

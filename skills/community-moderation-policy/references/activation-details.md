@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Write a fair, enforceable community moderation policy. Use when standing up or overhauling moderation for a forum, Discord, Slack, subreddit, or any user community. Produces a clear code of conduct with examples, a graduated enforcement ladder tied to specific triggers, an appeals process, moderator guidelines, and the handling for the severe cases (threats, doxxing, brigading) that need immediate action. Governs member conduct in a user community — distinct from [[community-management-playbook]], which manages a brand's own social-media channels (comments, DMs, tone, response templates).

@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Write a physiotherapy discharge summary that closes the episode properly — outcomes against the goals that were set, what the patient is leaving with, what would bring them back, and what the referrer actually needs to know. Use when asked to write a discharge summary, close an episode of care, write to a referrer at discharge, or discharge a patient who has not fully recovered. Produces the outcome summary against baseline, the self-management plan, the flare-up and return criteria, the referrer letter, and the record of incomplete goals. A documentation framework for a licensed clinician.

@@ -1,7 +1,8 @@
 ---
 name: "seo-rank-tracking"
-description: "Set up and run rank tracking using Ahrefs MCP: pick the right keywords to track, segment them by purpose, set baselines, and define alert thresholds."
+description: "Set up and run rank tracking using Ahrefs MCP: pick the right keywords to track, segment them by purpose, set baselines, and define alert thresholds. Use this skill when starting a new tracking project, baselining for a campaign, choosing what to monitor, or building a rank reporting cadence. Triggers on rank tracking, keyword tracking, monitor rankings, track positions, what should we track, ranking dashboard, baseline rankings, alert thresholds. Also triggers when a stakeholder wants weekly or monthly ranking visibility."
 ---
+
 # SEO Rank Tracking
 
 Set up and run an ongoing rank tracking program using Ahrefs MCP data. Stack-agnostic. Produces a tracked keyword set, segmentation, baseline, alert thresholds, and a review cadence.
@@ -251,6 +252,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 
 - [`references/dashboard-template.md`](references/dashboard-template.md) - Template for the rank tracking dashboard layout, including the recurring report structure for weekly and monthly cadences.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

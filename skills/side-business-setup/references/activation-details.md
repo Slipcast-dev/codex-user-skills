@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Set up a side business in the right order — the do-first sequence (separate money, basic terms, simple records) vs. the feels-official-but-waits list (logos, LLCs-by-default, office chairs), with the structure question framed honestly and routed properly. Use when asked I'm starting a side business what do I need, do I need an LLC, set up my side hustle properly, or what comes first legally and financially. Produces the ordered setup sequence, the structure-decision framing (jurisdiction-flagged, professional-routed), the money-hygiene rules, and the employer-conflict check most people skip.

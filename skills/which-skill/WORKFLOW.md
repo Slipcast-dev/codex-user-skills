@@ -19,7 +19,14 @@ Ask for (if not already provided):
 ## Routing Method
 
 1. **Name the artifact.** What lands on someone's desk when this is done — a PRD, a ranked list, a briefing, a plan? Route on the deliverable, not on topic keywords.
-2. **Search the catalog — never route from memory.** Read `SKILLS.md` (the auto-generated listing grouped by domain), or search with `npx pm-claude-skills list` / the MCP `search_skills` tool. Match the user's phrasing against skill `description` trigger phrases.
+2. **Ищи в установленном наборе.** Сначала найди кандидатов по имени:
+   `rg --files --hidden ~/.codex/skills -g SKILL.md`.
+   При необходимости используй `rg -l -i --glob SKILL.md 'term1|term2' ~/.codex/skills`,
+   подставив ключевые слова задачи. Проверь frontmatter нескольких лучших
+   кандидатов и загрузи процедуру только выбранного навыка. Не читай целиком
+   SKILLS.md, web/skills.json и все WORKFLOW.md. Встроенный список ограничен
+   бюджетом и может не содержать нужного навыка; локальный поиск остаётся полным.
+   Каталог OMGSkills относится к внешним навыкам и не заменяет локальный.
 3. **Prefer the specific skill over the general one.** A skill built for the exact artifact (e.g. `ab-test-readout` for analysing a finished test) beats a broader neighbour (`experiment-designer`).
 4. **Check the disambiguation table below** for the known look-alike clusters before answering.
 5. **Escalate to a workflow recipe** (see `WORKFLOWS.md`, e.g. `/ship-a-feature`, `/launch-a-product`) when the ask needs 3+ chained skills — don't recommend the skills one by one.
@@ -60,13 +67,13 @@ Ask for (if not already provided):
 
 **Runner-up:** `other-skill` — pick this instead if [the tie-breaker condition].
 
-**Run it:** `/skill-name` in Claude Code, or open it in the [Playground](https://mohitagw15856.github.io/pm-claude-skills/).
+**Запуск в Codex:** `$skill-name`; сначала прочитай его локальный `SKILL.md`.
 
 *(If a workflow fits better)* **This is a multi-skill job** — run `/recipe-name` (chains `a` → `b` → `c`), because [why the chain beats a single skill].
 
 ## Quality Checks
 
-- [ ] The pick was verified against the live catalog (SKILLS.md / search), not recalled from memory
+- [ ] Выбор проверен по локальному SKILL.md установленного навыка.
 - [ ] Every look-alike cluster the ask touches was checked against the disambiguation table
 - [ ] The recommendation names the concrete artifact the user will get, not a topic
 - [ ] The runner-up includes a real tie-breaker condition, not "also good"

@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Turn 'I want to learn X' into a realistic, staged roadmap — the fundamentals to master first, the order that avoids overwhelm, and the milestones that prove progress. Use when asked how do I learn [skill], make me a learning plan for, where do I start with learning, or roadmap to learn X. Produces a staged path from beginner to capable (fundamentals → building blocks → real application), the highest-leverage things to learn first, the traps and dead-ends to skip, milestones to measure progress, and the best resource types for each stage — tuned to your goal and time.

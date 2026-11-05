@@ -1,7 +1,8 @@
 ---
 name: "brand-archetype-system"
-description: "Apply pre-composed aesthetic archetype defaults to jumpstart brand design work covering color, typography, layout, voice, and imagery direction."
+description: "Apply pre-composed aesthetic archetype defaults to jumpstart brand design work covering color, typography, layout, voice, and imagery direction. Use this skill whenever the user wants a starting point for brand visual and verbal direction, references a brand they want to design near (for example 'something like Stripe' or 'editorial like Linear'), needs to converge faster from many directions to one, or wants known-good defaults for a specific industry vertical. Triggers on archetype, design archetype, brand archetype, near to (brand), in the style of, similar aesthetic, design starting point, brand template, vertical-typical, industry-typical. Also triggers when the user has a brief and wants to map it to a known aesthetic family rather than design from first principles."
 ---
+
 # Brand Archetype System
 
 Pre-composed aesthetic archetype defaults that jumpstart brand design work. Each archetype bundles color tendencies, type pairings, layout patterns, voice samples, and imagery direction for a recognizable aesthetic family. Stack-agnostic. Tool-agnostic.
@@ -137,6 +138,3 @@ Each core archetype file specifies its position on each axis.
 
 The 12 core archetype files live in the `core-archetypes/` subdirectory under references, numbered 01 (Editorial Restrained) through 12 (Documentary Honest). The 18 vertical application files live in the `by-vertical/` subdirectory under references, numbered 01 (B2B SaaS Developer Tools) through 18 (Real Estate and Proptech). Load the relevant core archetype file plus the relevant vertical file together for any brief that names both an aesthetic family and an industry.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

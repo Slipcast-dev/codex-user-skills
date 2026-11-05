@@ -46,8 +46,8 @@ The narrative-first strategist pressure-tests positioning before debating tactic
 
 1. **Run the models:**
    ```bash
-   python ${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/cmo-advisor/scripts/marketing_budget_modeler.py
-   python ${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/cmo-advisor/scripts/growth_model_simulator.py
+   python3 "/Users/Aleksandr/.codex/skills/cmo-advisor/scripts/marketing_budget_modeler.py"
+   python3 "/Users/Aleksandr/.codex/skills/cmo-advisor/scripts/growth_model_simulator.py"
    ```
 2. **Answer the six questions** in writing.
 3. **Apply the verdict:**
@@ -88,7 +88,7 @@ One-sentence statement: <here>
 ## Related
 
 - Agent: [`cs-cmo-advisor`](../../skill-resources/local-import-2026-10-28/claude-skills-main/c-level-agents/agents/cs-cmo-advisor.md)
-- Skill: [`cmo-advisor`](${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/cmo-advisor/SKILL.md)
+- Skill: [`cmo-advisor`](../cmo-advisor/SKILL.md)
 - Execution domain: `../../../marketing-skill/`
 
 ---

@@ -1,7 +1,8 @@
 ---
 name: "seo-aeo-geo"
-description: "Optimize content and site structure for AI-driven search experiences including AI overviews, large language model citations, generative answer engines, and AI assistants."
+description: "Optimize content and site structure for AI-driven search experiences including AI overviews, large language model citations, generative answer engines, and AI assistants. Use this skill whenever the user wants to optimize for AI search, get cited by language models, appear in AI overviews, build llms.txt, structure content for AI extraction, or future-proof their SEO for the shift from blue links to AI answers. Triggers on AEO, GEO, AI search, AI SEO, AI overview, generative search, LLM optimization, llms.txt, AI citation, ChatGPT search, Perplexity, Gemini, Claude search, AI assistant optimization, answer engine. Also triggers when the user expresses concern about AI eating their organic traffic or wants to understand how to remain visible as search shifts."
 ---
+
 # AEO and GEO
 
 Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO). Make content discoverable, extractable, and citable by AI search experiences.
@@ -151,6 +152,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 - [`references/llms-txt-guide.md`](references/llms-txt-guide.md) - How to write a useful llms.txt, with examples.
 - [`references/extraction-friendly-patterns.md`](references/extraction-friendly-patterns.md) - Content patterns that AI extracts cleanly, with before/after examples.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

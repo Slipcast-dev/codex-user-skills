@@ -1,7 +1,8 @@
 ---
 name: "brand-identity"
-description: "Design or evaluate a brand visual identity system covering logo, color, typography, imagery direction, iconography, and motion principles."
+description: "Design or evaluate a brand visual identity system covering logo, color, typography, imagery direction, iconography, and motion principles. Use this skill whenever the user wants to design a logo, build a visual identity, define brand colors, choose brand typography, develop iconography, plan brand imagery, or evaluate an existing identity for cohesion. Triggers on logo design, brand identity, visual identity, brand mark, wordmark, monogram, color palette, brand colors, brand typography, type system, iconography, brand imagery, motion design, brand system, identity system. Also triggers when the user has a brand direction approved and now needs the visual artifacts that express it."
 ---
+
 # Brand Identity
 
 Design or evaluate the visual artifacts that express a brand: logo system, color, typography, imagery, iconography, and motion. Stack-agnostic. Tool-agnostic.
@@ -198,6 +199,3 @@ These feed directly into `brand-style-guide`.
 - [`references/identity-system-spec.md`](references/identity-system-spec.md) - Detailed spec template for documenting each element.
 - [`references/contrast-and-accessibility.md`](references/contrast-and-accessibility.md) - Accessibility checks for color and type, with the math.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

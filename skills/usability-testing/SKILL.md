@@ -1,7 +1,8 @@
 ---
 name: "usability-testing"
-description: "Plan and run usability tests on existing or prototype designs including test design, task scripts, moderation, observation, and findings synthesis."
+description: "Plan and run usability tests on existing or prototype designs including test design, task scripts, moderation, observation, and findings synthesis. Use this skill whenever the user wants to test usability, run a moderated test, run an unmoderated test, validate a design, find usability issues, or improve task completion. Triggers on usability test, usability testing, moderated test, unmoderated test, task script, think aloud, prototype testing, user testing, design validation, task completion. Also triggers when the user has built something and wants to know if real users can use it before shipping."
 ---
+
 # Usability Testing
 
 Plan and run tests that find usability problems before users hit them in production. Stack-agnostic. Tool-agnostic.
@@ -239,6 +240,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 
 - [`references/task-script-patterns.md`](references/task-script-patterns.md) - Task framing patterns by common product type, with good and bad examples.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

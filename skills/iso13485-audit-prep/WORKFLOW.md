@@ -64,16 +64,16 @@ The ISO 13485 QMS auditor pressure-tests any medical-device QMS work. Six tracea
 
 ```bash
 # 1. Audit programme optimization
-python ${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/qms-audit-expert/scripts/audit_schedule_optimizer.py audit_scope.json
+python3 "/Users/Aleksandr/.codex/skills/qms-audit-expert/scripts/audit_schedule_optimizer.py" audit_scope.json
 
 # 2. Mock audit for readiness check
-python ../../skills/compliance-os/scripts/audit_simulator.py iso13485_scope.json
+python3 "/Users/Aleksandr/.codex/skills/../skills/compliance-os/scripts/audit_simulator.py" iso13485_scope.json
 
 # 3. CAPA system review
-# Route to ${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/capa-officer/ tools
+# Route to ../capa-officer/ tools
 
 # 4. Risk management file review
-# Route to ${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/risk-management-specialist/ tools
+# Route to ../risk-management-specialist/ tools
 ```
 
 ## Output Format
@@ -143,8 +143,8 @@ python ../../skills/compliance-os/scripts/audit_simulator.py iso13485_scope.json
 ## Related
 
 - Agent: [`cs-cqm-iso13485`](../../skill-resources/local-import-2026-10-28/claude-skills-main/compliance-os/agents/cs-cqm-iso13485.md)
-- Skill: [`qms-audit-expert`](${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/qms-audit-expert/SKILL.md)
-- Playbook: [iso13485_audit_playbook.md](${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/qms-audit-expert/references/iso13485_audit_playbook.md)
+- Skill: [`qms-audit-expert`](../qms-audit-expert/SKILL.md)
+- Playbook: [iso13485_audit_playbook.md](../qms-audit-expert/references/iso13485_audit_playbook.md)
 - Adjacent: `../fda-qsr-audit-prep/`, `../aims-audit/`, `../compliance-readiness/`
 
 ---

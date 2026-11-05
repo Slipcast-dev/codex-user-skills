@@ -1,7 +1,8 @@
 ---
 name: "creative-brief-selector"
-description: "Produce a creative brief grounded in live reference sites and deliberately distinct from existing demos, for any new brand build."
+description: "Produce a creative brief grounded in live reference sites and deliberately distinct from existing demos, for any new brand build. Composes with brand-archetype-system and creative-direction. Use this skill at the start of any brand or microsite build when the result needs to land in a specific aesthetic position and not drift into a default house style. Triggers on creative brief, design brief, build brief, brand direction, where should this brand sit, what should this site look like, reference sites for, archetype for, distinct from our other brands, divergence from prior, not the same as. Also triggers when prior builds have come out as siblings and a systematic divergence approach is needed."
 ---
+
 # Creative Brief Selector
 
 A starting-point selector for brand and microsite builds. Given a business spec (name, vertical, shape, one-line vibe, optional list of shipped demos), produces a creative brief grounded in three things:
@@ -113,6 +114,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 
 The curated reference bank lives in a `reference-bank/` subdirectory under `references/`. The bank ships with a README plus three seed archetype-and-vertical files: `premium-dtc-maker-western-boots.md`, `heritage-local-service-barbershop.md`, and `hospitality-experience-balloon-ride.md`. The bank's purpose and extension procedure are documented in its README; the seed files each carry three to four positive live references and one to two negative references for the chosen position. Load the bank file matching the build's archetype-and-vertical at step 3 of the process.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

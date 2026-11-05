@@ -63,16 +63,16 @@ The EU AI Act compliance operator pressure-tests any AI system before EU deploym
 
 ```bash
 # 1. Risk classification
-python ${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/eu-ai-act-specialist/scripts/ai_system_risk_classifier.py systems.json
+python3 "/Users/Aleksandr/.codex/skills/eu-ai-act-specialist/scripts/ai_system_risk_classifier.py" systems.json
 
 # 2. If high-risk: conformity assessment
-python ${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/eu-ai-act-specialist/scripts/conformity_assessment_planner.py system.json
+python3 "/Users/Aleksandr/.codex/skills/eu-ai-act-specialist/scripts/conformity_assessment_planner.py" system.json
 
 # 3. Per-role obligation matrix
-python ${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/eu-ai-act-specialist/scripts/ai_act_obligation_tracker.py roles.json
+python3 "/Users/Aleksandr/.codex/skills/eu-ai-act-specialist/scripts/ai_act_obligation_tracker.py" roles.json
 
 # 4. Cross-framework reuse (ISO 42001 etc.)
-python ../../skills/compliance-os/scripts/cross_framework_mapper.py program.json
+python3 "/Users/Aleksandr/.codex/skills/../skills/compliance-os/scripts/cross_framework_mapper.py" program.json
 ```
 
 ## Output Format
@@ -136,8 +136,8 @@ python ../../skills/compliance-os/scripts/cross_framework_mapper.py program.json
 ## Related
 
 - Agent: [`cs-ai-act-compliance`](../../skill-resources/local-import-2026-10-28/claude-skills-main/compliance-os/agents/cs-ai-act-compliance.md)
-- Skill: [`eu-ai-act-specialist`](${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/eu-ai-act-specialist/SKILL.md)
-- Adjacent: `../../skills/compliance-os/`, `../aims-audit/`, `../compliance-readiness/`, `${CLAUDE_PLUGIN_ROOT}/vendor/ra-qm-team/gdpr-dsgvo-expert/`
+- Skill: [`eu-ai-act-specialist`](../eu-ai-act-specialist/SKILL.md)
+- Adjacent: `../../skills/compliance-os/`, `../aims-audit/`, `../compliance-readiness/`, `../gdpr-dsgvo-expert/`
 
 ---
 

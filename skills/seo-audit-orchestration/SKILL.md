@@ -1,7 +1,8 @@
 ---
 name: "seo-audit-orchestration"
-description: "Coordinate a full or explicitly partial SEO audit using available tools and supplied exports."
+description: "Coordinate a full or explicitly partial SEO audit using available tools and supplied exports. Use this skill when running a comprehensive SEO audit, scoping a quarterly health check, doing pre-acquisition SEO due diligence, or post-migration verification. Triggers on full SEO audit, comprehensive SEO review, SEO health check, audit my site, SEO due diligence, audit suite, comprehensive audit, end-to-end SEO. Also triggers when a stakeholder wants the complete picture rather than a single-dimension audit."
 ---
+
 # SEO Audit Orchestration
 
 Run a complete SEO audit by sequencing the sibling audit skills in a defined order. Stack-agnostic. Check available capabilities first; Ahrefs is one supported data source, not an unconditional prerequisite. Produces a single rollup report that synthesizes findings across backlinks, keywords, content, traffic, technical health, and rankings.
@@ -181,6 +182,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 
 - [`references/audit-rollup-template.md`](references/audit-rollup-template.md) - Template for the rollup report including executive summary, theme structure, and roadmap format.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

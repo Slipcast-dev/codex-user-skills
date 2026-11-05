@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Write a dental chart note that survives an insurance audit, a recall years later, and a colleague picking up the case cold — the finding, the justification, the consent conversation, and the materials, in the order a reviewer looks for them. Use when asked to write a chart note, document a procedure, improve clinical documentation, or when a claim was denied for insufficient documentation. Produces a structured note with subjective, objective, assessment and plan, the medical necessity justification, consent documented, materials and lot numbers, and the next-visit plan. Documentation support only; the clinical content is the treating clinician's.

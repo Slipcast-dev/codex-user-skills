@@ -1,7 +1,8 @@
 ---
 name: "email-deliverability"
-description: "Make sure email actually reaches inboxes. Use this skill when setting up email authentication (SPF, DKIM, DMARC), diagnosing emails landing in spam, planning a domain reputation strategy, monitoring sender reputation, or hardening against email spoofing."
+description: "Make sure email actually reaches inboxes. Use this skill when setting up email authentication (SPF, DKIM, DMARC), diagnosing emails landing in spam, planning a domain reputation strategy, monitoring sender reputation, or hardening against email spoofing. Triggers on email deliverability, SPF, DKIM, DMARC, spam folder, sender reputation, mailbox provider, soft bounces, bounce rate, BIMI, MTA-STS, deliverability audit. Also triggers when a marketing or transactional email isn't reaching users."
 ---
+
 # Email Deliverability
 
 Get email into inboxes, not spam folders. Set up authentication. Monitor reputation. Diagnose problems before they hurt the business.
@@ -278,6 +279,3 @@ A deliverability audit document includes:
 
 - [`references/dmarc-rollout-playbook.md`](references/dmarc-rollout-playbook.md): Step-by-step for moving from no DMARC to `p=reject`, with timing, monitoring, and how to handle problems found along the way.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

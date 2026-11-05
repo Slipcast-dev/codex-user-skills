@@ -1,7 +1,8 @@
 ---
 name: "ads-creative-development"
-description: "How to produce ad creative that converts at performance scale. Hook patterns, format selection, video pacing, variation systems, sequential testing methodology, fatigue detection, brand-voice alignment without conversion dilution, and platform-specific creative norms."
+description: "How to produce ad creative that converts at performance scale. Hook patterns, format selection, video pacing, variation systems, sequential testing methodology, fatigue detection, brand-voice alignment without conversion dilution, and platform-specific creative norms. Triggers on ad creative, ad design, hook patterns, ad video pacing, creative testing, ad variations, creative refresh, creative fatigue, refresh ad creative, video ads for Meta, TikTok creative, LinkedIn ad creative, ad asset library. Also triggers when a team is producing creative at scale, planning a creative test cycle, or auditing why creative is not converting."
 ---
+
 # Ads Creative Development
 
 A senior creative strategist's playbook for producing ad creative that performs.
@@ -51,6 +52,3 @@ Before applying a method below, read its linked section. For a narrow task selec
 - Common failures: [method](references/domain-guide.md#common-failures).
 - The framework: 10 considerations for sustainable creative production: [method](references/domain-guide.md#the-framework-10-considerations-for-sustainable-creative-production).
 - Closing: the hook is the whole game: [method](references/domain-guide.md#closing-the-hook-is-the-whole-game).
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

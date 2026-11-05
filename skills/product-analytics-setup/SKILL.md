@@ -1,7 +1,8 @@
 ---
 name: "product-analytics-setup"
-description: "How to actually instrument product analytics correctly. Event taxonomy, property design, naming conventions, schema versioning, identity stitching, funnel design, retention cohorts, North Star metric selection, dashboard hygiene, instrumentation debt, and the failure modes that produce data nobody trusts."
+description: "How to actually instrument product analytics correctly. Event taxonomy, property design, naming conventions, schema versioning, identity stitching, funnel design, retention cohorts, North Star metric selection, dashboard hygiene, instrumentation debt, and the failure modes that produce data nobody trusts. Triggers on product analytics setup, event taxonomy, tracking plan, instrumentation, schema versioning, North Star metric, retention cohorts, funnel design, naming conventions, instrument new feature, audit existing analytics, dashboard reconciliation, instrumentation debt, Mixpanel setup, Amplitude setup, PostHog setup, warehouse-native analytics. Also triggers when the team has data but cannot trust it, or when designing instrumentation for a new feature, or when auditing an existing setup that has drifted."
 ---
+
 # Product Analytics Setup
 
 A senior PM and analyst's playbook for instrumenting product analytics correctly the first time.
@@ -61,6 +62,3 @@ Before applying a method below, read its linked section. For a narrow task selec
 - Common failure modes: [method](references/domain-guide.md#common-failure-modes).
 - The framework: 12 considerations for trustable product analytics: [method](references/domain-guide.md#the-framework-12-considerations-for-trustable-product-analytics).
 - Closing: when in doubt, instrument less: [method](references/domain-guide.md#closing-when-in-doubt-instrument-less).
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Build a realistic recovery plan for burnout — address the causes, not just the symptoms — with changes you can actually make at work and outside it. Use when asked to help with burnout, I'm burnt out, how to recover from burnout, or I'm exhausted and dread work. Produces a read on what's driving the burnout (load, control, reward, fairness, values, community), immediate relief steps, the boundary and workload changes that address the root, a recovery timeline with realistic expectations, and a flag that severe or persistent burnout/depression warrants a professional. Not medical advice.

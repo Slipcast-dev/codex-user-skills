@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Prepare a transport operation for a regulatory audit — the records an auditor asks for in order, the findings your own file will produce, and the gaps closed before the visit rather than during it. Use when asked to prepare for a DOT or FMCSA audit, a traffic commissioner or operator licence review, a fleet compliance inspection, or to run an internal transport compliance audit. Produces the records inventory, the self-audit findings by severity, the gap-closure plan, the audit-day logistics, and the evidence pack. Requirements are jurisdiction-specific and must be verified against the current regulation and your licence conditions.

@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Plan your first hire — whether to hire at all yet, contractor vs employee, what role to hire, and how to do it right when you've never hired before. Use when asked to help me make my first hire, should I hire someone, contractor or employee, or how do I hire for my small business. Produces a readiness and role read (what to hand off first), a contractor-vs-employee decision for your situation, a lightweight hiring process (role definition, sourcing, a fair evaluation, an offer), the obligations to be aware of, and onboarding basics — flagging that employment/tax/legal rules are local. Not legal or tax advice.

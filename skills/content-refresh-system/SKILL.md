@@ -1,7 +1,8 @@
 ---
 name: "content-refresh-system"
-description: "Systematic content refresh discipline. Quarterly audits, refresh prioritization (which pieces, when, how deep), refresh-vs-merge-vs-delete decisions, the lifecycle that distinguishes intentional refresh from set-and-forget decay."
+description: "Systematic content refresh discipline. Quarterly audits, refresh prioritization (which pieces, when, how deep), refresh-vs-merge-vs-delete decisions, the lifecycle that distinguishes intentional refresh from set-and-forget decay. Builds on the refresh sections of pillar-content-architecture and editorial-qa with a program-level discipline. Triggers on content refresh, content decay, content audit, refresh prioritization, content lifecycle, refresh strategy, traffic decay, ranking drop, content freshness, evergreen content, content maintenance. Also triggers when traffic is eroding silently across an aging content library, when teams cannot decide which pieces to refresh, or when refresh work is happening but the impact is unclear."
 ---
+
 # Content Refresh System
 
 A senior editorial leader's playbook for systematic content refresh. The discipline that distinguishes intentional refresh programs from set-and-forget decay, and the prioritization framework that prevents both over-refresh (refresh-everything-on-calendar) and under-refresh (refresh-nothing-until-traffic-collapses).
@@ -70,6 +71,3 @@ Before applying a method below, read its linked section. For a narrow task selec
 - Common failure modes: [method](references/domain-guide.md#common-failure-modes).
 - The framework: 12 considerations for content refresh: [method](references/domain-guide.md#the-framework-12-considerations-for-content-refresh).
 - Closing: refresh is content's immune system: [method](references/domain-guide.md#closing-refresh-is-contents-immune-system).
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

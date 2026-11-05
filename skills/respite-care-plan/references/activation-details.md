@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Plan a genuine break from caregiving — arrange the coverage, hand off the essentials, and actually rest — because respite is what lets you keep going. Use when asked I need a break from caregiving, how do I arrange respite care, I can't leave them alone, or help me get time off from caring. Produces the coverage options for your situation (family, paid respite, day programs, short-stay), a handoff pack so whoever covers has what they need, how to overcome the barriers (guilt, trust, cost, logistics), and a plan to actually rest during the break rather than worry — turning 'I can never get away' into a real, repeatable break. Not medical advice.

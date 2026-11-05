@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Bridge the gap between your home culture and your adopted one — explain your immigrant parents to your partner (and vice versa), navigate the code-switch that exhausts you, and handle the specific collisions (holidays, money, marriage expectations, 'when are you coming home') without betraying either side. Use when someone says 'my partner doesn't understand my family', 'I'm caught between two cultures', 'help me explain this to my parents', or is a first/second-gen immigrant or third-culture kid. Produces a translation of the specific collision, scripts for both directions, and a boundary that honors both worlds.

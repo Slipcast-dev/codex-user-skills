@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Simulate the mortgage or business-loan underwriting conversation before you have it for real — the deposit-source probe, the any-other-debts completeness test, the casual question about your job plans that can sink the file — run against your actual numbers, with a debrief on every answer that raised a flag. Use when asked to practice a mortgage interview, prep for a loan application meeting, why might the bank decline us, or what will the underwriter ask. Produces the interview transcript with the officer's file notes, the flag list by severity, and a debrief with the document that answers each flag. Not financial advice; never coaches concealment.

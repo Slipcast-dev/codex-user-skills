@@ -1,7 +1,8 @@
 ---
 name: "content-distribution"
-description: "Content distribution as a discipline. Owned channels (newsletter, blog, social), earned channels (PR, syndication, mentions), paid channels (boosted posts, syndication networks), and the channel-fit decisions that distinguish strategic distribution from spam-everywhere."
+description: "Content distribution as a discipline. Owned channels (newsletter, blog, social), earned channels (PR, syndication, mentions), paid channels (boosted posts, syndication networks), and the channel-fit decisions that distinguish strategic distribution from spam-everywhere. Audience-channel matching, content-channel matching, distribution cadence. Triggers on content distribution, channel strategy for content, owned earned paid channels, content amplification, content promotion, audience-channel matching, content-channel matching, distribution cadence, syndication strategy, organic distribution. Also triggers when content is publishing but reach is low, when the team is distributing on every channel without strategy, or when the content program needs a distribution discipline rather than just publication."
 ---
+
 # Content Distribution
 
 A senior editorial leader's playbook for content distribution as a discipline. Owned, earned, and paid channels matched to audience and content type, with the channel-fit decisions that distinguish strategic distribution from spam-everywhere or hope-and-pray.
@@ -73,6 +74,3 @@ Before applying a method below, read its linked section. For a narrow task selec
 - Common failure modes: [method](references/domain-guide.md#common-failure-modes).
 - The framework: 12 considerations for content distribution: [method](references/domain-guide.md#the-framework-12-considerations-for-content-distribution).
 - Closing: distribution is half the work: [method](references/domain-guide.md#closing-distribution-is-half-the-work).
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

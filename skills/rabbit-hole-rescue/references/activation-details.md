@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Talk to a family member or friend who's gone down a conspiracy, misinformation, or extremism rabbit hole — without blowing up the relationship or entrenching them further — using connection-first techniques that actually work instead of the facts-and-arguments that don't. Use when someone says 'my dad believes X now', 'my friend's gone down a conspiracy hole', 'how do I talk to them without a fight', or is losing someone to a belief spiral. Produces a conversation approach, what-not-to-do list, and a realistic goal. Connection over winning — and it names when to step back for your own wellbeing.

@@ -1,7 +1,8 @@
 ---
 name: "integration-orchestrator"
-description: "Generate a phased delivery orchestration plan for creative-direction-driven work: which skills run when, what locks at which gate, how handoffs occur, and how the cadence implements in the team's tools (Jira, Linear, Notion, Figma, GitHub) with AI agents via MCP and CLI."
+description: "Generate a phased delivery orchestration plan for creative-direction-driven work: which skills run when, what locks at which gate, how handoffs occur, and how the cadence implements in the team's tools (Jira, Linear, Notion, Figma, GitHub) with AI agents via MCP and CLI. A temporal map of phases, lock points, handoff specs, gate definitions, and QA verification gates. Distinct from `creative-brief` (static project brief) and `creative-direction` (aesthetic direction). Triggers on integration orchestrator, delivery cadence, project orchestration, when does the brief lock, how to phase creative direction, design-development handoff, QA gate, agent-driven QA, and when a creative-direction project is starting, mid-flight with broken cadence, or integrating AI agents into PM workflow. Does NOT fire for project scoping (use `creative-brief`), aesthetic direction (use `creative-direction`), or general project management without a creative-direction throughline."
 ---
+
 # Integration Orchestrator
 
 A brief tells a team what to make. Creative direction tells them what it should feel like. Neither tells them when each decision locks, who reviews what, or what stops the next phase from starting before the prior one is done. That is the gap this skill fills.
@@ -91,6 +92,3 @@ Before applying a method below, read its linked section. For a narrow task selec
 - The framework: 7 considerations for orchestration: [method](references/domain-guide.md#the-framework-7-considerations-for-orchestration).
 - Common project-type cadences: [method](references/domain-guide.md#common-project-type-cadences).
 - Failure patterns: [method](references/domain-guide.md#failure-patterns).
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

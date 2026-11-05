@@ -8,6 +8,7 @@ module should not know about one migration surface's control flow.
 
 from __future__ import annotations
 
+import os
 import re
 from collections.abc import Mapping, Sequence
 from dataclasses import dataclass, field, fields as dataclass_fields
@@ -60,17 +61,17 @@ class ModelMapping:
 MODEL_PREFIX_MAPPINGS = (
     ModelMapping(
         "claude-opus",
-        "gpt-5.4",
+        os.environ.get("CODEX_MIGRATION_OPUS_MODEL", "").strip() or "gpt-6.1-sol",
         (("low", "low"), ("medium", "medium"), ("high", "high"), ("max", "xhigh")),
     ),
     ModelMapping(
         "claude-sonnet",
-        "gpt-5.4-mini",
+        os.environ.get("CODEX_MIGRATION_SONNET_MODEL", "").strip() or "gpt-6.1-sol",
         (("low", "medium"), ("medium", "high"), ("high", "xhigh"), ("max", "xhigh")),
     ),
     ModelMapping(
         "claude-haiku",
-        "gpt-5.4-mini",
+        os.environ.get("CODEX_MIGRATION_HAIKU_MODEL", "").strip() or "gpt-6-luna",
         (("low", "low"), ("medium", "medium"), ("high", "high"), ("max", "xhigh")),
     ),
 )

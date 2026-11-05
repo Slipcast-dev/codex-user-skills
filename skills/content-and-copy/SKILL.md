@@ -1,7 +1,8 @@
 ---
 name: "content-and-copy"
-description: "Write or edit website copy, blog content, and editorial pieces with attention to voice, structure, and goal."
+description: "Write or edit website copy, blog content, and editorial pieces with attention to voice, structure, and goal. Use this skill whenever the user wants to write an article, draft website copy, edit existing content for clarity or voice, write a blog post, or produce general editorial content. Triggers on write a blog post, draft an article, write copy for, edit this, rewrite this, write content, write a guide, draft a how-to, write web copy. Also triggers when content has been outlined and now needs to be written, or when existing content needs voice or clarity edits."
 ---
+
 # Content and Copy
 
 Write or edit content that serves a specific reader and goal. Stack-agnostic. This skill is for general content production. Specialized skills exist for landing pages (`landing-page-copy`) and email (`email-sequences`).
@@ -213,6 +214,3 @@ category: [category]
 - [`references/content-brief-template.md`](references/content-brief-template.md) - The brief that should exist before any content is written.
 - [`references/content-edit-checklist.md`](references/content-edit-checklist.md) - Pre-publish editing checklist.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

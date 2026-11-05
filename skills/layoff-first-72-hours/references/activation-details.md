@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Steady the first 72 hours after being laid off — the practical, financial, and emotional moves in the right order, before panic-applying to everything. Use when asked I just got laid off what do I do, help me after a layoff, I lost my job, or just got made redundant. Produces a calm first-days checklist (understand the severance/package, protect benefits and finances, secure references and contacts, file for support), what to negotiate before signing anything, an emotional-footing note, and a bridge into the job search — not a frantic same-day scramble. Not legal or financial advice.

@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Understand index-fund investing and how to actually get started with the simplest evidence-backed approach — plus the details that quietly matter (fees, account, automation). Use when asked how do index funds work, are index funds good, how do I buy index funds, or set up index fund investing. Produces a plain explanation of what index funds are and why they beat most active investing over time, what to check before buying (expense ratio, what it tracks, the account/wrapper), how to automate contributions, and the mistakes to avoid — educational only, not financial advice.

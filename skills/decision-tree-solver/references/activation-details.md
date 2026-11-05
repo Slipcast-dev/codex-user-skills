@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Turn a fork-in-the-road decision into a computed expected-value tree — settle or sue, launch or wait, fix or replace — rolled back by the bundled script, with the break-even probability where the answer flips. Use when asked should we settle or go to trial, build a decision tree, what probability makes this worth it, or compare options under uncertainty. Produces the structured tree, the rollback with the best choice at every fork, the break-even probabilities, and the honest list of what the numbers leave out. Decision support, not advice — the probabilities are yours.

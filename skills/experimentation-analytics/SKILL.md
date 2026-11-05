@@ -1,7 +1,8 @@
 ---
 name: "experimentation-analytics"
-description: "How to read experiment results without fooling yourself. Confidence intervals, p-values, multiple testing, sequential testing, CUPED, heterogeneous treatment effects, ratio metrics, network effects, dashboard reconciliation, and the interpretation failures that produce confidently wrong shipping decisions."
+description: "How to read experiment results without fooling yourself. Confidence intervals, p-values, multiple testing, sequential testing, CUPED, heterogeneous treatment effects, ratio metrics, network effects, dashboard reconciliation, and the interpretation failures that produce confidently wrong shipping decisions. Use this skill whenever the user is reading a finished experiment result panel and about to make a ship, kill, or iterate decision, or when an experiment number does not match the dashboard number. Triggers on read experiment results, result panel, ship or kill decision, p-value, confidence interval, statistical significance, multiple testing, peeking, sequential testing, CUPED, variance reduction, heterogeneous treatment effects, ratio metric, network effects, inconclusive test, experiment versus dashboard mismatch. Use `experiment-design` instead when the test has not run yet and the question is hypothesis, sample size, duration, or what to test."
 ---
+
 # Experimentation Analytics
 
 A data-team-mentor's playbook for interpreting experiment results without fooling yourself.
@@ -54,6 +55,3 @@ Before applying a method below, read its linked section. For a narrow task selec
 - Common interpretation failures: [method](references/domain-guide.md#common-interpretation-failures).
 - The framework: 14 considerations for trustworthy experiment interpretation: [method](references/domain-guide.md#the-framework-14-considerations-for-trustworthy-experiment-interpretation).
 - Closing: the courage to call it inconclusive: [method](references/domain-guide.md#closing-the-courage-to-call-it-inconclusive).
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

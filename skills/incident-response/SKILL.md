@@ -1,7 +1,8 @@
 ---
 name: "incident-response"
-description: "Manage active production incidents through detection, triage, mitigation, communication, and resolution with structured roles and decision-making."
+description: "Manage active production incidents through detection, triage, mitigation, communication, and resolution with structured roles and decision-making. Use this skill whenever the user has an active incident, a production issue, a service outage, a security incident, or needs to plan incident response procedures. Triggers on incident response, production incident, outage, service down, site down, P0, P1, severity, downtime, on-call, incident commander, status page, postmortem prep. Also triggers when something is actively broken in production and the user is figuring out what to do."
 ---
+
 # Incident Response
 
 Manage active production incidents from detection to resolution. Stack-agnostic. Tool-agnostic.
@@ -261,6 +262,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 
 - [`references/incident-playbook.md`](references/incident-playbook.md) - Severity definitions, roles, status page templates, decision rubrics.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

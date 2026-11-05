@@ -1,7 +1,8 @@
 ---
 name: "beta-program-management"
-description: "Running closed and open betas that produce real signal. Beta participant selection, structured feedback collection, beta-to-GA decision criteria, and the difference between soft-launch (no structure, no signal), kitchen-sink (everyone in, no actionable feedback), and structured beta (calibrated cohort, intentional feedback loops, clear graduation criteria)."
+description: "Running closed and open betas that produce real signal. Beta participant selection, structured feedback collection, beta-to-GA decision criteria, and the difference between soft-launch (no structure, no signal), kitchen-sink (everyone in, no actionable feedback), and structured beta (calibrated cohort, intentional feedback loops, clear graduation criteria). Triggers on beta program, alpha test, beta cohort, beta participant, beta feedback, beta to GA decision, design partner, early access program, closed beta, open beta, RC release. Also triggers when a feature is approaching launch and the team needs structured pre-GA validation, when prior betas produced noise rather than signal, or when the team has soft-launched before but wants more structured feedback this time."
 ---
+
 # Beta Program Management
 
 A senior product leader's playbook for running betas that produce real signal. Closed and open betas, alpha programs, design partner programs, early access. Participant selection, structured feedback collection, beta-to-GA decision criteria, and the difference between soft-launch (no structure, no signal), kitchen-sink (everyone in, no actionable feedback), and structured beta (calibrated cohort, intentional feedback loops, clear graduation criteria).
@@ -70,6 +71,3 @@ Before applying a method below, read its linked section. For a narrow task selec
 - Common failure modes: [method](references/domain-guide.md#common-failure-modes).
 - The framework: 12 considerations for beta program management: [method](references/domain-guide.md#the-framework-12-considerations-for-beta-program-management).
 - Closing: betas earn their keep with structure: [method](references/domain-guide.md#closing-betas-earn-their-keep-with-structure).
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

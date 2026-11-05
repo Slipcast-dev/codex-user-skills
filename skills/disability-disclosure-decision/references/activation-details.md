@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Decide whether, when, how, and to whom to disclose a disability or health condition at work — weighing the real benefits (accommodations, protection, honesty) against the real risks (bias, gossip), tuned to your specific situation. Use when someone says 'should I tell work about my disability/condition', 'disclose my ADHD/chronic illness at work', 'when do I tell my employer', or 'how much do I share'. Produces a decision framework for the situation, a disclosure script if you choose to, and the minimum-disclosure options. Your choice throughout; it never pushes disclosure.

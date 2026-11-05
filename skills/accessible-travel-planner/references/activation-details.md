@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Plan a trip that actually works with a disability or access need — confirm real accessibility (not just 'accessible' labels), book the assistance in advance, plan for equipment and medication, and build in the contingencies for when access breaks down. Use when someone says 'plan an accessible trip', 'travelling with a wheelchair/disability', 'book assistance for my flight', or 'will this hotel actually work for me'. Produces an access-verified itinerary, an assistance-booking checklist, an equipment/medication plan, and contingency scripts. Verify specifics with providers.

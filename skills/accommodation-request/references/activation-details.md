@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Request a reasonable accommodation at work or in education — frame it around the barrier and the adjustment (not your diagnosis), cite the right process, and navigate the back-and-forth constructively. Use when someone says 'I need a workplace accommodation', 'request reasonable adjustments', 'ADA/Equality Act accommodation', or 'how do I ask for accommodations for my disability/condition'. Produces the request letter, a barriers-and-adjustments map, disclosure guidance, and a plan for the interactive process. Not legal advice — routes to the formal process and to advocacy where needed.

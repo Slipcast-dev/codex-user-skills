@@ -1,7 +1,8 @@
 ---
 name: "seo-keyword-gap-audit"
-description: "Find keywords competitors rank for that the target property does not, and prioritize them by opportunity."
+description: "Find keywords competitors rank for that the target property does not, and prioritize them by opportunity. Uses Ahrefs MCP for keyword and competitor data. Use this skill when planning content investment, identifying quick wins, building a content calendar against a competitor set, or scoping a market entry. Triggers on keyword gap, content gap, competitor keywords, opportunity keywords, what should we target, where are competitors winning, keyword opportunity. Also triggers when planning content for a new market or after losing organic share to a specific competitor."
 ---
+
 # SEO Keyword Gap Audit
 
 Find keyword opportunities by comparing the target property's organic footprint against a competitor set, using Ahrefs MCP data. Stack-agnostic. Produces a prioritized list of keywords to target with new or improved content.
@@ -162,6 +163,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 
 - [`references/opportunity-scoring-rubric.md`](references/opportunity-scoring-rubric.md) - Scoring rubric with normalization rules, formula, and worked examples.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

@@ -1,7 +1,8 @@
 ---
 name: "seo-competitor"
-description: "Run a competitive SEO analysis comparing the user's site to chosen competitors across SERP overlap, content depth, backlink profiles, technical posture, and brand presence."
+description: "Run a competitive SEO analysis comparing the user's site to chosen competitors across SERP overlap, content depth, backlink profiles, technical posture, and brand presence. Use this skill whenever the user wants to analyze competitors, find content gaps, identify backlink opportunities, understand why competitors outrank them, or benchmark against the rest of their category. Triggers on competitor analysis, competitive analysis, SERP analysis, content gap, backlink gap, why is X ranking, who is winning the SERP, beat my competitor, benchmark, market positioning. Also triggers when planning a content strategy and the question 'what are competitors doing' is implicit."
 ---
+
 # SEO Competitor Analysis
 
 Compare a site to its competitors and find the gaps worth closing. Stack-agnostic. Tool-friendly but tool-optional.
@@ -138,6 +139,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 - [`references/competitive-audit-template.md`](references/competitive-audit-template.md) - Fillable competitive audit template.
 - [`references/content-gap-method.md`](references/content-gap-method.md) - Detailed methodology for finding content gaps with example.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

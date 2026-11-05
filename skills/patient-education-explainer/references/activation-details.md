@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Explain a condition, a scan result, or why movement helps, in language that reduces fear instead of adding to it — the reframe, the honest uncertainty, and the analogy that does not accidentally frighten. Use when asked to explain a diagnosis to a patient, explain scan findings, reassure someone who is afraid to move, or write patient-facing education material. Produces the explanation in plain language, the reframe of frightening terminology, the honest uncertainty statement, the what-you-can-do section, and a teach-back check. A communication framework for a licensed clinician; the clinical content is theirs.

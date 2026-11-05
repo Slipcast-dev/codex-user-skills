@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Simulate a school-place appeal panel before you face the real one — the two questions the panel is actually deciding, the probe that separates grounds from feelings, the prejudice balance your case must tip — run against your actual reasons, with a debrief on which answers built a case and which only expressed one. Use when asked to prepare a school appeal, we did not get our school place, rehearse the appeal hearing, or what does the panel ask. Produces the hearing transcript with the panel's deliberation notes, your case restructured into grounds with evidence, and the questions to put to the admission authority. Jurisdiction-varying; verify your local process. Not legal advice.

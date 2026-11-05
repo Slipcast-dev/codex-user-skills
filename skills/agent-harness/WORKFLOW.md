@@ -53,8 +53,9 @@ python3 scripts/harness_manifest_builder.py --domain engineering-team \
 ## Hard rules
 
 1. **Never adjudicate your own verification.** `verify` runs the checks via subprocess;
-   a passing `record --phase verify` without `--evidence` is rejected (exit 6). You do not
-   get to declare a task verified.
+   manual evidence cannot replace executable checks. A passing manual record requires
+   nonempty evidence and successful executable checks for the current attempt.
+   Missing prerequisites are rejected with exit 6.
 2. **Never modify a gate you are judged by.** Check commands come from the manifest/plan.
    Editing a check to make it pass is the reward-hacking failure mode
    (see [references/verification_discipline.md](references/verification_discipline.md)) — same
@@ -123,3 +124,18 @@ python3 scripts/harness_manifest_builder.py --domain engineering-team \
 
 See [references/domain_harness_design.md](references/domain_harness_design.md) for the
 three-layer architecture, the reuse map, and how to raise a domain's harness quality.
+
+## Уточнение контракта проверки и лимитов
+
+Исполняемые проверки принимаются только через команду verify. Текст evidence
+не заменяет их запуск: record --phase verify --exit-code 0 разрешён лишь после
+успешного verify текущей попытки для того же набора команд либо для задачи
+без исполняемых проверок. Ручное подтверждение требует непустого evidence.
+Повторный execute и любая неудачная попытка сбрасывают сохранённый успех.
+Таймаут не считается успехом даже при expect_exit=124.
+
+record и verify проверяют лимиты до изменения состояния и запуска команд.
+Последняя разрешённая итерация может завершить проверку; если все задачи
+verified, close разрешён и при точном достижении лимита. При незавершённых
+задачах новые итерации запрещены. Явное снятие требований через close --waive
+остаётся отдельным действием пользователя, а не способом обойти проверку.

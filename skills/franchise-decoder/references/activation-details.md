@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Decode a franchise offering before you sign away a decade — the earnings claims and their absence, the territory that is not exclusive, the renewal terms that expire your equity, the mandatory-supplier margins, and the validation calls that reveal what the brochure will not. Use when asked to evaluate a franchise, review an FDD or franchise agreement, is this franchise a good deal, or what to ask existing franchisees. Produces a clause-by-clause decode organised by where the money leaks, the earnings-claim reality check, the validation-call script, and the walk-away list. Not legal or financial advice — a franchise lawyer reviews before any signature.

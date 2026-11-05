@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Have a proactive agent sweep a CRM (HubSpot, Salesforce, Pipedrive) on a schedule for the things that quietly rot a pipeline: deals with no next step, close dates in the past, deals untouched for weeks, contacts with no owner, and duplicate records, reported per owner with suggested fixes a human approves. Use when asked to clean up my CRM, find stale deals, have Duet check HubSpot every week, which deals have no next step, or pipeline hygiene check. Produces the sweep rules, the per-owner list of issues with the evidence, the suggested fix per line, and the weekly summary numbers; it never edits, merges or deletes records itself.

@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Navigate a hospital stay — for yourself or someone you care for — from admission through a safe discharge, so nothing critical falls through the cracks. Use when asked help me through a hospital stay, my parent is in the hospital, prepare for a hospital admission, or what do I need to know for the hospital. Produces what to bring and organize, how to stay informed and involved with the care team, the questions to ask daily, the discharge planning to start early (not at the last minute), and the home-readiness checklist for after — reducing the chaos and the dangerous gaps, especially at discharge. Not medical advice.

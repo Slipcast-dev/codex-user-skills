@@ -2,7 +2,7 @@
 
 # Codex Skills Catalog
 
-1809 user skills in 22 categories.
+1810 user skills in 22 categories.
 Each skill has one primary category based on purpose.
 
 Repository navigation and documentation are available in Russian and English. Skill instructions and resources retain their source languages. This catalog uses original English descriptions and English translations of Russian descriptions.
@@ -11,7 +11,7 @@ Repository navigation and documentation are available in Russian and English. Sk
 | --- | ---: |
 | [AI, Codex and Agents](categories/agents-ai.en.md) | 146 |
 | [Security and Privacy](categories/security-privacy.en.md) | 44 |
-| [Software Development and Architecture](categories/development.en.md) | 99 |
+| [Software Development and Architecture](categories/development.en.md) | 100 |
 | [DevOps, Cloud and Reliability](categories/devops-cloud.en.md) | 47 |
 | [Testing and Quality](categories/testing-quality.en.md) | 30 |
 | [Data and Analytics](categories/data-analytics.en.md) | 98 |

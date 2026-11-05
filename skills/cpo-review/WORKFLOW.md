@@ -48,8 +48,8 @@ python product-team/skills/product-manager-toolkit/scripts/rice_prioritizer.py
 
 1. **Run the analyses:**
    ```bash
-   python ${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/cpo-advisor/scripts/pmf_scorer.py
-   python ${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/cpo-advisor/scripts/portfolio_analyzer.py
+   python3 "/Users/Aleksandr/.codex/skills/cpo-advisor/scripts/pmf_scorer.py"
+   python3 "/Users/Aleksandr/.codex/skills/cpo-advisor/scripts/portfolio_analyzer.py"
    ```
 2. **Answer the six questions.**
 3. **Apply the verdict.**
@@ -97,7 +97,7 @@ python product-team/skills/product-manager-toolkit/scripts/rice_prioritizer.py
 ## Related
 
 - Agent: [`cs-cpo-advisor`](../../skill-resources/local-import-2026-10-28/claude-skills-main/c-level-agents/agents/cs-cpo-advisor.md)
-- Skill: [`cpo-advisor`](${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/cpo-advisor/SKILL.md)
+- Skill: [`cpo-advisor`](../cpo-advisor/SKILL.md)
 - Execution: `product-team/skills/product-manager-toolkit/`
 
 ---

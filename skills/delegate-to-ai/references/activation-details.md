@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Decide what in your workload to hand to AI and what to keep yourself — like managing a fast, capable, but unreliable new hire — so you get leverage without offloading the things that need you. Use when asked what should I delegate to AI, what can AI take off my plate, where should I use AI in my work, or what should I keep doing myself. Produces a sort of your tasks into delegate-fully / delegate-with-review / keep-human, the reasoning behind each line, how to brief the AI on the delegated ones, and where your judgment is the actual value — a delegation map that frees your time without giving away your edge.

@@ -1,7 +1,8 @@
 ---
 name: "data-warehouse-experimentation"
-description: "Running experiments out of the data warehouse instead of via dedicated experiment platforms."
+description: "Running experiments out of the data warehouse instead of via dedicated experiment platforms. SQL-based assignment, exposure logging discipline, metric definitions in dbt models, statistical analysis in SQL or Python, variance reduction with CUPED, sequential testing, and the operational tradeoffs vs platforms like Statsig and Optimizely. Triggers on warehouse-native experimentation, run experiments in BigQuery, run experiments in Snowflake, dbt experiments, SQL t-test, CUPED variance reduction, exposure log, sample ratio mismatch, sequential testing, mSPRT, doubly robust estimation, build vs buy experimentation. Also triggers when the team is choosing between platform and warehouse, building warehouse-native experiment infrastructure, auditing one, or running an experiment with a custom metric the platform cannot handle."
 ---
+
 # Data Warehouse Experimentation
 
 A senior data scientist's playbook for running experiments natively out of BigQuery, Snowflake, or any modern data warehouse, with metric definitions in dbt and statistical analysis in SQL or Python.
@@ -67,6 +68,3 @@ Before applying a method below, read its linked section. For a narrow task selec
 - Common pitfalls: [method](references/domain-guide.md#common-pitfalls).
 - The framework: 12 considerations for warehouse-native experimentation: [method](references/domain-guide.md#the-framework-12-considerations-for-warehouse-native-experimentation).
 - Closing: the build-vs-buy decision is real: [method](references/domain-guide.md#closing-the-build-vs-buy-decision-is-real).
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

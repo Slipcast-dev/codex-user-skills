@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Analyses a Non-Disclosure Agreement clause by clause and flags unusual terms, one-sided provisions, and negotiation points. Use when reviewing an NDA, mutual NDA, confidentiality agreement, or non-disclosure deed before signing or countering. Produces a plain English verdict, clause-by-clause risk analysis, and a prioritised negotiation checklist — always with a disclaimer that qualified legal advice is required before signing.

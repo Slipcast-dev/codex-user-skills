@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Generate an evals file for a drafted skill and measure whether its trigger description fires on the right requests: five to eight phrases that should trigger it, five that should not, three golden input and output pairs, then precision and recall against the description, with a rewrite loop when precision is below 0.8. Use when asked to test this skill's triggers, write evals for the new skill, check the description fires correctly, or as the third step of the promote loop. Produces an evals.json beside the skill, a case in the library's evals, and a precision and recall report.

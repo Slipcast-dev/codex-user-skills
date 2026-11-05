@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Learn to recognize where and how AI tends to go wrong — the specific failure patterns — so you catch its mistakes on sight instead of getting burned by confident errors. Use when asked how do I know when AI is wrong, what are AI's common mistakes, how do I catch AI errors, or where does AI mess up. Produces the failure patterns most relevant to how you use AI (hallucinated facts, fake citations, outdated info, sycophancy, math slips, missed nuance), the tells that give each away, a quick check for the ones that would hurt you, and a calibrated trust level — so you develop the instinct to catch AI's errors before they cost you.

@@ -1,7 +1,8 @@
 ---
 name: "editorial-qa"
-description: "Pre-publish QA framework for content. Brief adherence, voice consistency, fact accuracy, structure and clarity, AI-content audit, SEO and AEO compliance, internal linking and schema validation, QA at scale via sampling, the QA workflow, and the discipline that distinguishes catch-problems QA from checkbox QA."
+description: "Pre-publish QA framework for content. Brief adherence, voice consistency, fact accuracy, structure and clarity, AI-content audit, SEO and AEO compliance, internal linking and schema validation, QA at scale via sampling, the QA workflow, and the discipline that distinguishes catch-problems QA from checkbox QA. Triggers on editorial QA, content review, pre-publish review, content audit, content QA process, AI-content audit, hallucination check, content sampling, programmatic QA, voice consistency check, brief adherence check. Also triggers when a content team is shipping sloppy work, when AI-co-authored content is reaching publish unaudited, when a QA process burns reviewers out, or when a programmatic SEO set needs sampling discipline. On a voice consistency check, this skill owns checking a draft against an existing voice system at the publish gate; use `brand-voice` when the voice system itself needs defining or documenting."
 ---
+
 # Editorial QA
 
 A senior editor's playbook for pre-publish content QA. The discipline that catches problems BEFORE content ships, not after.
@@ -66,6 +67,3 @@ Before applying a method below, read its linked section. For a narrow task selec
 - Common failure modes: [method](references/domain-guide.md#common-failure-modes).
 - The framework: 12 considerations for editorial QA: [method](references/domain-guide.md#the-framework-12-considerations-for-editorial-qa).
 - Closing: QA is where quality gets enforced: [method](references/domain-guide.md#closing-qa-is-where-quality-gets-enforced).
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

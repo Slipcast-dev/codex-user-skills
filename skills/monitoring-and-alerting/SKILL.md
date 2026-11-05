@@ -1,7 +1,8 @@
 ---
 name: "monitoring-and-alerting"
-description: "Design and run a monitoring system for a website or web app. Use this skill when setting up uptime checks, defining SLOs, configuring error tracking, choosing what to alert on, designing on-call rotations, or fixing alert fatigue."
+description: "Design and run a monitoring system for a website or web app. Use this skill when setting up uptime checks, defining SLOs, configuring error tracking, choosing what to alert on, designing on-call rotations, or fixing alert fatigue. Triggers on monitoring, alerts, uptime, SLO, SLA, error rate, on-call, pager, alert fatigue, observability, dashboards, what should we monitor. Also triggers when an incident reveals a gap in monitoring."
 ---
+
 # Monitoring and Alerting
 
 Decide what to watch, what to alert on, and how to make sure the right person finds out when things break.
@@ -257,6 +258,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 
 - [`references/slo-design-guide.md`](references/slo-design-guide.md): Detailed walkthrough of writing SLOs, error budget policies, and common SLO mistakes for web services.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

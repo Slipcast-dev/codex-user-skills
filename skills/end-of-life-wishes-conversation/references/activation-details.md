@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Have the conversation about someone's end-of-life wishes — before a crisis forces it — gently, respectfully, and thoroughly enough to actually guide decisions later. Use when asked how do I talk about end-of-life wishes, discuss my parent's wishes, advance care planning conversation, or ask about their medical and final wishes. Produces a way to open this hard conversation without it feeling morbid or forced, the areas to cover (medical wishes, care preferences, where they want to be, what matters to them, practical/legal), how to listen rather than impose, and how to document and share what's decided — so their wishes are known and honored. Not legal or medical advice.

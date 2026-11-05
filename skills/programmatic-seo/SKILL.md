@@ -1,7 +1,8 @@
 ---
 name: "programmatic-seo"
-description: "How to design and run a programmatic SEO program that produces durable traffic instead of penalty-bait."
+description: "How to design and run a programmatic SEO program that produces durable traffic instead of penalty-bait. Data source identification, template design, schema patterns, quality control at scale, internal linking architecture, crawl budget management, AEO/GEO for programmatic pages, refresh discipline, and the make-or-break question of whether pSEO is the right answer for your program at all. Triggers on programmatic SEO, pSEO, scaled content, page generation, template SEO, location pages, comparison pages, directory site, listing site, scaled landing pages, programmatic content. Also triggers when a content set is not ranking, has been hit by an algorithm update, or when a team is considering pSEO as a growth lever."
 ---
+
 # Programmatic SEO
 
 A senior SEO strategist's playbook for designing and running programmatic SEO programs that produce durable traffic instead of penalty-bait.
@@ -68,6 +69,3 @@ Before applying a method below, read its linked section. For a narrow task selec
 - Common failure modes: [method](references/domain-guide.md#common-failure-modes).
 - The framework: 12 considerations for programmatic SEO: [method](references/domain-guide.md#the-framework-12-considerations-for-programmatic-seo).
 - Closing: quality at scale or not at all: [method](references/domain-guide.md#closing-quality-at-scale-or-not-at-all).
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

@@ -1,7 +1,8 @@
 ---
 name: "quiz-and-assessment-design"
-description: "Designing quizzes, personality assessments, and recommendation tools that segment users into actionable categories rather than generating clicks for clicks' sake."
+description: "Designing quizzes, personality assessments, and recommendation tools that segment users into actionable categories rather than generating clicks for clicks' sake. Question architecture, scoring algorithms, result categorization, recommendation mapping, lead capture integration. Honest about clickbait-quiz (engagement only), vanity-result (entertaining, not useful), and actionable-segmentation (genuine categorization that drives next-step recommendations) patterns. Triggers on quiz, assessment, personality test, recommendation tool, scorecard, diagnostic, fit evaluator, what-type-of-X-are-you, persona quiz. Also triggers when an audience needs a categorization-driven lead magnet, when a vanity quiz is producing engagement but no qualified leads, or when an assessment is being scoped for the first time."
 ---
+
 # Quiz and Assessment Design
 
 A senior growth practitioner's playbook for designing quizzes and assessments that produce actionable segmentation rather than generating clicks for clicks' sake. Question architecture, scoring algorithms, result categorization, recommendation mapping. The discipline of building a quiz the audience actually uses to make a decision.
@@ -278,6 +279,3 @@ That is the bar. Below the bar are clickbait-quizzes (engagement without action)
 
 The discipline is in the design choices. The questions that genuinely distinguish segments. The scoring algorithm that maps answers to meaningful categories. The recommendations that match each segment specifically. The result-delivery that surfaces the recommendation in context, not 3 emails later.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

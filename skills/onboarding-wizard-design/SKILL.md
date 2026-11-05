@@ -1,7 +1,8 @@
 ---
 name: "onboarding-wizard-design"
-description: "Designing first-run product onboarding wizards that get users to the ah-ha moment without overwhelming them."
+description: "Designing first-run product onboarding wizards that get users to the ah-ha moment without overwhelming them. Step architecture, progressive disclosure, escape hatches, completion incentives, drop-off measurement. Honest about tutorial-overload (dump everything upfront), skip-friendly-empty (skipped onboarding leads to abandoned product), and earned-progressive-disclosure (right things at the right moments) patterns. Triggers on onboarding wizard, product onboarding, first-run experience, signup flow, activation flow, FRX, time-to-value, ah-ha moment design. Also triggers when activation rates are low, when users skip onboarding and never return, when onboarding flows are being scoped for the first time, or when audience research shows users not finding key features."
 ---
+
 # Onboarding Wizard Design
 
 A senior product marketing director's playbook for designing first-run product onboarding wizards that get users to the ah-ha moment without overwhelming them. Step architecture, progressive disclosure, escape hatches, completion incentives, drop-off measurement. The discipline of building an onboarding sequence the user actually completes.
@@ -275,6 +276,3 @@ The discipline is in the design choices. The decision to build a wizard at all, 
 
 When in doubt, ask: did the user reach the ah-ha moment in their first session, and did the wizard help or hinder that? If yes to the first and helped on the second, the wizard earned its build. If no to either, redesign.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Repair a relationship after an argument — reconnect, own your part, and rebuild trust — instead of the cold silence that lets damage set. Use when asked how do I make up after a fight, repair things after an argument, reconnect after we fought, or fix things with someone I hurt. Produces a read on what actually needs repairing (the incident vs the deeper hurt), a genuine repair approach (own your part specifically, acknowledge their hurt, no fake apology), the words to reopen, and how to rebuild rather than just move on — because unrepaired fights compound, and the repair matters more than never fighting.

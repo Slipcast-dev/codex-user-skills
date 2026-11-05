@@ -1,7 +1,8 @@
 ---
 name: "after-action-report"
-description: "Run a structured after-action review (postmortem, retrospective) on a launch, incident, or completed project to capture timeline, root cause analysis, contributing factors, and actionable lessons."
+description: "Run a structured after-action review (postmortem, retrospective) on a launch, incident, or completed project to capture timeline, root cause analysis, contributing factors, and actionable lessons. Use this skill whenever the user wants to run a postmortem, retrospective, AAR, or after-action review on any past event. Triggers on after-action report, AAR, postmortem, retrospective, retro, post-incident review, what went well what didn't, lessons learned, blameless postmortem, root cause analysis, RCA, five whys. Also triggers when the user has just shipped something or just resolved an incident and wants to capture learnings."
 ---
+
 # After-Action Report
 
 Run a structured retrospective on a launch, incident, or completed project. Produce actionable lessons, not just a document.
@@ -283,6 +284,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 
 - [`references/aar-template.md`](references/aar-template.md) - Fillable AAR template covering incidents, launches, and projects.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

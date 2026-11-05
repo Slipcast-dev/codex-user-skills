@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Build a dental recall and reactivation system that brings lapsed patients back without nagging — the segments worth contacting, the message that works for each, the cadence, and the measure that tells you whether it is working. Use when asked to improve recall rates, reactivate lapsed patients, reduce hygiene no-shows, or fill an empty hygiene column. Produces the patient segmentation, per-segment message templates, the contact cadence, the booking-friction fixes, and the metrics to track. Communications and operations only; no clinical recall interval is set here.

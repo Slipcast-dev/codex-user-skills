@@ -1,7 +1,8 @@
 ---
 name: "content-strategy"
-description: "Develop a content strategy covering editorial positioning, content pillars, formats, calendar, governance, and topical authority planning."
+description: "Develop a content strategy covering editorial positioning, content pillars, formats, calendar, governance, and topical authority planning. Use this skill whenever the user wants to plan a content program, define content pillars, build an editorial calendar, structure topic clusters, set up content governance, or align content production with broader brand and SEO goals. Triggers on content strategy, content plan, editorial strategy, content pillars, content calendar, editorial calendar, topical authority, topic clusters, content governance, content roadmap, content production. Also triggers when the user is about to start producing content without a strategic plan."
 ---
+
 # Content Strategy
 
 Plan what content to produce, why, when, and how. Stack-agnostic. Works for blogs, knowledge bases, marketing sites, newsletters, and product content surfaces.
@@ -212,6 +213,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 - [`references/content-strategy-template.md`](references/content-strategy-template.md) - Strategy document template.
 - [`references/editorial-calendar-template.md`](references/editorial-calendar-template.md) - Spreadsheet column definitions and calendar structure.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

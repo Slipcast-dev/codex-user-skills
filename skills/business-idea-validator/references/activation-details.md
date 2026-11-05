@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Pressure-test a business or side-hustle idea before you sink money and months into it — find the real demand, the risky assumptions, and the cheapest way to test them. Use when asked to validate my business idea, is this a good business idea, test my side hustle, or should I start this. Produces a read on the core assumptions the idea depends on, who the customer really is and whether the pain is real, the cheapest experiments to test demand before building, a rough viability check (market, competition, economics), and a go/refine/rethink call — honest, not a cheerleader.

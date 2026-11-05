@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Interview you into a durable personal MEMORY.md — your decision rules, patterns, past failures, and preferences — that any AI can read to help you better, with privacy guardrails built in. Use when asked to build my memory file, help my AI remember me, create a MEMORY.md, or set up context about myself. Produces a structured personal-context file drawn out through good questions (how you decide, what you keep repeating, what you don't want to repeat), organized for an AI to use — while explicitly refusing to store sensitive data like credentials, financial, health, or others' personal info.

@@ -1,7 +1,8 @@
 ---
 name: "jtbd-framing"
-description: "The Jobs-to-be-Done framework as applied product methodology. Job statements, struggling moments, hire and fire criteria, the difference between feature-thinking and job-thinking."
+description: "The Jobs-to-be-Done framework as applied product methodology. Job statements, struggling moments, hire and fire criteria, the difference between feature-thinking and job-thinking. Honest about where JTBD adds clarity (discovery, prioritization, positioning) and where it becomes performative ritual (job-statement workshops that do not drive decisions, persona-theater disguised as JTBD). Triggers on jobs-to-be-done, JTBD, job statements, struggling moments, hire criteria, fire criteria, switch triggers, functional emotional social jobs, outcome-driven innovation. Also triggers when a team is over-relying on feature-request lists or persona archetypes that do not drive product decisions, when a positioning conversation needs the framing JTBD provides, or when discovery is producing outputs that do not connect to product strategy."
 ---
+
 # Jobs-to-be-Done Framing
 
 A senior product leader's playbook for the Jobs-to-be-Done framework as applied methodology. Job statements, struggling moments, hire and fire criteria, the difference between feature-thinking and job-thinking. Honest about where JTBD adds clarity and where it becomes performative ritual.
@@ -261,6 +262,3 @@ The teams that benefit from JTBD are the ones that take the analytical work seri
 
 When in doubt about whether a JTBD application is real or ritual, ask: can a recent product decision be traced to the JTBD analysis, or did the JTBD work happen in parallel with decisions that were made on other grounds? If the former, JTBD is doing its work. If the latter, the framework is decoration.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

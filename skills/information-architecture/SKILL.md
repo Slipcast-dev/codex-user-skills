@@ -1,7 +1,8 @@
 ---
 name: "information-architecture"
-description: "Design the structure of a website or product including sitemap, navigation, URL structure, content types, taxonomy, and labeling."
+description: "Design the structure of a website or product including sitemap, navigation, URL structure, content types, taxonomy, and labeling. Use this skill whenever the user asks to plan a sitemap, design navigation, structure URLs, define content types, build taxonomies, design site search, or organize content at the system level. Triggers on sitemap, site structure, navigation, IA, information architecture, URL structure, content types, taxonomy, categorization, breadcrumbs, hub pages, faceted navigation, site search, labeling. Also triggers when content is being created without a structural plan, or when an existing site's structure is being audited or restructured."
 ---
+
 # Information Architecture
 
 Design the structure that holds the content. Stack-agnostic. Applies to marketing sites, product surfaces, knowledge bases, e-commerce, and editorial content.
@@ -255,6 +256,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 - [`references/ia-document-template.md`](references/ia-document-template.md) - Template for the IA deliverable.
 - [`references/url-pattern-library.md`](references/url-pattern-library.md) - URL pattern conventions for common content types.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

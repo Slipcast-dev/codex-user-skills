@@ -1,7 +1,8 @@
 ---
 name: "seo-traffic-diagnosis"
-description: "Diagnose organic traffic changes (drops, stalls, or unexpected wins) using Ahrefs MCP plus Search Console data."
+description: "Diagnose organic traffic changes (drops, stalls, or unexpected wins) using Ahrefs MCP plus Search Console data. Use this skill when traffic suddenly dropped, has been flat despite investment, after an algorithm update, after a migration or deploy, or when a competitor seems to be taking share. Triggers on traffic dropped, traffic decline, traffic stalled, organic decline, lost rankings, why is traffic down, algorithm update, post-migration traffic loss, traffic diagnosis. Also triggers when stakeholders are panicking about an organic traffic number they cannot explain. A panic about tracking, event, or dashboard setup is a measurement problem, not a traffic problem: route those to `analytics-strategy`."
 ---
+
 # SEO Traffic Diagnosis
 
 Diagnose why organic traffic moved (down, flat, or unexpectedly up) using Ahrefs MCP combined with Search Console and analytics data. Stack-agnostic. Produces a root-cause diagnosis and an action plan.
@@ -181,6 +182,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 
 - [`references/diagnosis-checklist.md`](references/diagnosis-checklist.md) - Layer-by-layer diagnostic checklist with the specific data to pull at each layer and how to interpret each signal.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

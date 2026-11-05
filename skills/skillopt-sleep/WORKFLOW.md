@@ -34,31 +34,18 @@ Trigger when the user wants any of:
 5. **Stage** — write `proposed_AGENTS.md`, `proposed_SKILL.md`, a diff, and `report.md` into `<project>/.skillopt-sleep/staging/<date>/`. **Nothing live changes.**
 6. **Adopt** — explicit (or opt-in auto): copy staged files over live ones, backing up first.
 
-## How to drive it
+## Доступность в Codex
 
-Prefer the `$skillopt-sleep` command. Under the hood it calls the bundled runner:
+В установленном наборе есть только инструкция и лицензия. Скрипт
+scripts/sleep.sh и пакет skillopt_sleep не включены; запуск, dry-run,
+adopt и schedule по этой инструкции недоступны. Не выдавай команды исходного
+плагина за работающие локальные команды и не создавай расписание их запуска.
+Для такой задачи верни blocked с указанием отсутствующего runtime.
+Можно подготовить план и критерии оценки без запуска или изменения памяти.
+Установку runtime и проверку его CLI выполняй лишь в рамках отдельного
+поручения; наличие backend codex в описании не подтверждает совместимость.
 
-```bash
-"${CLAUDE_PLUGIN_ROOT}/scripts/sleep.sh" status                       # what's happened
-"${CLAUDE_PLUGIN_ROOT}/scripts/sleep.sh" dry-run --project "$(pwd)"    # safe preview
-"${CLAUDE_PLUGIN_ROOT}/scripts/sleep.sh" run --project "$(pwd)"        # full cycle, stages a proposal
-"${CLAUDE_PLUGIN_ROOT}/scripts/sleep.sh" adopt --project "$(pwd)"      # apply staged proposal (with backup)
-```
-
-- Default backend is `mock` (deterministic, **no API spend**) — good for trying the plumbing.
-- Add `--backend claude` or `--backend codex` to spend the user's real budget for genuine improvement.
-- Scope defaults to the invoked project; `--scope all` harvests every project.
-
-### Scheduling
-
-```bash
-"${CLAUDE_PLUGIN_ROOT}/scripts/sleep.sh" schedule --project "$(pwd)" --hour 3 --minute 17
-"${CLAUDE_PLUGIN_ROOT}/scripts/sleep.sh" unschedule --project "$(pwd)"
-```
-
-Installs a nightly cron entry. `unschedule --all` removes every managed entry.
-
-## All CLI flags
+## Справка исходного CLI (runtime не включён)
 
 | Flag | Default | Description |
 |------|---------|-------------|
@@ -108,7 +95,7 @@ Both are gated by the same held-out validation score. Set `evolve_memory: false`
   — a deterministic demo that proves held-out lift and that the gate blocks
   harmful edits.
 
-## Validate / demo
+## Примеры исходного runtime (сейчас не исполняются)
 
 ```bash
 # deterministic proof (no API): held-out score rises, gate blocks regressions

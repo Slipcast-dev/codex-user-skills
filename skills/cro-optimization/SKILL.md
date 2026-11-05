@@ -1,7 +1,8 @@
 ---
 name: "cro-optimization"
-description: "Run conversion rate optimization through hypothesis-driven testing including audit, hypothesis generation, test design, statistical analysis, and rollout decisions."
+description: "Run conversion rate optimization through hypothesis-driven testing including audit, hypothesis generation, test design, statistical analysis, and rollout decisions. Use this skill whenever the user wants to optimize conversion, run A/B tests, audit a funnel, generate test hypotheses, design experiments, or analyze test results. Triggers on conversion optimization, CRO, A/B test, split test, multivariate test, hypothesis, conversion funnel, funnel audit, experiment design, statistical significance, lift, optimization. Also triggers when the user has a conversion problem and isn't sure where to start, or when test results are ambiguous and need interpretation."
 ---
+
 # CRO Optimization
 
 Run conversion rate optimization as a structured discipline: audit → hypothesize → test → decide. Stack-agnostic. Tool-agnostic.
@@ -272,6 +273,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 
 - [`references/hypothesis-library.md`](references/hypothesis-library.md) - Common high-impact hypothesis patterns by funnel stage.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

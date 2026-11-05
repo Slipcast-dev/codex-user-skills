@@ -1,7 +1,8 @@
 ---
 name: "analytics-strategy"
-description: "Design measurement frameworks including event taxonomy, KPI hierarchy, dashboard architecture, attribution models, and analytics implementation strategy."
+description: "Design measurement frameworks including event taxonomy, KPI hierarchy, dashboard architecture, attribution models, and analytics implementation strategy. Use this skill whenever the user wants to plan analytics, design dashboards, build event taxonomies, define KPIs, set up tracking, or audit existing measurement. Triggers on analytics strategy, measurement plan, event taxonomy, tracking plan, KPI framework, dashboard design, north star metric, attribution model, conversion tracking, GA4 setup, Mixpanel setup, analytics audit. Also triggers when the user has data but no clear way to use it, or wants to make decisions but doesn't know what to track."
 ---
+
 # Analytics Strategy
 
 Design measurement frameworks that produce decisions, not just dashboards. Stack-agnostic. Tool-agnostic.
@@ -225,6 +226,3 @@ Tracking plan structure:
 
 - [`references/event-taxonomy-template.md`](references/event-taxonomy-template.md) - Starter event catalog with patterns for common product types.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

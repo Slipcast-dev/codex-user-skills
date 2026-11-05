@@ -48,8 +48,8 @@ The risk-paranoid threat-modeler. Six questions before any production change tha
 ## Workflow
 
 ```bash
-python ${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/ciso-advisor/scripts/risk_quantifier.py
-python ${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/ciso-advisor/scripts/compliance_tracker.py
+python3 "/Users/Aleksandr/.codex/skills/ciso-advisor/scripts/risk_quantifier.py"
+python3 "/Users/Aleksandr/.codex/skills/ciso-advisor/scripts/compliance_tracker.py"
 ```
 
 ## Output Format
@@ -100,7 +100,7 @@ python ${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/ciso-advisor/scripts/complia
 ## Related
 
 - Agent: [`cs-ciso-advisor`](../../skill-resources/local-import-2026-10-28/claude-skills-main/c-level-agents/agents/cs-ciso-advisor.md)
-- Skill: [`ciso-advisor`](${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/ciso-advisor/SKILL.md)
+- Skill: [`ciso-advisor`](../ciso-advisor/SKILL.md)
 - Compliance: `../../../ra-qm-team/`
 
 ---

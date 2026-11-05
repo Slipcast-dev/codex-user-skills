@@ -1,7 +1,8 @@
 ---
 name: "comparison-tool-design"
-description: "Designing side-by-side comparison tools (plan-compare, product-compare, alternative-compare) that help users decide rather than just listing features."
+description: "Designing side-by-side comparison tools (plan-compare, product-compare, alternative-compare) that help users decide rather than just listing features. Axis selection, default-comparison logic, recommendation discipline. Honest about feature-list-dump (every feature in a row, no decision support), hidden-recommendation (biased comparison pretending to be neutral), and honest-comparison-with-guidance (genuine comparison plus opinionated recommendation) patterns. Triggers on comparison tool, plan compare, product compare, alternative compare, vs page, decision support tool. Also triggers when conversion through comparison stages is poor, when users are abandoning at the comparison step, or when a comparison tool is being scoped for the first time."
 ---
+
 # Comparison Tool Design
 
 A senior product marketing director's playbook for designing side-by-side comparison tools that help users decide rather than just listing features. Plan-compare, product-compare, alternative-compare. Axis selection, default-comparison logic, recommendation discipline. The discipline of building a comparison tool that earns the user's trust.
@@ -262,6 +263,3 @@ That is the bar. Below the bar are feature-list-dump (no decision support; user 
 
 The discipline is in the design choices. The decision to build a comparison at all. The axes that earn placement. The defaults that serve the audience. The recommendation that is visible and defended. The filters that help the user match their context. The methodology that is disclosed. The maintenance that keeps the comparison current.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

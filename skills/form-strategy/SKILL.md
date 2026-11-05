@@ -1,7 +1,8 @@
 ---
 name: "form-strategy"
-description: "Design forms that convert, validate well, resist spam, and integrate cleanly with downstream systems."
+description: "Design forms that convert, validate well, resist spam, and integrate cleanly with downstream systems. Use this skill when designing or auditing any form (contact, signup, checkout, multi-step, embedded), planning validation logic, fighting spam, choosing form tooling, or improving form conversion. Triggers on form design, form validation, form conversion, multi-step form, form spam, captcha, honeypot, form abandonment, signup form, contact form. Also triggers when form completion rates are low or spam is overwhelming."
 ---
+
 # Form Strategy
 
 Forms are where intent becomes action. Design them well or lose conversions, frustrate users, and drown in spam. Stack-agnostic.
@@ -258,6 +259,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 
 - [`references/form-anatomy-checklist.md`](references/form-anatomy-checklist.md): A field-by-field, behavior-by-behavior checklist for auditing or designing a form, covering structure, accessibility, validation, and spam defense.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

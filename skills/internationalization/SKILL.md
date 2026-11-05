@@ -1,7 +1,8 @@
 ---
 name: "internationalization"
-description: "Plan and run a multi-language or multi-region site. Use this skill when adding new locales, choosing URL structure for languages (subfolders vs subdomains vs ccTLDs), implementing hreflang, planning translation workflow, handling currency and date formats, designing for RTL languages, or auditing a stalled internationalization rollout."
+description: "Plan and run a multi-language or multi-region site. Use this skill when adding new locales, choosing URL structure for languages (subfolders vs subdomains vs ccTLDs), implementing hreflang, planning translation workflow, handling currency and date formats, designing for RTL languages, or auditing a stalled internationalization rollout. Triggers on internationalization, i18n, localization, l10n, hreflang, multi-language, translation workflow, RTL, locale, ccTLD, subfolder vs subdomain, language switcher. Also triggers when international audiences underperform or translations are stale."
 ---
+
 # Internationalization
 
 Add languages and regions in a way that works for users, search engines, and the team maintaining the content. Stack-agnostic.
@@ -273,6 +274,3 @@ An internationalization plan includes:
 
 - [`references/locale-checklist.md`](references/locale-checklist.md): Per-locale checklist of everything that needs to adapt beyond translation, organized by category (URL, content, UX, format, legal).
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

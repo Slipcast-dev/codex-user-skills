@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Use when asked to reconcile operating profit to free cash flow, walk from EBIT to FCF, explain why profit and cash differ in this report, or show a company's cash conversion from its own accounts. Takes operating profit from an uploaded annual report and walks line by line to free cash flow using the report's own numbers, arithmetic shown at every step. Produces a step table (line, page, amount, running total, one-sentence reason cash and profit diverge), a drift flag on every line where the arithmetic could go wrong, a tie-out to the reported cash flow statement, and an instruction to independently check at least one subtraction. Educational, not financial advice.

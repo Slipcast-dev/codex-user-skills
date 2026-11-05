@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Work through the first hours and days after a disaster — a fire, flood, storm, or evacuation — in the right order: safety and people first, then documenting for insurance and aid, then the immediate recovery steps, without missing the things that cost money or health later. Use when someone says 'my house flooded/burned', 'what do I do after the disaster', 'we just evacuated, now what', or 'the storm damaged everything'. Produces a triaged action plan (safety → document → claim → recover), the do-not-miss list, and where to get help. Not legal advice; routes to emergency services and official aid.

@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Handle a dispute with a contractor — unfinished work, poor quality, overcharging, or a no-show — with a path that protects your money and your options. Use when asked to deal with a contractor dispute, my contractor did bad work / won't finish / overcharged, or how to get a builder to fix their work. Produces a read on your position (contract, payments, evidence), a firm-but-professional communication and demand path, documentation and payment-leverage guidance, and escalation options (mediation, licensing board, chargeback, small claims) — flagging that it's not legal advice.

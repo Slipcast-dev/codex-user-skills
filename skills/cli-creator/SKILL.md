@@ -1,7 +1,8 @@
 ---
 name: cli-creator
-description: "Build a composable CLI for Codex from API docs, an OpenAPI spec, existing curl examples, an SDK, a web app, an admin tool, or a local script."
+description: Build a composable CLI for Codex from API docs, an OpenAPI spec, existing curl examples, an SDK, a web app, an admin tool, or a local script. Use when the user wants Codex to create a command-line tool that can run from any repo, expose composable read/write commands, return stable JSON, manage auth, and pair with a companion skill.
 ---
+
 # CLI Creator
 
 Create a real CLI that future Codex threads can run by command name from any working directory.
@@ -157,6 +158,3 @@ Write the companion skill in the order a future Codex thread should use the CLI,
 - Three copy-pasteable command examples.
 
 Keep API reference details in the CLI docs or a skill reference file. Keep the skill focused on ordering, safety, and examples future Codex threads should actually run.
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

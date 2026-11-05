@@ -1,7 +1,8 @@
 ---
 name: "user-feedback-aggregation"
-description: "Collecting and synthesizing user feedback across channels (support tickets, NPS, in-app feedback, sales calls, social mentions, customer councils) into a continuous signal that informs product decisions."
+description: "Collecting and synthesizing user feedback across channels (support tickets, NPS, in-app feedback, sales calls, social mentions, customer councils) into a continuous signal that informs product decisions. The triage discipline that distinguishes loudest-voice (whoever complains most wins) from averaged-noise (every signal weighted equally) from triaged-synthesis (signal weighted by source quality, frequency, and decision relevance). Triggers on user feedback, customer feedback aggregation, NPS, support ticket analysis, customer councils, feedback synthesis, voice of customer, feedback triage, in-app feedback. Also triggers when feedback channels overflow with volume that does not produce decisions, when the loudest-voice problem is steering roadmap, or when continuous feedback streams need synthesis discipline."
 ---
+
 # User Feedback Aggregation
 
 A senior product leader's playbook for collecting and synthesizing user feedback across channels into continuous decision signal. Support tickets, NPS surveys, in-app feedback, sales calls, social mentions, customer councils, all aggregated into a triaged synthesis the team can actually act on.
@@ -297,6 +298,3 @@ The discipline is in the triage. Each channel weighted by what it reveals. Each 
 
 When in doubt about whether a feedback program is working, ask: can the team trace recent decisions to specific feedback patterns, are channels weighted differently for different decisions, is the synthesis cadence producing input the team uses, are users seeing their feedback acted on? If yes to all of those, the program is real. If no to any, the gap is where the feedback work is failing to convert into decisions.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

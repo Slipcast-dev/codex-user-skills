@@ -1,7 +1,8 @@
 ---
 name: "content-migration"
-description: "Move content between platforms, domains, or URL structures while preserving SEO equity, user bookmarks, and integrations."
+description: "Move content between platforms, domains, or URL structures while preserving SEO equity, user bookmarks, and integrations. Use this skill when planning a CMS migration, replatforming, consolidating sites, changing URL structures, or merging content from multiple sources. Triggers on content migration, replatform, CMS migration, domain migration, URL restructure, redirect map, site merge, content consolidation, migration plan, post-migration drop. Also triggers when planning a launch that involves moving existing content."
 ---
+
 # Content Migration
 
 Move content from one platform, domain, or URL structure to another without breaking SEO, user bookmarks, or downstream integrations. Stack-agnostic.
@@ -260,6 +261,3 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 
 - [`references/migration-runbook.md`](references/migration-runbook.md): Step-by-step runbook for cutover day, including pre-flight checks, the actual switch, immediate verification, and the first 24 hours of monitoring.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

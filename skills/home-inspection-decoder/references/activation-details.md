@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Make sense of a home-inspection report before you buy — what's serious vs cosmetic, what to negotiate, and what to investigate further. Use when asked to explain my home inspection, is this inspection finding serious, what should I negotiate after inspection, or decode my inspection report. Produces a triage of findings by severity (safety/structural/expensive vs minor/cosmetic), plain-English translations, the items worth a repair credit or price negotiation, what warrants a specialist follow-up, and a walk-vs-proceed read — flagging that the inspector and specialists are the authority.

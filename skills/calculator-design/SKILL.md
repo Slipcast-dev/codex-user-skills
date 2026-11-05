@@ -1,7 +1,8 @@
 ---
 name: "calculator-design"
-description: "Designing interactive calculators (ROI calculators, pricing estimators, savings projections, mortgage calculators, custom assessments) that deliver real decision-support value while serving as lead magnets and qualified-traffic generators."
+description: "Designing interactive calculators (ROI calculators, pricing estimators, savings projections, mortgage calculators, custom assessments) that deliver real decision-support value while serving as lead magnets and qualified-traffic generators. Honest about vanity-calculator (no real value), lead-trap (hides the answer behind email), and transparent-decision-tool (gives the result and earns the email through tiered value) patterns. Triggers on calculator, ROI calculator, pricing estimator, savings calculator, custom calculator, interactive tool, decision tool, financial calculator. Also triggers when an audience needs a calculation-driven lead magnet, when a vanity calculator is producing leads but no qualified ones, or when a calculator is being scoped for the first time."
 ---
+
 # Calculator Design
 
 A senior growth practitioner's playbook for designing interactive calculators that deliver real decision-support value while serving as lead magnets and qualified-traffic generators. ROI calculators, pricing estimators, savings projections, mortgage calculators, custom assessments. The discipline of building a tool the audience actually trusts.
@@ -70,6 +71,3 @@ Before applying a method below, read its linked section. For a narrow task selec
 - Common failure modes: [method](references/domain-guide.md#common-failure-modes).
 - The framework: 12 considerations for calculator design: [method](references/domain-guide.md#the-framework-12-considerations-for-calculator-design).
 - Closing: calculators earn the email when they would have been worth paying for: [method](references/domain-guide.md#closing-calculators-earn-the-email-when-they-would-have-been-worth-paying-for).
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

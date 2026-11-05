@@ -1,7 +1,8 @@
 ---
 name: "team-onboarding-playbook"
-description: "Design a structured onboarding experience that gets new team members productive in 30, 60, and 90 days."
+description: "Design a structured onboarding experience that gets new team members productive in 30, 60, and 90 days. Use when a new hire is joining, when contractors or agency partners need to ramp up, when an existing team is restructuring and members are switching focus, or when current onboarding feels chaotic and slow. Also triggers when one person owns all the tribal knowledge and you need to capture it, when you keep losing people in their first 90 days, or when a new project has many fresh members joining at once. Useful for engineering, design, product, marketing, and operations roles."
 ---
+
 A repeatable framework for building an onboarding playbook that ramps new team members predictably without burning out the people training them.
 
 ## When to use
@@ -184,6 +185,3 @@ Deliverables:
 
 - [`references/onboarding-checklist.md`](references/onboarding-checklist.md): A day-by-day, week-by-week checklist for the first 30 days, with role-specific variants and a 30/60/90 review template.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

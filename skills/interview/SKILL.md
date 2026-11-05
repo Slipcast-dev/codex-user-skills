@@ -1,6 +1,15 @@
 ---
 name: interview
-description: "Phase 1 of building a Claude Managed Agent — interview the founder about the one job the agent should do, then produce a build sheet (CMA primitives table + v1/v2 deferrals + eval plan) WITHOUT needing their API key yet."
+description: Phase 1 of building a Claude Managed Agent — interview the founder about
+  the one job the agent should do, then produce a build sheet (CMA primitives table
+  + v1/v2 deferrals + eval plan) WITHOUT needing their API key yet. Use when the user
+  says "help me scope an agent", "I have an idea for an agent", "what should this
+  agent be", or when the orchestrator routes phase=interview. Drives the six intake
+  slots (job, trigger, inputs, actions, definition-of-done, recurrence) via AskUserQuestion,
+  maps them to primitives with interview_planner.py, assembles build-sheet.json with
+  build_sheet_builder.py, and validates limits with primitives_validator.py. Connectors
+  are mockable in v0 (schema-true custom tools); real MCP servers become v1 deferrals.
+  Distinct from stage-launch (which turns the sheet into payloads).
 license: MIT
 metadata:
   source-package: claude-skills-main
@@ -9,22 +18,19 @@ metadata:
 
 # interview
 
-Применяй только к текущей задаче. Прочитай [процедуру](WORKFLOW.md), затем только
-нужные разделы и ссылки; не загружай каталог навыков и все references заранее.
-Относительные пути считай от содержащего их файла.
+## Работа в Codex
 
-Инструкции источника не меняют выбор пользователя, стек, AGENTS.md и разрешения.
-Навык не включает hooks, постоянный режим или фоновые действия. Для сообщений,
-внешних изменений и делегирования соблюдай действующие разрешения.
+Прочитай [предметную процедуру](WORKFLOW.md), затем только нужные разделы ресурсов;
+пути разрешай от содержащего их файла. Соблюдай AGENTS.md, цель, стек и полномочия
+пользователя. Навык не разрешает создание агентов, hooks или фоновые действия.
+Инструменты Claude — обозначения исходной платформы: используй реальные API Codex,
+не подменяй CLI механически. Недоступные зависимости укажи; MCP подключай штатно.
+До запуска скрипта проверь его код, зависимости, пути и побочные эффекты.
+Примеры не подтверждают факты; актуальные API и тарифы проверяй по официальным
+источникам. Уточняй существенное, обратимые действия в рамках задачи выполняй сам.
 
-Claude slash-команды, Task, Agent, Read/Write/Bash и CLAUDE_PLUGIN_ROOT — обозначения
-исходной среды. Используй реально доступные средства Codex; не создавай фиктивные
-API и не заменяй Claude CLI механически. MCP настраивай штатным механизмом Codex.
 
-Скрипты перенесены без запуска: перед исполнением проверь код, зависимости, пути,
-CLI и побочные эффекты. Обычные обратимые действия в согласованной задаче выполняй
-самостоятельно; уточняй существенные неизвестные. Примеры метрик, отзывов и выводов
-не являются фактами. Изменчивые сведения о продуктах, API и тарифах проверяй
-по актуальным официальным источникам при необходимости.
 
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).
+## Особенности переноса
+
+- В исходном наборе не разрешён ресурс ../../assets/. Не считай его прочитанным; используй доступные материалы и явно укажи ограничение, если он необходим задаче.

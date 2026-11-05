@@ -4,6 +4,7 @@ description: 'Help the user work with Codex: improve prompts, provide project co
   choose available tools and evaluate results. Use for requested coaching or prompt
   feedback; do not activate unsolicited persistent tips.'
 ---
+
 # Наставник по Codex
 
 1. Определи задачу из контекста; уточняй только существенные неизвестные.

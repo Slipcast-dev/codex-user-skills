@@ -1,7 +1,8 @@
 ---
 name: "funnel-flow-architecture"
-description: "Architecting cross-tool conversion flows that match audience and stage."
+description: "Architecting cross-tool conversion flows that match audience and stage. Landing page to lead magnet to nurture sequence to offer to advanced funnels. Honest about silo-funnels (every tool standalone), kitchen-sink-funnels (every audience squeezed through one path), and matched-funnels (architecture matched to audience-and-stage) patterns. Triggers on funnel design, conversion architecture, marketing funnel, growth funnel, lifecycle architecture, nurture sequence design, multi-tool funnel orchestration. Also triggers when the team's growth tools are working individually but not together, when audience segments share one nurture path, or when a funnel is being architected from scratch."
 ---
+
 # Funnel Flow Architecture
 
 A senior growth practitioner's playbook for architecting cross-tool conversion flows that match audience and stage. Landing page to lead magnet to nurture sequence to offer to advanced funnels. The discipline of building a funnel architecture, not just collecting tools.
@@ -307,6 +308,3 @@ The compounding mechanism. A visitor arrives. The architecture routes them based
 
 When in doubt, ask: does each tool in the program serve a defined segment-and-stage, do the tools share data and context, can the team explain the architecture in one diagram, and does the team measure architecture-level outcomes (not just tool-level metrics)? If yes to all of those, the funnel is real architecture. If no to any, the gap is where the program's tools are failing to compose.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

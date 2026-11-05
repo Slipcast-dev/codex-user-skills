@@ -2,7 +2,7 @@
 
 # Происхождение и лицензии
 
-Независимая коллекция пользовательских навыков для OpenAI Codex. Снимок: 2026-11-03. Системные и плагинные навыки не включены.
+Независимая коллекция пользовательских навыков для OpenAI Codex. Снимок: 2026-11-05. Системные и плагинные навыки не включены.
 
 Исходные LICENSE, NOTICE, ссылки и сведения об авторах сохранены в папках навыков. Поле `source-package` перенесено из исходных метаданных и не доказывает полноту цепочки происхождения. Имена пакетов не заменяют адреса upstream; неизвестные адреса не выдумываются.
 
@@ -13,9 +13,9 @@
 | Apache-2.0 | 4 |
 | LicenseRef-Multiple | 1 |
 | MIT | 1670 |
-| NOASSERTION | 134 |
+| NOASSERTION | 135 |
 
-`NOASSERTION` означает отсутствие отдельного файла лицензии. Владелец коллекции подтвердил право публичного распространения этих материалов. Это не задаёт условия дальнейшего использования: уточняйте их у правообладателя. Не считайте такие материалы автоматически MIT или public domain. `LicenseRef-Multiple` означает несколько сохранённых файлов лицензий; изучите каждый.
+`NOASSERTION` означает отсутствие отдельного файла лицензии. Отсутствие лицензии не задаёт условия дальнейшего использования: уточняйте их у правообладателя. Не считайте такие материалы автоматически MIT или public domain. `LicenseRef-Multiple` означает несколько сохранённых файлов лицензий; изучите каждый.
 
 Ниже перечислены все навыки и известные лицензии. Источники и пути также доступны в [catalog/provenance.json](catalog/provenance.json).
 
@@ -1653,6 +1653,7 @@
 | [syllabus](skills/syllabus/SKILL.md) | claude-skills-main | [LICENSE](skills/syllabus/LICENSE) |
 | [synthetic-user-research](skills/synthetic-user-research/SKILL.md) | pm-claude-skills-main | [LICENSE](skills/synthetic-user-research/LICENSE) |
 | [system-design-interview](skills/system-design-interview/SKILL.md) | pm-claude-skills-main | [LICENSE](skills/system-design-interview/LICENSE) |
+| [systems-engineering](skills/systems-engineering/SKILL.md) | unknown | Не указана (NOASSERTION) |
 | [tabletop-negotiator](skills/tabletop-negotiator/SKILL.md) | pm-claude-skills-main | [LICENSE](skills/tabletop-negotiator/LICENSE) |
 | [task-to-first-step](skills/task-to-first-step/SKILL.md) | pm-claude-skills-main | [LICENSE](skills/task-to-first-step/LICENSE) |
 | [task-triage-matrix](skills/task-triage-matrix/SKILL.md) | pm-claude-skills-main | [LICENSE](skills/task-triage-matrix/LICENSE) |

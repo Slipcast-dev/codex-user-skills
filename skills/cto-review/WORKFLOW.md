@@ -22,13 +22,13 @@ Pressure-tests architecture and engineering scaling decisions. Six questions to 
 ### 2. Tech Debt Inventory
 **What's the top tech debt item, what's it costing per week, and when does it become blocking?**
 ```bash
-python ${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/cto-advisor/scripts/tech_debt_analyzer.py
+python3 "/Users/Aleksandr/.codex/skills/cto-advisor/scripts/tech_debt_analyzer.py"
 ```
 
 ### 3. Team Scaling
 **For each open req, what's the ramp time and contribution model?**
 ```bash
-python ${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/cto-advisor/scripts/team_scaling_calculator.py
+python3 "/Users/Aleksandr/.codex/skills/cto-advisor/scripts/team_scaling_calculator.py"
 ```
 
 ### 4. Build vs Buy
@@ -104,7 +104,7 @@ python ${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/cto-advisor/scripts/team_sca
 ## Related
 
 - Agent: [`cs-cto-advisor`](../../skill-resources/local-import-2026-10-28/claude-skills-main/agents/c-level/cs-cto-advisor.md)
-- Skill: [`cto-advisor`](${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/cto-advisor/SKILL.md)
+- Skill: [`cto-advisor`](../cto-advisor/SKILL.md)
 - SLO: `../../../engineering/slo-architect/`
 
 ---

@@ -165,3 +165,19 @@ Don't use these tools:
 - https://code.claude.com/docs/en/settings
 - https://code.claude.com/docs/en/plugins
 - https://code.claude.com/docs/en/plugin-marketplaces
+
+## Модели назначения: проверено 2026-10-28
+
+Мигратор использует `gpt-6.1-sol` для семейств Opus/Sonnet и
+`gpt-6-luna` для Haiku. Это локальная эвристика переноса, а не доказательство
+равенства качества моделей. Явные ID OpenAI не заменяются.
+Настройки `CODEX_MIGRATION_OPUS_MODEL`, `CODEX_MIGRATION_SONNET_MODEL` и
+`CODEX_MIGRATION_HAIKU_MODEL` переопределяют назначения до запуска процесса.
+Проверь доступность выбранной модели в целевой среде и повтори сценарии задачи.
+Существующее преобразование effort сохранено; уровни разных провайдеров
+не гарантируют одинаковые качество и стоимость.
+
+Для вызова инструментов GPT-6.1 Sol используй Responses API.
+Источники: [GPT-6.1 Sol](https://developers.openai.com/api/docs/models/gpt-6.1-sol),
+[GPT-6 Luna](https://developers.openai.com/api/docs/models/gpt-6-luna).
+Дата выше относится только к моделям; прочие таблицы требуют отдельной проверки.

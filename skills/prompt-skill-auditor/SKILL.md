@@ -4,6 +4,7 @@ description: Audit prompts, AGENTS.md files, system instructions, and Codex skil
 metadata:
   short-description: Audit and modernize prompts, instructions, and skills
 ---
+
 # Prompt and Skill Auditor
 
 ## Purpose

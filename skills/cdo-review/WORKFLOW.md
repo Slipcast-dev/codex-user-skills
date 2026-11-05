@@ -55,13 +55,13 @@ The decision-driven CDO pressure-tests any plan that touches data strategy. Six 
 
 ```bash
 # 1. AI training audit (if any ML / AI use case)
-python ${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/chief-data-officer-advisor/scripts/ai_training_data_audit.py sources.json
+python3 "/Users/Aleksandr/.codex/skills/chief-data-officer-advisor/scripts/ai_training_data_audit.py" sources.json
 
 # 2. Architecture decision (if changing the stack)
-python ${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/chief-data-officer-advisor/scripts/data_product_strategy_picker.py profile.json
+python3 "/Users/Aleksandr/.codex/skills/chief-data-officer-advisor/scripts/data_product_strategy_picker.py" profile.json
 
 # 3. Data asset valuation (if productizing or pre-M&A)
-python ${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/chief-data-officer-advisor/scripts/data_asset_valuator.py corpus.json
+python3 "/Users/Aleksandr/.codex/skills/chief-data-officer-advisor/scripts/data_asset_valuator.py" corpus.json
 ```
 
 ## Output Format
@@ -113,8 +113,8 @@ python ${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/chief-data-officer-advisor/s
 ## Related
 
 - Agent: [`cs-cdo-advisor`](../../skill-resources/local-import-2026-10-28/claude-skills-main/c-level-agents/agents/cs-cdo-advisor.md)
-- Skill: [`chief-data-officer-advisor`](${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/chief-data-officer-advisor/SKILL.md)
-- Adjacent: `${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/general-counsel-advisor/` (contractual constraints), `${CLAUDE_PLUGIN_ROOT}/vendor/c-level-advisor/cto-advisor/` (architecture capacity)
+- Skill: [`chief-data-officer-advisor`](../chief-data-officer-advisor/SKILL.md)
+- Adjacent: `../general-counsel-advisor/` (contractual constraints), `../cto-advisor/` (architecture capacity)
 
 ---
 

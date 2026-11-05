@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Design the approval policy for a proactive agent across every connected app: for each kind of action, whether it may act alone, must ask first, or must never do it, with money limits, recipient rules and an audit line. Use when asked what my agent should be allowed to do on its own, set approval rules for Duet, which actions need my yes, design an approval policy for my AI agent, or set spending or sending limits for an agent. Produces a per-app action table (act, ask, never), the thresholds, the default for anything unlisted, and the one-line rule to paste into the agent's instructions.

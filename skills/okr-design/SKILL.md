@@ -1,7 +1,8 @@
 ---
 name: "okr-design"
-description: "OKR design as actually shipped, not as conference-talk theory. Outcome statements that drive decisions, key results that measure the right thing, scoring discipline, mid-quarter recalibration, and the difference between sandbagged OKRs (always 100%) and aspirational OKRs (always 30%) and stretch OKRs (genuine ambition with quarterly accountability)."
+description: "OKR design as actually shipped, not as conference-talk theory. Outcome statements that drive decisions, key results that measure the right thing, scoring discipline, mid-quarter recalibration, and the difference between sandbagged OKRs (always 100%) and aspirational OKRs (always 30%) and stretch OKRs (genuine ambition with quarterly accountability). Triggers on OKR design, OKR setting, key result design, OKR scoring, mid-quarter recalibration, OKR cascading, outcomes vs outputs, quarterly planning, goal setting. Also triggers when a team's OKRs are always hit and producing no learning, when OKRs are demoralizing because they were set as fantasy, or when the team uses OKR vocabulary but the practice has decayed."
 ---
+
 # OKR Design
 
 A senior product leader's playbook for OKR design as actually shipped, not as conference-talk theory. Outcome statements that drive decisions, key results that measure the right thing, scoring discipline, mid-quarter recalibration, and the practical disciplines that distinguish OKRs from quarterly to-do lists or impossible-fantasy goal-setting.
@@ -69,6 +70,3 @@ Before applying a method below, read its linked section. For a narrow task selec
 - Common failure modes: [method](references/domain-guide.md#common-failure-modes).
 - The framework: 12 considerations for OKR design: [method](references/domain-guide.md#the-framework-12-considerations-for-okr-design).
 - Closing: OKRs are accountability infrastructure: [method](references/domain-guide.md#closing-okrs-are-accountability-infrastructure).
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

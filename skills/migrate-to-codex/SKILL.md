@@ -2,6 +2,7 @@
 name: migrate-to-codex
 description: Migrate supported instruction files, skills, agents, and MCP config into Codex project and global files.
 ---
+
 # Migrate to Codex
 
 ## Autonomy

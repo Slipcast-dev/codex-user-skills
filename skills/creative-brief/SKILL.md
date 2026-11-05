@@ -1,7 +1,8 @@
 ---
 name: "creative-brief"
-description: "Create or refine a creative brief that bridges discovery and execution."
+description: "Create or refine a creative brief that bridges discovery and execution. Use this skill whenever the user is starting a new project, kicking off a website, beginning a brand build or redesign, briefing a designer or developer or AI agent, or trying to align a team before building. Triggers on creative brief, design brief, brand brief, project kickoff, kicking off, briefing the team, project intake, design direction, brief the designer, brief the dev, where do we start, how do we start, write a brief, project overview, scope this project, align on direction. Also triggers when the user has a vague idea and needs to make it concrete enough to hand off, even if they do not say 'brief' explicitly."
 ---
+
 # Creative Brief
 
 Bridges discovery and execution. Translates "we want a website" into a brief a designer, developer, or AI agent can actually run with.
@@ -153,6 +154,3 @@ If the project is large, split: keep the main brief under 1500 words and put det
 
 Read the template before drafting. Read the voice guide if the user has not already specified a voice. Read the example if you are unsure how filled-out a section should be.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

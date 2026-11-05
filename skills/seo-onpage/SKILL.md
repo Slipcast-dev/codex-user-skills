@@ -1,7 +1,8 @@
 ---
 name: "seo-onpage"
-description: "Run a comprehensive on-page SEO audit or optimization pass covering title tags, meta descriptions, header structure, content quality, internal links, image optimization, URL hygiene, and on-page schema."
+description: "Run a comprehensive on-page SEO audit or optimization pass covering title tags, meta descriptions, header structure, content quality, internal links, image optimization, URL hygiene, and on-page schema. Use this skill whenever the user asks to optimize a page, audit on-page SEO, fix titles or meta tags, review header structure, check internal linking, improve a single URL's search performance, or write SEO-friendly copy. Triggers on on-page SEO, page audit, title tag, meta description, H1, header structure, internal links, image alt, URL slug, page optimization, optimize this page, SEO this page. Also triggers for any single-page review where ranking, click-through, or relevance signal quality is the goal, even if the user does not say 'SEO' explicitly."
 ---
+
 # On-Page SEO
 
 Optimize a single page for search relevance, click-through, and crawler comprehension. Stack-agnostic. Works on any CMS, framework, or static site.
@@ -145,6 +146,3 @@ Keep audits under 1500 words. If a page needs more detail, link to deeper append
 - [`references/onpage-checklist.md`](references/onpage-checklist.md) - Quick-reference checklist for the 8 dimensions.
 - [`references/title-and-meta-patterns.md`](references/title-and-meta-patterns.md) - Patterns for writing strong titles and meta descriptions.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

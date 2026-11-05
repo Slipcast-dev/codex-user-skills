@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Set criteria-based return-to-activity milestones so the decision rests on what the patient can demonstrate rather than on how long it has been — the test battery, the thresholds, the graded reintroduction, and the honest conversation about residual risk. Use when asked to plan a return to sport or work, set return-to-play criteria, decide whether someone is ready to return, or handle pressure to clear someone early. Produces the criteria by stage, the test battery with thresholds, the graded exposure plan, the residual-risk discussion, and the decision record. The clearance decision is the treating clinician's, made with the patient and the relevant medical team.

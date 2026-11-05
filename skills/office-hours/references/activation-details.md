@@ -1,3 +1,0 @@
-# Полные условия применения
-
-/c-level-agents:office-hours [topic] — YC-style 6-question founder interrogation before any advice. Forces clarity on problem, customer, distribution, defensibility, capital, and founder fit. Use when a founder question is too vague to route — e.g. 'should we grow faster?' — or before drafting a strategy brief.

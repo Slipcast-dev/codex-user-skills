@@ -1,7 +1,8 @@
 ---
 name: "backup-and-disaster-recovery"
-description: "Plan and run backups, set recovery objectives, and run disaster recovery drills."
+description: "Plan and run backups, set recovery objectives, and run disaster recovery drills. Use this skill when defining RPO/RTO targets, designing backup architecture, deciding what to back up and how often, planning for full-region or platform outages, or running a restoration drill. Triggers on backup, restore, RPO, RTO, disaster recovery, DR, business continuity, what if the database is gone, what if our hosting goes down, recovery drill, ransomware planning. Also triggers when an incident reveals a gap in restoration capability."
 ---
+
 # Backup and Disaster Recovery
 
 Plan for the worst case: the database is gone, the host is down for a week, the deploy was poisoned, ransomware encrypted everything. The skill is in advance preparation, not reaction.
@@ -263,6 +264,3 @@ A DR plan document includes:
 
 - [`references/restore-runbook-template.md`](references/restore-runbook-template.md): Fillable template for a restore runbook, covering detection, authorization, steps, verification, and rollback.
 
-
-
-При неоднозначном выборе прочитай [полные условия применения](references/activation-details.md).

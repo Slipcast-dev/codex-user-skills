@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Understand power of attorney — which type you need, what it covers, and how to set one up properly — so the right person can act for you or a loved one when needed. Use when asked what is power of attorney, do I need a POA, help me set up power of attorney for a parent, or which type of POA. Produces a plain-English explainer of the main POA types (financial vs health, durable, springing), a which-do-you-need read for the situation, the setup steps and safeguards against abuse, and a strong flag to use proper legal forms/advice for your jurisdiction. Not legal advice.

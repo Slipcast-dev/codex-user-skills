@@ -1,3 +1,0 @@
-# Полные условия применения
-
-Set a boundary with in-laws or extended family kindly and clearly — the words to say, a united-front approach with your partner, and a plan for the pushback. Use when asked how to set a boundary with my in-laws, my mother-in-law keeps [X], deal with overbearing family, or what to say to my partner's family. Produces a read on the actual issue, a warm-but-firm script for the specific situation, a partner-alignment plan (the couple presents together), how to hold the line when they push back, and de-escalation so it protects the relationships rather than blowing them up.
